@@ -1,0 +1,133 @@
+/*
+
+.site-header .site-header__logo__container .site-header__small-logo {
+    background: url("../images/logo.png") no-repeat right !important;
+}
+*/
+
+/* Added from Bristol Styles */
+.pattern__block {
+    margin-bottom: 20px;
+}
+
+.palette {
+    margin-bottom: 40px;
+}
+
+ul.nav.nav--pagination {
+    margin-left: 0;
+}
+
+.swatch {
+    display: block;
+    float: left;
+    width: 100%;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-left: 90px;
+    min-height: 70px;
+}
+
+.swatch__copy p	{
+	font-size: 1.0rem
+}
+
+.swatch .swatch__title {
+    font-size: 19px;
+    line-height: 26px;
+}
+
+.swatch .swatch__title em {
+    font-family: courier;
+    font-style: normal;
+    color: #372a31;
+    margin: 5px;
+}
+
+.editor em {
+    font-family: courier;
+    font-size: .9em;
+    font-style: normal;
+    color: #372a31;
+    background-color: #ece7e6;
+    margin: 5px;
+}
+
+.swatch:before {
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    float: left;
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+}
+
+.swatch--occ-blue:before {
+    background-color: #034695;
+}
+
+.swatch--page-heading:before {
+    background-color: #015545;
+}
+
+.swatch--navigation:before {
+    background-color: #1474c0;
+}
+
+.swatch--occ-link:before {
+    background-color: #b44c03;
+}
+
+.swatch--error:before {
+    background-color: #b33e3e;
+}
+
+.swatch--h2:before {
+    background-color: #007483;
+}
+
+.swatch--block:before {
+    background-color: #ece7e6;
+}
+
+.swatch--related:before {
+    background-color: #2176bd;
+}
+
+.swatch--button:before {
+    background-color: #097582;
+}
+
+.swatch--suppl:before {
+    background-color: #f3f5f5;
+}
+
+.swatch--bbord:before {
+	background-color: #07606a;
+}
+
+.swatch--dark-grey:before {
+	background-color: #372a31;
+}
+
+/* Boxed heading used on Digital Strategy theme pages */
+.subtitle   {
+    font-size: 1.5rem;
+    color: #015545;
+    padding: 10px;
+    margin-bottom: 40px;
+    margin-top: -20px;
+    border-color: #015545;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+/* changes to list syle for contacts supplement used on strategy theme pages */
+
+.supplement--contact ul li  {
+    list-style: none;
+}
