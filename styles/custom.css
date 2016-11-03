@@ -131,3 +131,12 @@ ul.nav.nav--pagination {
 .supplement--contact ul li  {
     list-style: none;
 }
+
+/* Colouring Font Awesome icons */
+.fa-check-circle:before {
+    color: green;
+}
+
+.fa-check-circle:before {
+    color: red;
+}
