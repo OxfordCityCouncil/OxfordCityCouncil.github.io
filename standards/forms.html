@@ -6,38 +6,46 @@ title: Forms
 <p>We aim to ensure that our customers can complete any online transaction the first time unaided. It is important that any online forms are high quality, accessible, easy to use and built around customer needs</p>
 <p>This document outlines the design standards and design patterns to use when designing a new form or assessing an existing form.</p>
 <h2>Form structure</h2>
-<li>Know why you're asking every question (why does the service need that information, who uses it and what for, how will you check the information is accurate, how will you keep it up to date)</li>
-<li>Design for the most common scenarios first (order of questions, most users should have a simple, quick path, use branching to hide questions)</li>
-<li>Start with one thing per page (one piece of information, one decision to make, one question to answer)</li> 
+<ul>
+    <li>Know why you're asking every question (why does the service need that information, who uses it and what for, how will you check the information is accurate, how will you keep it up to date)</li>
+    <li>Design for the most common scenarios first (order of questions, most users should have a simple, quick path, use branching to hide questions)</li>
+    <li>Start with one thing per page (one piece of information, one decision to make, one question to answer)</li>
+</ul>
 <p>See https://www.gov.uk/service-manual/user-centred-design/resources/patterns/form-structure.html</p>
 <h2>Design patterns</h2>
 <p>Use GDS recommended design patterns for commonly occurring data such as name, dates, addresses etc</li>
-<li>Form questions - Names, Dates, Addresses, NI numbers, Email addresses, Gender and sex, Help text)
-<li>Account management – Usernames, Create a user account, Create a username, Create a password, Email confirmation loops, Knowledge-based authentication, Transaction flow</li>
-<li>Progress indicators - Start pages, Check your answers pages, Confirmation pages, Feedback pages</li>
+<ul>
+    <li>Form questions - Names, Dates, Addresses, NI numbers, Email addresses, Gender and sex, Help text)
+    <li>Account management – Usernames, Create a user account, Create a username, Create a password, Email confirmation loops, Knowledge-based authentication, Transaction flow</li>
+    <li>Progress indicators - Start pages, Check your answers pages, Confirmation pages, Feedback pages</li>
+</ul>
 <p>See https://www.gov.uk/service-manual/user-centred-design/resources/patterns</p>
 <h2>Form elements</h2>
 <p>Keep forms as simple as possible. Follow GDS form elements advice when using the following form elements;</p>
-<li>Optional and mandatory fields</li>
-<li>Labels</li>
-<li>Form fields</li>
-<li>Form focus states</li>
-<li>Hint text</li>
-<li>Spacing</li>
-<li>File upload</li>
-<li>Fieldsets</li>
-<li>Select boxes</li>
-<li>Radio buttons</li>
-<li>Checkboxes</li>
-<li>Conditionally revealing content</li>
+<ul>
+    <li>Optional and mandatory fields</li>
+    <li>Labels</li>
+    <li>Form fields</li>
+    <li>Form focus states</li>
+    <li>Hint text</li>
+    <li>Spacing</li>
+    <li>File upload</li>
+    <li>Fieldsets</li>
+    <li>Select boxes</li>
+    <li>Radio buttons</li>
+    <li>Checkboxes</li>
+    <li>Conditionally revealing content</li>
+<ul>
 <p>See http://govuk-elements.herokuapp.com/form-elements</p>
 <h2>Design using the Local Government Digital Service Standard</h2>
-<li>Use the Local Government Digital Service Standard as a method of working</li>
-<li>Check design against the 15 points of the standard</li>
-<li>Use framework to help assess compliance of the design</li>
-<li>Ensure the user is at the heart of the design</li>
-<li>Incorporate feedback</li>
-<li>Make use of good practice and ideas</li>
+<ul>
+    <li>Use the Local Government Digital Service Standard as a method of working</li>
+    <li>Check design against the 15 points of the standard</li>
+    <li>Use framework to help assess compliance of the design</li>
+    <li>Ensure the user is at the heart of the design</li>
+    <li>Incorporate feedback</li>
+    <li>Make use of good practice and ideas</li>
+</ul>
 <p>See http://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard</p>
 <h2>Best practice as identified by Mando</h2>
 <p>In 2014 we asked <a href="http://www.mando.agency">Mando</a> to help us improve our online forms. They tested each one and also undertook user testing on a representative sample. The outcomes of this were captured in a guidance document to assist us and developers that work with us to create great digital services.</p>
@@ -47,61 +55,79 @@ title: Forms
 
 <p>Use best practice identified by Mando in their Web Forms Redesign Guidance Document where it does not contradict GDS advice.</p>
 <h3>Remove form distractions</h3>
-<li>Remove unnecessary navigation and text</li>
-<li>Keep the form simple and clutter free</li>
+<ul>
+    <li>Remove unnecessary navigation and text</li>
+    <li>Keep the form simple and clutter free</li>
+</ul>
 <h3>Validation</h3>
-<li>Implement server-side and client-side validation. Consider using script to track user input so it can be validated as they type so the user gets immediate feedback</li>
-<li>Provide validation error messages for information that is incorrect or blank using colour, usually red, and visual aid iconography such as an “x” or warning sign beside where the error occurred</li>
-<li>Provide validation success messages to alert the user to correctly completed input providing instant feedback and validation. Emphasize success messages through colour, usually green, and visual aid iconography such as a tick</li>
+<ul>
+    <li>Implement server-side and client-side validation. Consider using script to track user input so it can be validated as they type so the user gets immediate feedback</li>
+    <li>Provide validation error messages for information that is incorrect or blank using colour, usually red, and visual aid iconography such as an “x” or warning sign beside where the error occurred</li>
+    <li>Provide validation success messages to alert the user to correctly completed input providing instant feedback and validation. Emphasize success messages through colour, usually green, and visual aid iconography such as a tick</li>
+</ul>
 <h3>Unnecessary data capture</h3>
-<li>Keep questions within the scope of the form</li>
-<li>Only ask for information that is absolutely necessary</li>
-<li>Avoid excessive steps</li>
-<li>Reduce field lengths and group information logically</li>
-<li>Group related information such as personal details to help the flow of questions</li>
+<ul>
+    <li>Keep questions within the scope of the form</li>
+    <li>Only ask for information that is absolutely necessary</li>
+    <li>Avoid excessive steps</li>
+    <li>Reduce field lengths and group information logically</li>
+    <li>Group related information such as personal details to help the flow of questions</li>
+</ul>
 <h3>Field labelling</h3>
-<li>If the purpose of a label is simple, such as name or email address, then a word or two will be fine. However a phrase or sentence might be necessary to eliminate ambiguity on some of the more complex fields</li>
-<li>Order the labels logically, reflecting the natural flow of a conversation</li>
-<li>Ask personal questions towards the end</li>
-<li>Sentence case is easier to read than title case and never use full uppercase</li>
-
+<ul>
+    <li>If the purpose of a label is simple, such as name or email address, then a word or two will be fine. However a phrase or sentence might be necessary to eliminate ambiguity on some of the more complex fields</li>
+    <li>Order the labels logically, reflecting the natural flow of a conversation</li>
+    <li>Ask personal questions towards the end</li>
+    <li>Sentence case is easier to read than title case and never use full uppercase</li>
+</ul>
 <h3>Unnecessary copy on forms</h3>
-
-<li>Choose appropriate language for the forms</li>
-<li>Remove superfluous text</li>
-<li>Instructions and text on pages should be kept to a minimum making it succinct and easy to read</li>
+<ul>
+    <li>Choose appropriate language for the forms</li>
+    <li>Remove superfluous text</li>
+    <li>Instructions and text on pages should be kept to a minimum making it succinct and easy to read</li>
+</ul>
 <h3>Map location selector</h3>
-
-<li>It should be clear and obvious for the user to add a postcode as a starting point for the map selection. If the user does not know the postcode then they should be able to clearly locate the area on the map by a pin</li>
-<li>If the user is entering the postcode then a pin should automatically feature on the map in this location which the user can adjust. Should the user need to drag the pin then instructions and pin should be clearly visible to aid the user</li>
+<ul>
+    <li>It should be clear and obvious for the user to add a postcode as a starting point for the map selection. If the user does not know the postcode then they should be able to clearly locate the area on the map by a pin</li>
+    <li>If the user is entering the postcode then a pin should automatically feature on the map in this location which the user can adjust. Should the user need to drag the pin then instructions and pin should be clearly visible to aid the user</li>
+</ul>
 <h3>Postcode Finder</h3>
-
-<li>Postcode look-up should accept entries with and without spaces</li>
-<li>Address fields should be auto hidden to reduce the amount of fields shown to the user unnecessarily. There should also be a link directly next to, or under, the 'find my address' button called ‘enter address manually’. Clicking this should display the necessary fields</li>
-<li>Once users have entered their postcode and chosen their address, the form fields should be auto populated to confirm their chosen address</li>
+<ul>
+    <li>Postcode look-up should accept entries with and without spaces</li>
+    <li>Address fields should be auto hidden to reduce the amount of fields shown to the user unnecessarily. There should also be a link directly next to, or under, the 'find my address' button called ‘enter address manually’. Clicking this should display the necessary fields</li>
+    <li>Once users have entered their postcode and chosen their address, the form fields should be auto populated to confirm their chosen address</li>
+</ul>
 <h3>Date picker</h3>
-
-<li>A date picker should be implemented with caution, and tested well, on a mobile site</li>
-<li>Recommendation that the date picker is removed for mobile and replaced by a simple text entry field, featuring a format hint such as dd/mm/yyyy</li>
-<li>For the desktop, a format hint should be applied to the label and excessive date selections should be removed</li>
+<ul>
+    <li>A date picker should be implemented with caution, and tested well, on a mobile site</li>
+    <li>Recommendation that the date picker is removed for mobile and replaced by a simple text entry field, featuring a format hint such as dd/mm/yyyy</li>
+    <li>For the desktop, a format hint should be applied to the label and excessive date selections should be removed</li>
+</ul>
 <h3>Contextual help</h3>
-<li>Use a help icon next to an input field that the user can click on (when necessary) to request help or further information</li>
-<li>Make it succinct and easy to read</li>
-<li>Make sure that a user can tab through these help icons to aid accessibility and screen readers</li>
+<ul>
+    <li>Use a help icon next to an input field that the user can click on (when necessary) to request help or further information</li>
+    <li>Make it succinct and easy to read</li>
+    <li>Make sure that a user can tab through these help icons to aid accessibility and screen readers</li>
+</ul>
 <h3>Incorrect use of form fields</h3>
-<li>Provide the appropriate type of input field based on what is being requested. Each type of input field has its own characteristics, which users are accustomed to. For instance, use radio buttons if only one option of several is permitted, and check boxes if multiple choices are allowed</li>
-<li>Important address capture should not be provided by free text entry but aided by postcode look up solutions</li>
+<ul>
+    <li>Provide the appropriate type of input field based on what is being requested. Each type of input field has its own characteristics, which users are accustomed to. For instance, use radio buttons if only one option of several is permitted, and check boxes if multiple choices are allowed</li>
+    <li>Important address capture should not be provided by free text entry but aided by postcode look up solutions</li>
+</ul>
 <h2>Design techniques</h2>
 <p>Look at:</p>
-<li>Designing using wireframes – you can use software packages to help with this</li>
-<li>Develop prototypes before building</li>
-<li>Do user testing on the public </li>
-<li>Act on customer feedback to make improvements</li>
+<ul>
+    <li>Designing using wireframes – you can use software packages to help with this</li>
+    <li>Develop prototypes before building</li>
+    <li>Do user testing on the public </li>
+    <li>Act on customer feedback to make improvements</li>
+</ul>
 <h2>Monitor, iterate and improve</h2>
-<li>Test a range of performance improvement initiatives and monitor to see which work well</li>
-<li>Implement the best performing solutions widely and then repeat this process relentlessly</li>
-<li>Monitor and act upon user feedback</li>
-<li>Carry out A/B testing</li>
-<li>Use an iterative approach to increase the pace of improvement and minimise the risk of failure</li>
-
+<ul>
+    <li>Test a range of performance improvement initiatives and monitor to see which work well</li>
+    <li>Implement the best performing solutions widely and then repeat this process relentlessly</li>
+    <li>Monitor and act upon user feedback</li>
+    <li>Carry out A/B testing</li>
+    <li>Use an iterative approach to increase the pace of improvement and minimise the risk of failure</li>
+</ul>
 <p>If you're unsure, check with the Digital Development Team for advice.</p>
