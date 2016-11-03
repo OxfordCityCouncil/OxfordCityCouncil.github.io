@@ -137,6 +137,6 @@ ul.nav.nav--pagination {
     color: green;
 }
 
-.fa-check-circle:before {
+.fa-times-circle:before {
     color: red;
 }
