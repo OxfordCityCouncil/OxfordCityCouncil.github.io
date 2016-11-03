@@ -134,9 +134,13 @@ ul.nav.nav--pagination {
 
 /* Colouring Font Awesome icons */
 .fa-check-circle:before {
-    color: green;
+    color: #097582;
 }
 
 .fa-times-circle:before {
-    color: red;
+    color: #b33e3e;
+}
+
+.fa-info-circle:before {
+    color: #034695;
 }
