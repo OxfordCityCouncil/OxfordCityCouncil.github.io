@@ -146,9 +146,11 @@ ul.nav.nav--pagination {
 }
 
 /* using font awesome icons as list icons */
+ul.fa-ul li {
+    list-style-image: none;
+}
 
 ul.fa-ul li i.fa-li{
     top: .6em;
     left: -1.6em;
-    list-style-image: none;
 }
