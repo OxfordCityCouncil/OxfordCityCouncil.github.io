@@ -155,3 +155,14 @@ ul.fa-ul li i.fa-li{
     left: -1.6em;
     color: #b44c03;
 }
+
+/* creating style for facts box */
+.facts  {
+    background-color: #f3f5f5;
+    padding: 20px
+}
+
+.facts h2   {
+    font-size: 1.7em;
+    margin-left: 25px;
+}
