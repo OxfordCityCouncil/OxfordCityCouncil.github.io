@@ -144,3 +144,11 @@ ul.nav.nav--pagination {
 .fa-info-circle:before {
     color: #034695;
 }
+
+/* using font awesome icons as list icons */
+
+ul.fa-ul .fa-li {
+    top: .5em;
+    left: -1.6em;
+    list-style-image: none;
+}
