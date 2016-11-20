@@ -96,16 +96,16 @@
 
         <main class="site-main fade-in two" role="main" id="content" tabindex="-1">
             <div class="site-main__page-heading">
-                <h1 class="container page-heading">One Column Layout</h1>
+                <h1 class="container page-heading">{{ page.title }}</h1>
             </div>
             <div class="container">
                 <div class="site-content">
                     <article>
-                    <div class="editor">
+                        <div class="editor">
 
-                          {{ content }}
+                              {{ content }}
 
-                    </div>
+                        </div>
                     </article>
                 </div>
             </div>
@@ -130,12 +130,12 @@
                         <li><a href="https://www.oxford.gov.uk/site_map">Site Map</a></li>
                     </ul>
                     <p class="site-footer__rights">Copyright &copy; 2016 Oxford City Council, Town Hall, St Aldate's, Oxford, OX1 1BX</p>
-                    <p class="site-footer__rights site-footer__rights--smaller">Handcrafted by <a href=" http://www.spacecraft.co.uk">Spacecraft</a>. Powered by <a href="http://www.jadu.net">Jadu Continuum</a>.</p>
+                    <p class="site-footer__rights site-footer__rights--smaller">Handcrafted by <a href=" http://www.spacecraft.co.uk">Spacecraft</a> and the <a href="mailto:digitaldevelopmentteam@oxford.gov.uk">Digital Development Team</a></p> Continuum</a>.</p>
                 </div>
             </div>
         </footer>
-        <script src="js/jquery.min.js"></script>
-        <script src="js/orbit.js"></script>
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/orbit.js"></script>
         <!--[if lte IE 9]>
 			<script src="js/ie8.js"></script>
 		<![endif]-->
