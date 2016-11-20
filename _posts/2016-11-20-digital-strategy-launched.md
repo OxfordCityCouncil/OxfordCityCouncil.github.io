@@ -20,8 +20,8 @@ Our Strategy is formed around five principles
 
 Having helped shape it, one of the key objectives of the Digital Development Team is to now help deliver it.
 
-We've chosen to publish the Strategy online rather than as a downloadable document to keep true to the idea of making a shift to all things digital. Also, our Action Plan has been drawn up using Trello, and will be updated with progress as we go to be more transparent.
+We've chosen to publish the Strategy online rather than as a downloadable document to keep true to the idea of making a shift to all things digital. Also, our [Action Plan](https://oxfordcitycouncil.github.io/strategy/action-plan.html) has been published on [Trello](https://trello.com), and will be updated with our progress as we go to be more transparent.
 
-Finally, this site has been created and published on GitHub as another move towards greater use of open web tools.
+Finally, this site has been created and published on [GitHub](https://github.com/OxfordCityCouncil) as another move towards greater use of open web tools.
 
 In common with many other digital teams across the country we'll be blogging about our progress and letting you know about new initiatives we're taking to help improve all things digital in Oxford.
