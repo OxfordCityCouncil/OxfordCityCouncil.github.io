@@ -33,7 +33,7 @@
         <!--[if lt IE 9]>
         <script src="js/ie9-index.js"></script>
         <![endif]-->
-        <title>Digital Development Blog | Oxford City Council</title>
+        <title>Digital Development | Oxford City Council</title>
     </head>
     <body>
 
@@ -47,16 +47,6 @@
                     </a>
                 </div>
 
-                <div class="site-header__search">
-                    <form class="site-search form" action="https://www.oxford.gov.uk/site/scripts/google_results.php" method="get">
-                        <div class="form__control">
-                            <label class="form__label" for="search-site">Search this site</label>
-                            <input class="form__field" type="search" size="18" maxlength="40" name="q" placeholder="Keyword search" id="search-site">
-                            <button class="button button--primary search" type="submit" value="Search"><span class="visuallyhidden">Search</span></button>
-                        </div>
-                    </form>
-                </div>
-
                 <div class="site-header__logo__container">
                     <div class="site-header__small-logo">
                         <span class="visuallyhidden">Oxford City Council</span>
@@ -64,6 +54,15 @@
                 </div>
             </div>
 
+            <div class="site-header__mobile__search">
+                <form class="site-search form" action="https://www.oxford.gov.uk/site/scripts/google_results.php" method="get">
+                    <div class="form__control">
+                        <label class="form__label" for="search-site-mobile">Search this site</label>
+                        <input class="form__field" type="search" size="18" maxlength="40" name="q" placeholder="Keyword search" id="search-site-mobile">
+                        <button class="button button--primary search" type="submit" value="Search"><span class="visuallyhidden">Search</span></button>
+                    </div>
+                </form>
+            </div>
         </header>
 
         <nav class="nav nav--breadcrumb fade-in two">
@@ -74,9 +73,6 @@
                 </li>
                 <li>
                 <a href="https://oxfordcitycouncil.github.io/index.html" rel="home">Digital Development</a>
-                </li>
-                <li>
-                    <a href="https://oxfordcitycouncil.github.io/blog/index.html">Blog</a>
                 </li>
                 <li>
                     <span>{{ page.title }}</span>
