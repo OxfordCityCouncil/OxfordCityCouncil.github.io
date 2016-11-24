@@ -36,9 +36,10 @@ Making our digital services so good, convenient and easy to use that people make
 
 <style>
 button.accordion {
-    background-color: #fff;
-    font-size: 1.75em;
-    color: #b44c03;
+    background-color: #f3f5f5;
+    font-size: 1.7em;
+    color: #007483;
+    font-weight: 500
     cursor: pointer;
     padding: 10px;
     width: 100%;
@@ -49,7 +50,7 @@ button.accordion {
 }
 
 button.accordion.active, button.accordion:hover {
-    background-color: #ece7e6;
+    background-color: #f3f5f5;
 }
 
 button.accordion:after {
@@ -75,14 +76,13 @@ div.panel {
 div.panel.show {
     opacity: 1;
     max-height: 500px;
-    background-color: #ece7e6;
+    background-color: #f3f5f5;
 }
 </style>
 
 <button class="accordion">Key Facts</button>
 <div class="panel">
     <div class="facts">
-        <h2>Key Facts</h2>
         <ul class="fa-ul">
             <li><i class="fa-li fa fa-search" aria-hidden="true"></i>Over  120,000 visits are made to our website each month, with over half a million page views</li>
             <li><i class="fa-li fa fa-mobile" aria-hidden="true"></i>Mobile device users make up over 50% of our online visitors</li>
@@ -92,7 +92,7 @@ div.panel.show {
             <li><i class="fa-li fa fa-pie-chart" aria-hidden="true"></i>Completion rates for our online forms are around 40%</li>
             <li><i class="fa-li fa fa-line-chart" aria-hidden="true"></i>In 2015/16, 26.3% of all transactions with the Council were made online. By Sept 2016 this had increased to 31%</li>
         </ul>
-    </div>
+    </div> 
 </div>
 
 <script>
@@ -106,18 +106,3 @@ for (i = 0; i < acc.length; i++) {
   }
 }
 </script>
-
-
-
-<p></p>
-<div class="facts">
-    <ul class="fa-ul">
-        <li><i class="fa-li fa fa-search" aria-hidden="true"></i>Over  120,000 visits are made to our website each month, with over half a million page views</li>
-        <li><i class="fa-li fa fa-mobile" aria-hidden="true"></i>Mobile device users make up over 50% of our online visitors</li>
-        <li><i class="fa-li fa fa-shopping-cart" aria-hidden="true"></i>Over 102,000 online transactions are made each year by our customers</li>
-        <li><i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>184 online services are available through our website, including 165 online forms</li>
-        <li><i class="fa-li fa fa-files-o" aria-hidden="true"></i>76% of our online form submissions come from just 18 forms</li>
-        <li><i class="fa-li fa fa-pie-chart" aria-hidden="true"></i>Completion rates for our online forms are around 40%</li>
-        <li><i class="fa-li fa fa-line-chart" aria-hidden="true"></i>In 2015/16, 26.3% of all transactions with the Council were made online. By Sept 2016 this had increased to 31%</li>
-    </ul>
-</div>
