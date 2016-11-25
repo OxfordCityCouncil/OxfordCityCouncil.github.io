@@ -121,9 +121,8 @@ ul.nav.nav--pagination {
     padding: 10px;
     margin-bottom: 40px;
     margin-top: -20px;
-    border-color: #015545;
     border-radius: 10px;
-    border-style: solid;
+    background-color: #ece7e6;
 }
 
 /* changes to list syle for contacts supplement used on strategy theme pages */
