@@ -3,8 +3,6 @@ layout: post
 title: "Oxford and its role in LocalGov Digital"
 date: 2016-11-25
 ---
-<img src="../images/lgd_logo.png" alt="LocalGov Digital" style="float:right; width:400px; padding:10px; margin-bottom:10px">
-<div style="clear: right">
 
 ## What is LocalGov Digital?
 [LocalGov Digital]("http://localgovdigital.info") has been in existence since 2012 as a network of digital professionals working in the public sector. Its core ethos has been "Think. Share. Do" to describe the exchange of knowledge and spirit of collaboration it enshrines. Oxford has been a contributing member of the network since early 2016.
