@@ -25,24 +25,24 @@ As well as discussing the benefits of the Digital Service Standard, the Group ta
 
 Five ideas came out of the discussions that were put forward as potential initiatives for the Group (and for LocalGov Digital nationally) to look at:
 
-+ Developing a 'TripAdvisor' rating system of suppliers to give councils an easy way to assess how well they help or hinder compliance with the Service Standard
+* Developing a 'TripAdvisor' rating system of suppliers to give councils an easy way to assess how well they help or hinder compliance with the Service Standard
 
-+ Creating a set of shared assets for working to and promoting the Service Standard
+* Creating a set of shared assets for working to and promoting the Service Standard
 
-+ Creating a 'time bank' of digital skills, where one council can call on a number of others to help in an area it lacks skills (e.g. user research) on a reciprocal arrangement for donating their time/skills in an area they are stronger in
+* Creating a 'time bank' of digital skills, where one council can call on a number of others to help in an area it lacks skills (e.g. user research) on a reciprocal arrangement for donating their time/skills in an area they are stronger in
 
-+ Having Supplier Scrutiny days, where councils that share a common supplier can select decide on three areas of common need and present a united voice to the supplier with an aim to have those needs met
+* Having Supplier Scrutiny days, where councils that share a common supplier can select decide on three areas of common need and present a united voice to the supplier with an aim to have those needs met
 
-+ A LocalGov Digital 'marketplace' to crowd source the specification for a technology capability that can then be procured with more than one council in mind
+* A LocalGov Digital 'marketplace' to crowd source the specification for a technology capability that can then be procured with more than one council in mind
 
 Of these ideas, the Group voted for two to be taken forward: the time bank and the supplier scrutiny days. Oxford has agreed to lead on the first of the scrutiny days as it has a local requirement from its councillors to review its public planning interface, and also has a supplier common to a number of councils.
 
 In wrapping up the sessions the Group agreed to:
 
-+ Meet again in 3 months (West Berks have offered to host)
+* Meet again in 3 months (West Berks have offered to host)
 
-+ Work on a set of themed sessions for future events, and invite service colleagues to participate in these
+* Work on a set of themed sessions for future events, and invite service colleagues to participate in these
 
-+ Invite a small number of smaller suppliers to a future session to encourage them to work more closely with the Service Standard, and review afterwards if this should be continued.
+* Invite a small number of smaller suppliers to a future session to encourage them to work more closely with the Service Standard, and review afterwards if this should be continued.
 
-+ Set up a Slack channel for the Group to continue sharing thoughts and help plan for the next meeting
+* Set up a Slack channel for the Group to continue sharing thoughts and help plan for the next meeting
