@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oxford and its role in LocalGov Digital"
+title: "LocalGov Digital South Peer Group"
 date: 2016-11-25
 ---
 
@@ -11,12 +11,12 @@ This year has seen LocalGov Digital work together on creating a shared [Local Go
 
 Oxford City has adopted the Service Standard as part of its [Digital Strategy](https://oxfordcitycouncil.github.io/strategy/index.html), and our [Digital Design Standards](https://oxfordcitycouncil.github.io/standards/lgdss.html) also use this to alert potential suppliers to how we want to work with them in the future.
 
-## The Peer Groups
+## Peer Groups
 This year also saw the creation of a network of LocalGov Digital Peer Groups across the country for councils to get together in person and work out new ways to collaborate and support each other. Groups have so far been established in London, the Midlands and the South West.
 
 Oxford, along with Buckinghamshire County Council, was asked to take the lead in establishing a Peer Group for the South, covering 34 councils in Oxfordshire, Wiltshire, Buckinghamshire, Berkshire and Hampshire as well as neighbouring unitaries.
 
-## South Peer Group - initial meeting
+## South Peer Group initial meeting
 The first meeting of the South Peer Group took place on 25 November 2016. [View the Flickr photoset to see more](https://www.flickr.com/photos/neillawrencephotography/sets/72157676960979586/).
 
 The event kicked off with an introduction from Councillor John Chilver, Cabinet Member for Finance, who outlined the importance of the Service Standard in Buckinghamshire in delivering value for money and highlighted its focus on user need.
