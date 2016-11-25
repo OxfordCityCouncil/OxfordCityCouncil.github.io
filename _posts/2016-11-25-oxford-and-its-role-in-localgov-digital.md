@@ -5,11 +5,11 @@ date: 2016-11-25
 ---
 
 ## What is LocalGov Digital?
-[LocalGov Digital]("http://localgovdigital.info") has been in existence since 2012 as a network of digital professionals working in the public sector. Its core ethos has been "Think. Share. Do" to describe the exchange of knowledge and spirit of collaboration it enshrines. Oxford has been a contributing member of the network since early 2016.
+[LocalGov Digital](http://localgovdigital.info) has been in existence since 2012 as a network of digital professionals working in the public sector. Its core ethos has been "Think. Share. Do" to describe the exchange of knowledge and spirit of collaboration it enshrines. Oxford has been a contributing member of the network since early 2016.
 
-This year has seen LocalGov Digital work together on creating a shared [Local Government Digital Service Standard]("http://localgovdigital.info/digital-service-standard/") as a means to guide the development of digital services for the public, based largely on the success and learning of the Government Digital Service. Not only has this galvanised the network, it is also leading to interest from suppliers keen to work alongside local government on its digital transformation journey.
+This year has seen LocalGov Digital work together on creating a shared [Local Government Digital Service Standard](http://localgovdigital.info/digital-service-standard/) as a means to guide the development of digital services for the public, based largely on the success and learning of the Government Digital Service. Not only has this galvanised the network, it is also leading to interest from suppliers keen to work alongside local government on its digital transformation journey.
 
-Oxford City has adopted the Service Standard as part of its [Digital Strategy]("../strategy/index.html"), and our [Digital Design Standards]("../standards/index.html") also use this to alert potential suppliers to how we want to work with them in the future.
+Oxford City has adopted the Service Standard as part of its [Digital Strategy](../strategy/index.html), and our [Digital Design Standards](../standards/index.html) also use this to alert potential suppliers to how we want to work with them in the future.
 
 ## The Peer Groups
 This year also saw the creation of a network of LocalGov Digital Peer Groups across the country for councils to get together in person and work out new ways to collaborate and support each other. Groups have so far been established in London, the Midlands and the South West.
@@ -17,7 +17,7 @@ This year also saw the creation of a network of LocalGov Digital Peer Groups acr
 Oxford, along with Buckinghamshire County Council, was asked to take the lead in establishing a Peer Group for the South, covering 34 councils in Oxfordshire, Wiltshire, Buckinghamshire, Berkshire and Hampshire as well as neighbouring unitaries.
 
 ## South Peer Group - initial meeting
-The first meeting of the South Peer Group took place on 25 November 2016. [View the Flickr photoset to see more]("https://www.flickr.com/photos/neillawrencephotography/sets/72157676960979586/").
+The first meeting of the South Peer Group took place on 25 November 2016. [View the Flickr photoset to see more](https://www.flickr.com/photos/neillawrencephotography/sets/72157676960979586/).
 
 The event kicked off with an introduction from Councillor John Chilver, Cabinet Member for Finance, who outlined the importance of the Service Standard in Buckinghamshire in delivering value for money and highlighted its focus on user need.
 
