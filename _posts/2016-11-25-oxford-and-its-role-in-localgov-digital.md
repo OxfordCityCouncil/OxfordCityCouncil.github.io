@@ -9,7 +9,7 @@ date: 2016-11-25
 
 This year has seen LocalGov Digital work together on creating a shared [Local Government Digital Service Standard](http://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard/) as a means to guide the development of digital services for the public, based largely on the success and learning of the Government Digital Service. Not only has this galvanised the network, it is also leading to interest from suppliers keen to work alongside local government on its digital transformation journey.
 
-Oxford City has adopted the Service Standard as part of its [Digital Strategy](../strategy/index.html), and our [Digital Design Standards](../standards/index.html) also use this to alert potential suppliers to how we want to work with them in the future.
+Oxford City has adopted the Service Standard as part of its [Digital Strategy](https://oxfordcitycouncil.github.io/strategy/index.html), and our [Digital Design Standards](https://oxfordcitycouncil.github.io/standards/lgdss.html) also use this to alert potential suppliers to how we want to work with them in the future.
 
 ## The Peer Groups
 This year also saw the creation of a network of LocalGov Digital Peer Groups across the country for councils to get together in person and work out new ways to collaborate and support each other. Groups have so far been established in London, the Midlands and the South West.
