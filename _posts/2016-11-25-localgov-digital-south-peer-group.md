@@ -31,8 +31,7 @@ Five ideas came out of the discussions that were put forward as potential initia
 
 * Creating a 'time bank' of digital skills, where one council can call on a number of others to help in an area it lacks skills (e.g. user research) on a reciprocal arrangement for donating their time/skills in an area they are stronger in
 
-* Having Supplier Scrutiny days, where councils that share a common supplier can select decide on three areas of common need and present a united voice to the supplier with an aim to have those needs met
-
+* Having Supplier Scrutiny days, where councils that share a common supplier can select decide on three areas of common need and present a united voice to the supplier with an aim to have those needs met.
 * A LocalGov Digital 'marketplace' to crowd source the specification for a technology capability that can then be procured with more than one council in mind
 
 Of these ideas, the Group voted for two to be taken forward: the time bank and the supplier scrutiny days. Oxford has agreed to lead on the first of the scrutiny days as it has a local requirement from its councillors to review its public planning interface, and also has a supplier common to a number of councils.
