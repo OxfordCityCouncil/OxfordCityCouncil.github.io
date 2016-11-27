@@ -6,7 +6,7 @@ title: Digital Development Blog
 <ul class="post">
 
   {% for post in site.posts %}
-	<li><span>*{{ post.date | date_to_string }}*</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></br>
+	<li><span><strong>{{ post.date | date_to_string }}</strong></span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></br>
     {{ post.excerpt }}</li>
   {% endfor %}
 </ul>
