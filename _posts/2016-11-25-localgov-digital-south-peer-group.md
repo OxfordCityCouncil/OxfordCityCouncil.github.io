@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "LocalGov Digital South Peer Group"
+excerpt: Here is some text
 date: 2016-11-25
 ---
 
