@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LocalGov Digital South Peer Group"
-excerpt: How working with other local authorities is helping us to improve
+excerpt: How working with other local authorities is helping us to improve. Includes outcomes from the initial South Peer Group meeting
 date: 2016-11-25
 ---
 
