@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Digital Strategy launched"
+excerpt: Oxford's strategy aims to deliver on five key principles
 date: 2016-11-20
 ---
 

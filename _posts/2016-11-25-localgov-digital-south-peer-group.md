@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LocalGov Digital South Peer Group"
-excerpt: Here is some text
+excerpt: How Oxford works with LocalGov Digital
 date: 2016-11-25
 ---
 
