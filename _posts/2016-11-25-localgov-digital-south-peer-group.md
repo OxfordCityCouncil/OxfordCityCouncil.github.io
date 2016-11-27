@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LocalGov Digital South Peer Group"
-excerpt: How Oxford works with LocalGov Digital
+excerpt: How working with other local authorities is helping us to improve
 date: 2016-11-25
 ---
 
