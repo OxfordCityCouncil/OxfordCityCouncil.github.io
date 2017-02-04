@@ -87,7 +87,7 @@ We discovered:
 - The form progress indicator caused some confusion 
 - We needed to make available appointments more visible to users to help them make a choice. Removing Saturdays and Sundays from the view, when no repair slots are available anyway, created less screen clutter and helped mobile device viewing
 
-After the initial first weeks we also found that duplicate repairs were being raised, one with no appointment. This caused some issues for our repairs staff so we needed to resolve it. After using Hotjar to analyse user behaviour we identified that the problem was caused by users abandoning the form having not found a suitable appointment slot. We’ve now put in place a fix to remove these jobs and will be watching to see if our other improvements make appointments more visible.
+After the initial first weeks we also found that duplicate repairs were being raised, one with no appointment. This caused some issues for our repairs staff so we needed to resolve it. After using [Hotjar](https://www.hotjar.com) to analyse user behaviour we identified that the problem was caused by users abandoning the form having not found a suitable appointment slot. We’ve now put in place a fix to remove these jobs and will be watching to see if our other improvements make appointments more visible.
 
 
 ## What next?
