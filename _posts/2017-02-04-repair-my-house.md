@@ -78,7 +78,7 @@ The outputs of the process are:
 
 ## Iterate, iterate, iterate
 
-Once we went live in January 2016 we were keen to get some early feedback from council tenants to see if we’d got it right. We invited them to bring in their own devices to test it on, and gave them a set of scenarios to work through.
+Once we went live in January 2016 we were keen to get some <a href="/downloads/Oxford Redesign Guidance Document V1.0.pdf">early feedback from council tenants</a> to see if we’d got it right. We invited them to bring in their own devices to test it on, and gave them a set of scenarios to work through.
 
 We discovered:
 
