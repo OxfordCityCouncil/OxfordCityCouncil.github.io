@@ -168,6 +168,7 @@ ul.fa-ul li i.fa-li{
 
 /* blog content styling for single column */
 .blog-content   {
-    padding-left: 1.5rem;
+    padding-left: 2.5em;
+	padding-right: 2.5em;
     margin: 3rem 0;
 }
