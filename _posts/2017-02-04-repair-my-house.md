@@ -99,3 +99,7 @@ We are working on introducing more appointments for low priority repairs, so tha
 We will be adding functionality to amend or cancel a repair to further reduce the need to call us.
 
 We will be developing a new service - Make a Gas Service Appointment - to enable our tenants to book a gas boiler service online rather than have to call
+
+## More information
+
+[Download the repairs process architecture](/downloads/Repairs Process architecture.pdf)
