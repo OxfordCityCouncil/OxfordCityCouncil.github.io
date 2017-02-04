@@ -6,11 +6,13 @@ date: 2017-02-04
 ---
 
 
-Oxford City Council still operates council housing, about 8,300 properties, and is making plans to increase this number through large developments in the city over the coming years.
+## Some background information
+
+Oxford City Council owns and operates its own council housing, about 8,300 properties, and is making plans to increase this number through large developments in the city over the coming years.
  
 Unlike many other social housing providers we also carry out all our own property maintenance, including gas servicing. This, in turn, generates a large demand for users contacting us, largely to report an issue that needs fixing.
  
-In terms of reasons our residents contact us, council housing represents by far the highest volume with some 40,000 calls each year. We were keen to find ways we could make it easier for our tenants to get in touch with us to report housing repairs and cut out the need to make a phone call.
+In terms of reasons our residents contact us, council housing represents by far the highest volume with some 40,000 calls each year. We were keen to find ways we could make it easier for tenants to get in touch with us to report housing repairs and cut out the need to make a phone call.
  
 
 ## How things were 
