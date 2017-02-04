@@ -8,7 +8,7 @@ date: 2017-02-04
 
 ## Some background information
 
-Oxford City Council owns and operates its own council housing, about 8,300 properties, and is making plans to increase this number through large developments in the city over the coming years.
+Oxford City Council owns and operates its own council housing, about 8,300 properties, and is making plans to increase this number through [large developments in the city](https://www.oxford.gov.uk/info/20105/council_housing/309/new_council_homes_being_built) over the coming years.
  
 Unlike many other social housing providers we also carry out all our own property maintenance, including gas servicing. This, in turn, generates a large demand for users contacting us, largely to report an issue that needs fixing.
  
@@ -32,9 +32,9 @@ We had already worked with council tenants to test out the idea of an improved d
 
 Before we jumped in with developing a full service, we wanted to test the concept of a user account for repairs and other council services that would work alongside our CRM.
 
-We decided to employ ‘loose coupling’ of systems in line with the Gubbins of Government approach where web services are used to join them together to provide the functionality for the overall service.
+We decided to employ ‘loose coupling’ of systems in line with the [Gubbins of Government approach](https://www.youtube.com/watch?v=02__3UTqXmU) where web services are used to join them together to provide the functionality for the overall service.
 
-To help us do this we worked with a local Drupal agency, Agile Collective, who took us through our first agile process for developing a new digital service.  We worked on a set of user stories that took us through the account creation process, checking an address and displaying repairs history for a valid property/council tenant. These were delivered over a series of ‘sprints’ 
+To help us do this we worked with a local Drupal agency, [Agile Collective](https://agile.coop/), who took us through our first agile process for developing a new digital service.  We worked on a set of user stories that took us through the account creation process, checking an address and displaying repairs history for a valid property/council tenant. These were delivered over a series of ‘sprints’ 
 
 By the end of this feasibility project we were able to demonstrate that the overall approach was sound, we could ensure user data was kept safe and we could have different council IT systems talk to teach other to make things work.  
 
@@ -43,7 +43,7 @@ By the end of this feasibility project we were able to demonstrate that the over
 
 We knew that a service that worked well for users was the key to success so wanted to get some expert help, as well as work with users themselves to ensure we met their needs.
 
-We asked Mando to work with us as they had already done work on reviewing our online forms to identify issues with usability. They helped us work through the issues we had with the current process and identify what success would look like.
+We asked [Mando](http://www.mando.agency/) to work with us as they had already done work on reviewing our online forms to identify issues with usability. They helped us work through the issues we had with the current process and identify what success would look like.
 
 Challenges and the solutions we adopted were:
 
