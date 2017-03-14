@@ -25,7 +25,7 @@ Mark Foden then used his [Future of Local Government video ](https://youtu.be/Bb
 The four tables then worked on identifying capabilities from a chosen service to identify the potential to share components. Each group then fed back to others on what they had discussed and worked on, revealing four distinct approaches and interpretations.     
 
 ## Microcontracting
-Phil Rumens did a short presentation on a concept he had been working on. The idea of timebanking is well known, and there are a number of technical solutions to help facilitate it. However, it has its shortcomings and is informal in nature. Microcontracting could mirror the approach used by the Digital Marketplace Digital Outcomes and Specialists framework, where digital practitioners in councils could agree to provide time to other councils in exchange for an agreed charge. This would enable any working arrangements to be on a more formal footing, and provide an income stream for the council.
+Phil Rumens did a short presentation on a concept he had been been discussing with others. The idea of timebanking is well known, and there are a number of technical solutions to help facilitate it. However, it has its shortcomings and is informal in nature. Microcontracting could mirror the approach used by the Digital Marketplace Digital Outcomes and Specialists framework, where digital practitioners in councils could agree to provide time to other councils in exchange for an agreed charge. This would enable any working arrangements to be on a more formal footing, and provide an income stream for the council.
 
 ## Actions since the last meeting
 * a Slack channel had been set up for the Group on the [LocalGov Digital Slack](https://localgovdigital.slack.com) team
