@@ -34,8 +34,8 @@ Phil Rumens did a short presentation on a concept he had been been discussing wi
 
 ## Future meetings
 The Group discussed themes and standing items for future meetings.
-* Theme: Discussing a framework for sharing and collaboration
-* Standing Item: "Bring a Problem" to use the collected expertise in the room to help solve an issue
-* Standing Item: "Show and Tell" to bring projects in progress along for feedback and ideas of how to take them forward
+- **Theme:** Discussing a framework for sharing and collaboration
+- **Standing Item:** "Bring a Problem" to use the collected expertise in the room to help solve an issue
+- **Standing Item:** "Show and Tell" to bring projects in progress along for feedback and ideas of how to take them forward
 
 Wycombe District Council offered to host and co-organise the next Group meeting in June.
