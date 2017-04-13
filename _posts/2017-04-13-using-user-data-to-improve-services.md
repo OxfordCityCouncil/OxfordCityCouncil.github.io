@@ -10,7 +10,7 @@ As well as helping introduce new digital services, part of our Team's role is to
 During the past year we have been trying to better understand how people use our digital services and what we can do to improve them. As a small team we don't have user researchers or the resources to run regular user testing, so we have been using other tools to help us.
 
 ## Tools we use
-* [Google Analytics](https://www.google.com/analytics/analytics/) - the default analytics application for
+* [Google Analytics](https://www.google.com/analytics/analytics/) - the default analytics application for understanding visitor behaviour
 * [Govmetric](https://www.govmetric.com) - for feedback and page satisfaction ratings
 * [Hotjar](https://www.hotjar.com) - for visitor behaviour recordings and feedback on forms
 * Our own [Complaints, Comments and Compliments](https://www.oxford.gov.uk/complaints) system
@@ -26,11 +26,11 @@ During 2016/17 we have been carrying out a rolling review of our online forms. O
 * Making it easier to provide feedback encourages feedback. And it's always useful. We were told clearly by users they wanted a feature that best practice says should be avoided (more on that in a future blog post)
 * 25% of our forms had no submissions at all. Putting an unwanted service online doesn't mean people will use it. We are going to be more rigorous about what we allow to be deployed in future
 * A proportion of people (up to 20%) will give up on completing a form within seconds. We are unlikely to be able to correct this - it's normal human behaviour
-* Requiring people to provide data they don't want to will put them off completing it. We saw a 9% drop-off for noise complaints where we asked people to provide their name and address
+* Requiring people to provide data they don't want to will put them off completing it. We saw a 9% drop-off for noise complaints where we asked people to provide their name and address. We will look to remove unnecessary or confusing questions
 * Failure to complete a form is not always a failure of the form, but a success. For example, some non-Oxford residents attempt to apply for services in our area they are not entitled to
-* We have discovered a number of faults on our forms we were not aware of previously, particularly for mobile users. We are looking to address these where we can
+* We have discovered a number of faults on our forms we were not aware of previously, particularly for mobile users.
 
 ## Our next steps
-We are going to continue our forms review programme and make it business as usual. A number of improvement projects are likely to be commenced as a result of reviews to date.
+We are going to continue our forms review programme and make it business as usual. We have started some improvement projects to implement improvements from our learning
 
-We will use our tools to explore our website navigation to see where we can improve customer journeys
+We will use our tools to explore our website navigation to see where we can improve customer journeys. Also, we will look to see how we can make it even easier for customers to give us their feedback so we can keep on learning and improving.
