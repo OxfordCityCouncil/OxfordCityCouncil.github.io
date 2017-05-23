@@ -25,7 +25,7 @@ We created a Directory for polling stations, with the address of the station as 
 
 This works OK, but is a bit rudimentary and has a few more steps in the process than we'd like.
 
-# Moving to the Democracy Club Finder
+## Moving to the Democracy Club Finder
 We'd seen how good the Democracy Club Finder was in providing walking routes to a polling station from a given postcode, and could see this would benefit our residents.
 
 Initially we'd assumed that the data requirements to meet Democracy Club's needs were beyond our reach, figuring that complex GIS shape files were needed to power it.
@@ -36,7 +36,7 @@ The necessary data (which we are obliged to hold) can come straight from our Ele
 
 A quick email to send the data later, and it's [added to the Github queue](https://github.com/DemocracyClub/UK-Polling-Stations/issues/841) to load.
 
-# Deploying the Finder on our website
+## Deploying the Finder on our website
 Deployment can be via a simple embedded widget using an iframe - a single line of code. Adding it presents like this;
 
 <iframe src="https://wheredoivote.co.uk/embed/"
