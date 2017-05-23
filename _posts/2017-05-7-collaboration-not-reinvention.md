@@ -10,7 +10,7 @@ As a small team we know we can't match the resources of our larger local authori
 We know that by collaborating with third party providers we can improve the service we offer our customers and also save ourselves time, effort and cost. There's also a good chance that the service will work well and will have been designed more around user needs.
 
 ## Working with Democracy Club
-We love [Democracy Club's](https://democracyclub.org.uk) aim to "make the process of democracy better for everyone" which reflects our values as a local authority. They are also completely partisan, so no problems with pre-election communications or bias.
+We love [Democracy Club's](https://democracyclub.org.uk) aim to "make the process of democracy better for everyone" which reflects our values as a local authority. They are also completely non-partisan, so no problems with pre-election communications or bias.
 
 They have a set of tools to achieve their aims, such as their [Candidates' Register](https://candidates.democracyclub.org.uk/) that powers their [WhoCanIVoteFor](https://whocanivotefor.co.uk/) service. We've helped crowdsource data for this register and we use WhoCanIVoteFor [on our website](https://www.oxford.gov.uk/info/20046/elections_and_voting/1178/general_election_-_8_june_2017).
 
@@ -32,7 +32,7 @@ Initially we'd assumed that the data requirements to meet Democracy Club's needs
 
 We were wrong.
 
-The necessary data (which we are obliged to hold) can come straight from our Election Management System (EMS), and the instructions are all [available on the Democracy Club website](https://democracyclub.org.uk/projects/polling-stations/upload/). Following these took our Elections Manager a few minutes only as there's an export feature in the EMS that Democracy Club have written and provided to our supplier. All the work has been done for us!
+The necessary data (which we are obliged to hold) can come straight from our Election Management System (EMS), and the instructions are all [available on the Democracy Club website](https://democracyclub.org.uk/projects/polling-stations/upload/). Following these took our Elections Manager a few minutes only as there's an export feature in the EMS already. All the work has been done for us!
 
 A quick email to send the data later, and it's [added to the Github queue](https://github.com/DemocracyClub/UK-Polling-Stations/issues/841) to load.
 
