@@ -49,3 +49,6 @@ We found that the default widget didn't work that well for us, as its background
 Instead we used simple HTML form elements (styled with our website CSS classes) to redirect to Democracy Club's site. This is a bit of a trade-off as we don't keep visitors on our site, but we think offering a fully-functioning service is the key thing.
 
 You can see our finished version at [www.oxford.gov.uk/pollingstation](https://www.oxford.gov.uk/pollingstation).
+
+### Update
+Democracy Club have since released a Javascript-based widget to get round the limitations of the iframe. We think it's great, but we prefer the full set of data that is presented on the their site. 
