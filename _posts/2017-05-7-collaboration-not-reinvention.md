@@ -51,4 +51,6 @@ Instead we used simple HTML form elements (styled with our website CSS classes) 
 You can see our finished version at [www.oxford.gov.uk/pollingstation](https://www.oxford.gov.uk/pollingstation).
 
 ### Update
-Democracy Club have since released a Javascript-based widget to get round the limitations of the iframe. We think it's great, but we prefer the full set of data that is presented on the their site. 
+Democracy Club have since released a Javascript-based widget to get round the limitations of the iframe. We think it's great, but we prefer the full set of data that is presented on the their site.
+
+The 8 June 2017 election saw our new polling station finder being the 4th most popular page, showing there is a real user need being met by this service. 
