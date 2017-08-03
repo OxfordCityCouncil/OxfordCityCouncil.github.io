@@ -33,7 +33,8 @@
     text-align:center;
 }
 
-screen and (min-width)  {
+@media screen and (max-width: 600px) {
     .site-footer .site-footer__social {
         width: 25%;
+    }
 }
