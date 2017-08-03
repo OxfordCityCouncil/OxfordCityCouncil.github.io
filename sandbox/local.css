@@ -32,3 +32,8 @@
     display:block;
     text-align:center;
 }
+
+screen and (min-width)  {
+    .site-footer .site-footer__social {
+        width: 25%;
+}
