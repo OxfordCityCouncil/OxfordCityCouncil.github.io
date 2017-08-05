@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+    <head>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script type="text/javascript">
+          google.charts.load('current', {packages: ['corechart']});
+          google.charts.setOnLoadCallback(drawChart);
+
+        <h2>Google Charts test</h2>
+        function drawGID() {
+          var queryString = encodeURIComponent('SELECT A, H, O, Q, R, U LIMIT 5 OFFSET 8');
+
+          var query = new google.visualization.Query(
+              'https://docs.google.com/spreadsheets/d/1DfN0KwlO9SlYBsejht-c6TxrSmPomsDBURdDFyU6UjM/gviz/tq?range=a20:c32' + queryString);
+          query.send(handleQueryResponse);
+        }
+
+        function handleQueryResponse(response) {
+          if (response.isError()) {
+            alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+            return;
+          }
+
+          var data = response.getDataTable();
+          var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+          chart.draw(data, { height: 400 });
+        }
+
+        </script>
+    </head>

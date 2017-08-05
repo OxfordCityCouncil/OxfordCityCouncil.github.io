@@ -4,6 +4,7 @@ title: Performance dashboard
 description: Our live charts and data on how our website performs and how we are improving digital services in Oxford
 ---
 <h2>Online performance</h2>
+
 <div id='highcharts-ijapeqe'><script src='//cloud.highcharts.com/inject/ijapeqe' defer='defer'></script></div>
 
 <div id='highcharts-ybededu'><script src='//cloud.highcharts.com/inject/ybededu' defer='defer'></script></div>
@@ -14,25 +15,3 @@ description: Our live charts and data on how our website performs and how we are
 <div id='highcharts-ilequnu'><script src='//cloud.highcharts.com/inject/ilequnu' defer='defer'></script></div>
 
 <div id='highcharts-egadula'><script src='//cloud.highcharts.com/inject/egadula' defer='defer'></script></div>
-
-<h2>Google Charts test</h2>
-function drawGID() {
-  var queryString = encodeURIComponent('SELECT A, H, O, Q, R, U LIMIT 5 OFFSET 8');
-
-  var query = new google.visualization.Query(
-      'https://docs.google.com/spreadsheets/d/1DfN0KwlO9SlYBsejht-c6TxrSmPomsDBURdDFyU6UjM/gviz/tq?range=a20:c32' + queryString);
-  query.send(handleQueryResponse);
-}
-
-function handleQueryResponse(response) {
-  if (response.isError()) {
-    alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
-    return;
-  }
-
-  var data = response.getDataTable();
-  var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
-  chart.draw(data, { height: 400 });
-}
-
-</script>
