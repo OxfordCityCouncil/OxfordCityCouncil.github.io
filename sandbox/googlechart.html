@@ -1,34 +1,28 @@
 <!DOCTYPE html>
-    <head>
-        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-        <script type="text/javascript">
-          google.charts.load('current', {packages: ['corechart']});
-          google.charts.setOnLoadCallback(drawChart);
+<head>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load('current', {packages: ['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
 
-        <h2>Google Charts test</h2>
-        function drawGID() {
-          var queryString = encodeURIComponent('SELECT A, H, O, Q, R, U LIMIT 5 OFFSET 8');
+    function drawChart() {
+      // Define the chart to be drawn.
+      var data = new google.visualization.DataTable();
+      data.addColumn('string', 'Element');
+      data.addColumn('number', 'Percentage');
+      data.addRows([
+        ['Nitrogen', 0.78],
+        ['Oxygen', 0.21],
+        ['Other', 0.01]
+      ]);
 
-          var query = new google.visualization.Query(
-              'https://docs.google.com/spreadsheets/d/1DfN0KwlO9SlYBsejht-c6TxrSmPomsDBURdDFyU6UjM/gviz/tq?range=a20:c32' + queryString);
-          query.send(handleQueryResponse);
-        }
-
-        function handleQueryResponse(response) {
-          if (response.isError()) {
-            alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
-            return;
-          }
-
-          var data = response.getDataTable();
-          var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
-          chart.draw(data, { height: 400 });
-        }
-
-        </script>
-    </head>
-    <body>
+      // Instantiate and draw the chart.
+      var chart = new google.visualization.PieChart(document.getElementById('myPieChart'));
+      chart.draw(data, null);
+    }
+  </script>
+</head>
+<body>
   <!-- Identify where the chart should be drawn. -->
   <div id="myPieChart"/>
-  <p>some text here</p>
 </body>
