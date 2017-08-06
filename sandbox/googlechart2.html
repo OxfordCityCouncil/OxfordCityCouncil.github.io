@@ -1,24 +1,39 @@
-<html>
-  <head>
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-      google.charts.load('current');
-      google.charts.setOnLoadCallback(drawVisualization);
+<head>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
 
-      function drawVisualization() {
-        var wrapper = new google.visualization.ChartWrapper({
-          chartType: 'PieChart',
-          dataSourceUrl: 'https://docs.google.com/spreadsheets/d/1Vriq2STJretlLyHc-9fBqbs3qBidbqouY4Z1hijZvlI/',
-          options: {'title': 'Popular browsers'},
-          containerId: 'vis_div'
-        });
-        wrapper.draw()
+  google.charts.load('current', {
+    callback: drawBasic,
+    packages: ['corechart', 'bar', 'table']
+  });
 
-        // No query callback handler needed!
-      }
-    </script>
+  function drawBasic() {
+    var query = new google.visualization.Query(
+      'https://docs.google.com/spreadsheets/d/1FzvV_rh81koInXeZp6LfXmZb6YGwKDB3CU20RdVOfjc/edit#gid=0'
+    );
+    query.setQuery('SELECT A, B');
+    query.send(handleQueryResponse);
+  }
+
+  function handleQueryResponse(response) {
+    if (response.isError()) {
+      alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+      return;
+    }
+
+    var data = response.getDataTable();
+    var options = {
+      title: 'test'
+    }
+
+    var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+    chart.draw(data, options)
+  }
+
+   </script>
   </head>
-  <body style="font-family: Arial;border: 0 none;">
-    <div id="vis_div" style="width: 600px; height: 400px;"></div>
+  <body>
+    <h1> will it works </h1>
+    <div id="chart_div"></div>
   </body>
 </html>
