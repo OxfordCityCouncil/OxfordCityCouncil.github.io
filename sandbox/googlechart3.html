@@ -1,17 +1,15 @@
-<head>
+<html>
+  <head>
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   <script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart']});
+  google.charts.setOnLoadCallback(drawChart);
 
-  google.charts.load('current', {
-    callback: drawBasic,
-    packages: ['corechart', 'piechart', 'table']
-  });
-
-  function drawBasic() {
+  function drawChart() {
     var query = new google.visualization.Query(
       'https://docs.google.com/spreadsheets/d/1Vriq2STJretlLyHc-9fBqbs3qBidbqouY4Z1hijZvlI/edit#gid=0'
     );
-    query.setQuery('SELECT A, B');
+    query.setQuery('SELECT A, B'); //select specific cells from the table
     query.send(handleQueryResponse);
   }
 
@@ -23,17 +21,18 @@
 
     var data = response.getDataTable();
     var options = {
-      title: 'Most Popular Browsers - last 30 days'
+      title: 'Most popular browsers - last 30 days',
+      pieHole: 0.4,
+      titleTextStyle: {fontSize: 20},
+
     }
 
     var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
     chart.draw(data, options)
   }
-
-   </script>
+  </script>
   </head>
   <body>
-    <h1> will it works </h1>
-    <div id="chart_div" style="width: 700px; height: 400px;"></div>
+    <div id="chart_div" style="width:800; height:400"></div>
   </body>
 </html>

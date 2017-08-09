@@ -1,0 +1,72 @@
+<html>
+  <head>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart']});
+
+  google.charts.setOnLoadCallback(drawViewsChart);
+
+  google.charts.setOnLoadCallback(drawVisitsChart);
+
+//Drawing Page Views chart
+  function drawViewsChart() {
+    var query = new google.visualization.Query(
+      'https://docs.google.com/spreadsheets/d/1EF4A-SNY5kFQfe2e3aeJqCZeEhNmKU9f5HcVp4nq1Cg/edit#gid=0'
+    );
+    query.setQuery('SELECT A, B, C'); //select specific cells from the table
+    query.send(handleQueryResponse);
+  }
+
+  function handleQueryResponse(response) {
+    if (response.isError()) {
+      alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+      return;
+    }
+
+    var data = response.getDataTable();
+    var options = {
+      title: 'Page views per month',
+      titleTextStyle: {fontSize: 20},
+      legend: {fontSize:14},
+      legend: {position: 'top'}
+    }
+
+    var chart = new google.visualization.ColumnChart(document.getElementById('chart_views_div'));
+    chart.draw(data, options)
+  }
+
+//Drawing Monthly Visits chart
+function drawVisitsChart() {
+  var query = new google.visualization.Query(
+    'https://docs.google.com/spreadsheets/d/1cfR0J_76EV2Rsa84REp-YdRpDnxAOggDc3rmy-JnQgY/edit#gid=0'
+  );
+  query.setQuery('SELECT A, B, C'); //select specific cells from the table
+  query.send(handleQueryResponse);
+}
+
+function handleQueryResponse(response) {
+  if (response.isError()) {
+    alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+    return;
+  }
+
+  var data = response.getDataTable();
+  var options = {
+    title: 'Visits per month',
+    titleTextStyle: {fontSize: 20},
+    legend: {fontSize:14},
+    legend: {position: 'top'}
+  }
+
+  var chart = new google.visualization.ColumnChart(document.getElementById('chart_visits_div'));
+  chart.draw(data, options)
+}
+
+
+  </script>
+  </head>
+  <body>
+    <div id="chart_views_div" style="width:800; height:400"></div>
+    <div id="chart_visits_div" style="width:800; height:400"></div>
+  </body>
+</html>
