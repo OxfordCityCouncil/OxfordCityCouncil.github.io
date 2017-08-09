@@ -9,7 +9,7 @@ The third South Peer Group meeting was hosted by Wycombe District Council on 29 
 
 More information about LocalGov Digital Peer Groups can be found in our [previous blog post](https://oxfordcitycouncil.github.io/blog/2016/11/25/localgov-digital-south-peer-group)
 
-## Speaker
+## Speakers
 The event was introduced by Catherine Spalton of Wycombe District Council.
 
 Sanjay Poyzer from the Government Digital Service gave a talk about the use of service patterns.
