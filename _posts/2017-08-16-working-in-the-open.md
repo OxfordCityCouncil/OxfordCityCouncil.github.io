@@ -2,7 +2,7 @@
 layout: post
 title: "Working in the open makes things better"
 excerpt: Why we are public about what we do
-date: 2017-08-17
+date: 2017-08-16
 ---
 
 Part of the [collaboration theme in our Digital Strategy](http://digital.oxford.gov.uk/strategy/collaboration) talks about making our data open so that people can make their own informed choices. But being open is more than just sharing data.
@@ -21,7 +21,7 @@ That's why the Digital Development Team is following the Government Digital Serv
 
 * We use a public [website uptime monitoring](https://www.oxford.gov.uk/status) from [Rapidspike](https://www.rapidspike.com) so people can check if any of our services are down. This also makes sense from a business continuity perspective, as any member of our staff can check for problems from any location or time of day.
 
-* We [blog about our work](http://digital.oxford.gov.uk/blog) so we can share our successes and failures, just like we learn from others through their blogs (such as the excellent [HackIt blog](http://blogs.hackney.gov.uk/hackit/) from Hackney Council). 
+* We [blog about our work](http://digital.oxford.gov.uk/blog) so we can share our successes and failures, just like we learn from others through their blogs (such as the excellent [HackIt blog](http://blogs.hackney.gov.uk/hackit/) from Hackney Council).
 
 * We use [GitHub](https://github.com/OxfordCityCouncil) to store our code, and where we can we make this openly accessible. We started with our website templates so people working with us to create themed sites can easy access them.
 
