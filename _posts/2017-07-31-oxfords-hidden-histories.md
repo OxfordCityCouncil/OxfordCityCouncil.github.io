@@ -43,7 +43,7 @@ Our challenge was that we needed something that could support a normal donation 
 
 The partner we chose in the end was [Golden Giving](www.goldengiving.com) who were absolutely brilliant to work with. They provide APIs that can be integrated with client websites, as well as a set of widgets that can be embedded. We went with using their Donate form widget, a widget for listing the most recent donations and a donation total widget (one of the business needs we weren't sure how to satisfy previously).
 
-We threw the challenge of Adopt an Object at Golden Given and they came up with the solution; create an Appeal for each object and use tagging to identify the object for when the donation was received. Each has an unique URL which we then encoded into the call to action for 'Adopt this object'.
+We threw the challenge of Adopt an Object at Golden Giving and they came up with the solution; create an Appeal for each object and use tagging to identify the object for when the donation was received. Each has an unique URL which we then encoded into the call to action for 'Adopt this object'.
 
 But Golden Giving didn't just stop there. They themed our campaign site to match our website styling. They also troubleshooted initial problems with matching donations to adopted objects (we'd messed up our tagging).
 
