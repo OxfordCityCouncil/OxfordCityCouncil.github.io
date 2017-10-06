@@ -13,7 +13,7 @@ We used a quiet area at the back of our Customer Service Centre that already had
 ## What we learned
 We'll be having a proper sweep-up of the week to evaluate how things went so we can better plan for our regular weekly online session, but these are the main points that emerged.
 
-* We did poorly on the number of people that attended, despite being open from 9am to 4pm all week. There were two days when nobody called in at all
+* We did poorly on the number of people that attended, despite being open from 9am to 4pm all week. There was one day when nobody called in at all
 * We need to be smarter about where we run any regular sessions and how we tell people about them. Only one person mentioned seeing [our press release](https://www.oxford.gov.uk/news/article/541/get_online_week_in_oxford). Regular sessions (perhaps by appointment?) may help this, along with being located in Community Centres. We'll look to advice from the Online Centres Network on this and see if there are lessons from [our Planning Duty Officer Service](https://www.oxford.gov.uk/info/20066/planning_applications/723/contacting_us_for_planning_advice)
 * Our Customer Service team were fantastic in supporting us by spotting opportunities when talking to visitors, and referred them down to us for a conversation (even when they were not all that willing to start with)
 * People that haven't been online often describe themselves as "stupid" for not knowing more. They need real support and reassurance that only a 1:1 session can adequately provide. Some interventions bordered on counselling at times, but were worthwhile in terms of the difference they made to peoples' lives
@@ -64,6 +64,7 @@ Katie had email on her phone but didn't use a data plan as it was expensive. She
 
 As Katie was from Albania, and not confident with her english, we helped her complete the application form and email to the employer. She wanted to come back to find out more about the online learning she could get access to from Learn My Way.
 
+Katie dropped back in on Friday to say she'd had an interview!
 
 ### Annie
 Annie is retired and has been living alone since her husband died. She has a laptop but no WiFi at home and wanted to know how she could go about getting online.
@@ -85,3 +86,8 @@ Amy was looking for a way to move from her own council house to another area usi
 One of her reasons for moving was that she was lonely and wanted to have more things to do. We spent some time with her using the internet to search for activities near where she lived currently. We found a womans' group and health walks for her to try, and got her contact numbers to follow up with.
 
 She also discovered that there was a local library near her house so was keen to visit and perhaps try out accessing the internet there in future.
+
+### Denise
+Denise came across one of our leaflets while in the Town Hall so dropped in, not sure of what to expect. She had a computer and WiFi at home, and had used this to reserve items from Argos or look at things on EBay. She was interested in grocery shopping online and ways to improve her health.
+
+Denise was visually impaired so we explored how the browser could increase its screen size to help her. We signed her up to Learn my Way so she could learn more about how to use her browser and keyboard shortcuts to access things like deleting browser history. She was also going to use it to find out about shopping online and staying safe.
