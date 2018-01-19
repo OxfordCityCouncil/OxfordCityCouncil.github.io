@@ -3,7 +3,7 @@ layout: data
 title: Help us build an open data community
 description: We're looking to find a group of people that will help us guide our work on open data
 ---
-<img src="https://c1.staticflickr.com/9/8310/8016189356_eaa656e9b6_b.jpg" alt="Open Data Scrabble photo by justgrimes (Flickr)" "width:50%,height:50%;">
+<img src="https://c1.staticflickr.com/9/8310/8016189356_eaa656e9b6_b.jpg" alt="Open Data Scrabble photo by justgrimes (Flickr)" "width:50%;height:50%;">
 
 Open data is great, isn't it? 
 
