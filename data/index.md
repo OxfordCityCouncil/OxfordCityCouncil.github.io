@@ -28,7 +28,7 @@ What we don't have is a group of people that are excited and passionate about op
 There are great examples of community-led approaches to open data in other parts of the country:
 * Bristol has a thriving Open Data community of [over 250 members](https://www.meetup.com/Bristol_Open_Data/) 
 * [Bath: Hacked](https://www.bathhacked.org/about/) is a joint council/community initiative that aims to put open data and smart thinking at the heart of the city.  
-* Open Data Institute (ODI) Nodes have been established from thriving community bases in placs like [Devon](http://devon.theodi.org/devon-open-data-forum/) and [Leeds](http://odileeds.org/about/)
+* Open Data Institute (ODI) Nodes have been established from thriving community bases in places like [Devon](http://devon.theodi.org/devon-open-data-forum/) and [Leeds](http://odileeds.org/about/)
 
 So why don't we start something like this in Oxford?
 
