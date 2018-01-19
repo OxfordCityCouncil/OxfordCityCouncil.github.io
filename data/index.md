@@ -11,16 +11,16 @@ Government organisations have already got the idea. Take Defra (Department for E
 
 Transport for London has put open data at the heart of what it does to promote the re-use of its data in order to help the travelling public. It has been estimated that this has [boosted London's economy by £130m per annum](https://tfl.gov.uk/info-for/media/press-releases/2017/october/tfl-s-free-open-data-boosts-london-s-economy).
 
-So why is it harder to come by in Oxford at the moment? 
+So how do we get to that sort of environment in Oxford? 
 
-The advice we've had from those in the know is "go and talk to the community". So this is the conversation we want to start...
+The advice we've had from those in the know is "start by talking to the community". So this is the conversation we want to kick off...
 
 ## Where we are now
 We've got some of the building blocks in place already: 
 
 * [Smart Oxford](https://www.oxfordsmartcity.uk/), a city-wide group of partners, is committed to making open data part of its plans 
 * An open data platform, [Oxfordshire Open Data](https://www.oxopendata.uk/) has been set up and has a healthy number of open datasets already
-* Oxford City Council has made a commitment to publish open data as part of its [Digital Strategy](http://digital.oxford.gov.uk/strategy/collaboration.html)
+* Oxford City Council has made a commitment to publish open data as part of its [Digital Strategy](http://digital.oxford.gov.uk/strategy/collaboration.html) and is starting to use open data standards like [360Giving](http://www.threesixtygiving.org/support/standard/) for its Grants data 
 
 What we don't have is a group of people that are excited and passionate about open data that are willing to give their time and advice, share experiences and generally get stuff done.
 
