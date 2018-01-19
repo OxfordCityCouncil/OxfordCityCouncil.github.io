@@ -33,6 +33,6 @@ There are great examples of community-led approaches to open data in other parts
 So why don't we start something like this in Oxford?
 
 ## Get involved
-<p>Let us have you details if you want to be involved:</p>
+<p>Let us have your details if you'd like to get involved:</p>
 <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSeKukg-4UhtdNMYtyk6ul4lrylv51bvEumwjUwWBBHhr7bLZQ/viewform?usp=sf_link">Get in touch</a>
 
