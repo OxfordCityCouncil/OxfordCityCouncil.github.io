@@ -73,6 +73,14 @@ As there was capital funding set aside or implementing webchat, we saw an opport
 * Helped retain website visitors on the site rather than exiting
 * Allowed promotion of specific online forms or web pages as a first option, relevant telephone and email addresses as a second, and webchat for those services trialling it.
 
+## Collaborative development
+
+Having had a quote from our CMS provider for the necessary development we realised we wouldn't have sufficient budget to cover the work. 
+
+We decided to approach the web team at Kings Lynn & West Norfolk, as they had developed the functionality themselves and used the same CMS as us. We quickly decided that collaboration between the two authorities would deliver an outcome closer to our requirements, and as it turned out at only 10% of the quoted cost from our provider.
+
+Using a free webchat option from [Tawk.to](https://www.tawk.to) helped reduce costs yet further.
+
 ## What we learned
 
 * We didn't do enough to research what our users really wanted
