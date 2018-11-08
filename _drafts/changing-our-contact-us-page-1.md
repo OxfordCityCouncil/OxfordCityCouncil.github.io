@@ -24,7 +24,7 @@ At the same time we were aware that there had been a call for a single email add
 
 The new page was launched as part of the new site in January 2016 with a generic Contact Us form, with service categories to help speed up the processing of the responses. Without a corporate customer service email address, all submissions were forwarded to the webmaster address looked after by our team.
 
-After 8 days we'd received 107 
+After 8 days we'd received 107 form submissions, which outstripped our ability to handle them and reflected users were defaulting to email rather than using the rest of the site. 
 
 ## Options we considered
 
