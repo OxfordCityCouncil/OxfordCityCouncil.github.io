@@ -91,7 +91,7 @@ Unfortunately our customers didn't agree with us.
 
 Instead of seeing the rise in satisfaction we had predicted, we actually saw an increase in dissatisfaction for the new page. Initially we put this down to the 'shock of the new', but it became apparent after a couple of months that this new level of dissatisfaction wasn't abating.
 
-We used  [Hotjar](https://www.hotjar.com) to track user behaviour in using the pages. Through this we could see that the expected behaviour of swiftly navigating to the intended service wasn't the reality; users went back and forth, reloading the page and looking for a different outcome. We were making life harder for them, not easier.
+We used  [Hotjar](https://www.hotjar.com) to track user behaviour in using the page. Through this we could see that the expected behaviour of swiftly navigating to the intended service wasn't the reality; users went back and forth, reloading the page and looking for a different outcome. We were making life harder for them, not easier.
 
 ## Abandoning the new page
 
