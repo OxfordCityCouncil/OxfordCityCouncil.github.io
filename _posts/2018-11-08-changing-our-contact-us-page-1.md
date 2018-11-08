@@ -6,9 +6,7 @@ excerpt: Our journey in researching, developing and launching a new approach, on
   to scrap it later
 
 ---
-As part of our ongoing set of [performance metrics for our website ](https://digital.oxford.gov.uk/performance/webtraffic.html)we keep a close eye on satisfaction, using [GovMetric](https://www.govmetric.com/how-it-works.html) as our main page-level feedback tool.
-
-Our Contact Us page has had a chequered past and has received a good deal of attention, but we're not yet at the end of the journey.
+Our Contact Us page has had a chequered past and has received a good deal of attention. This post sets out some of the changes we made and the issues we encountered.
 
 ## Where we started
 
@@ -28,11 +26,13 @@ The new Contact Us page was launched as part of the new site in January 2016 wit
 
 After 8 days we'd received 107 form submissions, which outstripped our ability to handle them and reflected users were defaulting to email rather than using the rest of the site. Things had to change, and we took down the form link.
 
-So we needed to rethink. Meanwhile the Contact Us page stayed in its new minimalist form. 
+So we needed to rethink. Meanwhile the Contact Us page stayed in its new minimalist form.
 
 ## What feedback told us
 
-When we reviewed the Contact Us page again in March 2017 it accounted for 320 feedback submissions (the 2nd highest ranked pages with feedback) and was the single highest area of dissatisfaction with the website
+As part of our ongoing set of [performance metrics for our website ](https://digital.oxford.gov.uk/performance/webtraffic.html)we keep a close eye on satisfaction, using GovMetric as our main page-level feedback tool.
+
+When we reviewed the Contact Us page in March 2017 it accounted for 320 feedback submissions (the 2nd highest ranked pages with feedback) and was the single highest area of dissatisfaction with the website
 
 Its percentage of overall website dissatisfaction for the previous four months was;
 
@@ -48,7 +48,7 @@ Its percentage of overall website dissatisfaction for the previous four months w
 * Mentions need for general email address/enquiry form (21%)
 * Problem with website generally (14%)
 
-Exit rates for the Contact Us page were as high as 52%, suggesting users were being driven to the telephone. 
+Exit rates for the Contact Us page were as high as 52%, suggesting users were being driven to the telephone.
 
 ## Options we considered
 
@@ -59,7 +59,7 @@ We explored the Contact pages used by 14 different organisations to get a range 
 3. Using an interactive query form to provide drill-down functionality to better match a user’s requirements, such as [Worcestershire's](https://capublic.worcestershire.gov.uk/CSAPortalPublic/)
 4. Returning to a full contact list, albeit better presented, such as [Bristol's](https://www.bristol.gov.uk/contact)
 
-However, none quite met what we were looking for. 
+However, none quite met what we were looking for.
 
 ## Introducing webchat
 
@@ -77,7 +77,7 @@ Kings Lynn & West Norfolk's experience with their page was it had been "well rec
 
 ## Collaborative development
 
-Having had a quote from our CMS provider for the necessary development we realised we wouldn't have sufficient budget to cover the work. 
+Having had a quote from our CMS provider for the necessary development we realised we wouldn't have sufficient budget to cover the work.
 
 We decided to approach the web team at Kings Lynn & West Norfolk, as they had developed the functionality themselves and used the same CMS as us. We quickly decided that collaboration between the two authorities would deliver an outcome closer to our requirements, and as it turned out at only 10% of the quoted cost from our provider. They agreed to develop it for us, so we put together a specification and contract.
 
@@ -85,7 +85,7 @@ Using a free webchat option from [Tawk.to](https://www.tawk.to) helped reduce co
 
 ## The verdict from users
 
-We launched the Contact Us page in January 2018, and felt we had ticked all the boxes delivered something under budget that looked and worked great. 
+We launched the Contact Us page in January 2018, and felt we had ticked all the boxes delivered something under budget that looked and worked great.
 
 Unfortunately our customers didn't agree with us.
 
@@ -101,7 +101,7 @@ The decision to abandon the new page came about as a result of a number of event
 * The new functionality stopped working after a CMS update, and we needed to replace it with a working page. We defaulted back to our previous Contact Us page
 * We took the opportunity to press the case that the new page wasn't working with our Customer Contact colleagues, and that we should retain the old version. The upturn in satisfaction was, regrettably, evidence enough to convince them.
 
-Although we haven't resolved the issue with satisfaction for this one page, overall satisfaction for our website continues to be strong, and we regularly feature in the top 5 for benchmarking amongst GovMetric users. 
+Although we haven't resolved the issue with satisfaction for this one page, overall satisfaction for our website continues to be strong, and we regularly feature in the top 5 for benchmarking amongst GovMetric users.
 
 ## What we learned
 
