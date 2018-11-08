@@ -8,7 +8,9 @@ excerpt: Our journey in researching, developing and launching a new approach, on
 ---
 As part of our ongoing set of [performance metrics for our website ](https://digital.oxford.gov.uk/performance/webtraffic.html)we keep a close eye on satisfaction, using [GovMetric](https://www.govmetric.com/how-it-works.html) as our main page-level feedback tool.
 
-## Where we started from
+Our Contact Us page has had a chequered past and has received a good deal of attention, but we're not yet at the end of this journey. 
+
+## Where we started 
 
 When we were developing our website in 2015, we took the opportunity to change our approach to content.
 
@@ -22,9 +24,9 @@ Our initial changes were guided more by not repeating the past than by any focus
 
 At the same time we were aware that there had been a call for a single email address for the council. Our Customer Service team  resisted this, as a previous attempt to use one had resulted in a deluge of general enquiries that needed significant staff time to categorise and forward to the most appropriate service.
 
-The new page was launched as part of the new site in January 2016 with a generic Contact Us form, with service categories to help speed up the processing of the responses. Without a corporate customer service email address, all submissions were forwarded to the webmaster address looked after by our team.
+The new page was launched as part of the new site in January 2016 with a generic Contact Us form, using service categories to help speed up the processing of the responses. Without a corporate customer service email address, all submissions were forwarded to the webmaster address looked after by our team.
 
-After 8 days we'd received 107 form submissions, which outstripped our ability to handle them and reflected users were defaulting to email rather than using the rest of the site. 
+After 8 days we'd received 107 form submissions, which outstripped our ability to handle them and reflected users were defaulting to email rather than using the rest of the site. Things had to change, and we took down the form link.
 
 ## Options we considered
 
