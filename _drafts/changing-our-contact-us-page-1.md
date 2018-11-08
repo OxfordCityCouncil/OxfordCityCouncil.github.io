@@ -16,6 +16,7 @@ Particular pages came in for attention, including our Contact Us page. At that t
 
 ## What we learned
 
-* We are not the only council looking to find the Gold Standard of Contact Us pages
+* We didn't do enough to research what our users really wanted
+* When we were told, we put business needs ahead of user needs
 * There is no-off-the-shelf solution that works for everyone
-* User needs in one part of the country do not seem to translate automatically to others
+* User needs in one part of the country do not seem to translate automatically to other areas.
