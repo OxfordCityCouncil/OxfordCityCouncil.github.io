@@ -10,7 +10,9 @@ As part of our ongoing set of performance metrics for our website we keep a clos
 
 ## How it started
 
-When we were developing our website in 2015, we took the opportunity to 
+When we were developing our website in 2015, we took the opportunity to change our approach to content; we knew that our pages were too broad in topic and difficult to read. 
+
+Particular pages came in for attention, including our Contact Us page. At that time
 
 ## What we learned
 
