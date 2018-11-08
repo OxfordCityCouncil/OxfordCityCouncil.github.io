@@ -59,7 +59,13 @@ We explored the Contact pages used by 14 different organisations to get a range 
 3. Using an interactive query form to provide drill-down functionality to better match a user’s requirements, such as [Worcestershire's](https://capublic.worcestershire.gov.uk/CSAPortalPublic/)
 4. Returning to a full contact list, albeit better presented, such as [Bristol's](https://www.bristol.gov.uk/contact)
 
-However, none quite met what we were looking for. Around this time
+However, none quite met what we were looking for. 
+
+## Introducing webchat
+
+In late 2016 our Customer Contact team were developing an approach called Digital Assist to use their staff to respond to digital contact channels like Twitter and Facebook Messenger. As part of this they wanted to deploy webchat for a select set of service areas via the Contact Us page.
+
+We spoke to three councils (Redcar & Cleveland, Leeds, Kings Lynn & West Norfolk) about their experiences with webchat as part of research into implementing a solution, which is when we came across [Kings Lynn & West Norfolk's Contact Us page](https://www.west-norfolk.gov.uk/contact).
 
 ## What we learned
 
