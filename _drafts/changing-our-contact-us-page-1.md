@@ -41,6 +41,15 @@ Percentage of overall dissatisfaction for the previous four months was;
 * December 2016 - 9%
 * November 2016 - 10%
 
+58 submissions had commented on their reasons for dissatisfaction, which were;
+
+* Lack of contact information/hard to find (39%)
+* General enquiry/miscellaneous comment (26%)
+* Mentions need for general email address/enquiry form (21%)
+* Problem with website generally (14%)
+
+Exit rates for the Contact Us page were as high as 52%, suggesting users were being driven to the telephone. 
+
 ## Options we considered
 
 ## What we learned
