@@ -52,6 +52,13 @@ Exit rates for the Contact Us page were as high as 52%, suggesting users were be
 
 ## Options we considered
 
+We explored the Contact pages used by 14 different organisations to get a range of options to consider. These fell broadly into x categories;
+
+1. Using A-Z pages to supplement navigation and provide contact information, such as [Birmingham's](https://www.birmingham.gov.uk/a_to_z)
+2. Developing a better generic contact form, such as [Hounslow's](https://eforms.hounslow.gov.uk/ufs/ufsmain?formid=ENQUIRIES_FORM&ebz=1_1541709239564&ebd=0&ebz=1_1541709239564)
+3. Using an interactive query form to provide drill-down functionality to better match a user’s requirements, such as [Worcestershire's](https://capublic.worcestershire.gov.uk/CSAPortalPublic/)
+4. Returning to a full contact list, albeit better presented, such as [Bristol's](https://www.bristol.gov.uk/contact)
+
 ## What we learned
 
 * We didn't do enough to research what our users really wanted
