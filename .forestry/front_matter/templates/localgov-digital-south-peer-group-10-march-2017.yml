@@ -1,13 +1,13 @@
 ---
-label: LocalGov Digital South Peer Group - 10 March 2017
-hide_body: 
-is_partial: 
+label: Posts
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: title
   label: Title
   type: text
