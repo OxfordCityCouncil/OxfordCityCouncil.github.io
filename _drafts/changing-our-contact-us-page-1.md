@@ -1,5 +1,5 @@
 ---
-title: Changing our Contact Us Page
+title: Changing our Contact Us page
 layout: post
 date: 2018-11-08 18:06
 excerpt: Our journey in researching, developing and launching a new approach, only
@@ -8,9 +8,9 @@ excerpt: Our journey in researching, developing and launching a new approach, on
 ---
 As part of our ongoing set of [performance metrics for our website ](https://digital.oxford.gov.uk/performance/webtraffic.html)we keep a close eye on satisfaction, using [GovMetric](https://www.govmetric.com/how-it-works.html) as our main page-level feedback tool.
 
-Our Contact Us page has had a chequered past and has received a good deal of attention, but we're not yet at the end of this journey. 
+Our Contact Us page has had a chequered past and has received a good deal of attention, but we're not yet at the end of this journey.
 
-## Where we started 
+## Where we started
 
 When we were developing our website in 2015, we took the opportunity to change our approach to content.
 
@@ -27,6 +27,10 @@ At the same time we were aware that there had been a call for a single email add
 The new page was launched as part of the new site in January 2016 with a generic Contact Us form, using service categories to help speed up the processing of the responses. Without a corporate customer service email address, all submissions were forwarded to the webmaster address looked after by our team.
 
 After 8 days we'd received 107 form submissions, which outstripped our ability to handle them and reflected users were defaulting to email rather than using the rest of the site. Things had to change, and we took down the form link.
+
+So we needed to rethink.
+
+## Monitoring feedback 
 
 ## Options we considered
 
