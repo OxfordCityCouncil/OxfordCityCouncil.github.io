@@ -14,7 +14,7 @@ Our Contact Us page has had a chequered past and has received a good deal of att
 
 When we were developing our website in 2015, we took the opportunity to change our approach to content at the same time.
 
-We'd benefitted from a content audit from our developers, [Jadu](www.jadu.net), along with some guidance on content strategy. One element of this was using our site to reduce avoidable contact.
+We'd benefitted from a content audit from our developers, [Jadu](www.jadu.net), along with some guidance on content strategy. One element of this was using our site to help reduce avoidable contact.
 
 Our Contact Us page presented to users as [a long list of phone numbers and email addresses](//downloads/Old Homepage_small.jpg); we were essentially encouraging users to abandon our site and contact us by other channels, avoiding our Contact Centre staff.
 
