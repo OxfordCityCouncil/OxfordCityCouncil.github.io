@@ -3,5 +3,3 @@ label: Blog
 hide_body: false
 is_partial: false
 fields: []
-pages:
-- _posts/changing-our-contact-us-page.md
