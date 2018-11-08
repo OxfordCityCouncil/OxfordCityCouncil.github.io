@@ -23,3 +23,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- _posts/changing-our-contact-us-page-1.md
