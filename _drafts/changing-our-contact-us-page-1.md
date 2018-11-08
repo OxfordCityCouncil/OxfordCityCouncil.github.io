@@ -100,12 +100,11 @@ The decision to abandon the new page came about as a result of a number of event
 * The success of using webchat on a limited basis meant our Customer Contact team now wanted a site-wide rollout, meaning the launch functionality in the Contact Us page was no longer needed
 * The new functionality stopped working after a CMS update, and we needed to replace it with a working page. We defaulted back to our previous version
 * We took the opportunity to press the case that the new page wasn't working with our Customer Contact colleagues, and that we should retain the old version of the 
-* page
-*  
+
+text
 
 ## What we learned
 
-* We didn't do enough to research what our users really wanted
-* When we were told, we put business needs ahead of user needs
+* We didn't do enough to research what our users really wanted; we thought we knew enough from the information we had. Clearly we didn't
 * There is no-off-the-shelf solution that works for everyone
 * User needs in one part of the country do not seem to translate automatically to other areas.
