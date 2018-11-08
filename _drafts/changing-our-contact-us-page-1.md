@@ -99,9 +99,9 @@ The decision to abandon the new page came about as a result of a number of event
 
 * The success of using webchat on a limited basis meant our Customer Contact team now wanted a site-wide rollout, meaning the launch functionality in the Contact Us page was no longer needed
 * The new functionality stopped working after a CMS update, and we needed to replace it with a working page. We defaulted back to our previous Contact Us page
-* We took the opportunity to press the case that the new page wasn't working with our Customer Contact colleagues, and that we should retain the old version. The upturn in satisfaction was, regrettably, evidence enough 
+* We took the opportunity to press the case that the new page wasn't working with our Customer Contact colleagues, and that we should retain the old version. The upturn in satisfaction was, regrettably, evidence enough to convince them.
 
-text
+Although we haven't fixed the issue with satisfaction for this one page, overall satisfaction for our website continues to be strong, and we regularly feature in the top 5 for benchmarking amongst GovMetric users. 
 
 ## What we learned
 
