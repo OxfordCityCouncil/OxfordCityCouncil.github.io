@@ -8,7 +8,7 @@ excerpt: Our journey in researching, developing and launching a new approach, on
 ---
 As part of our ongoing set of [performance metrics for our website ](https://digital.oxford.gov.uk/performance/webtraffic.html)we keep a close eye on satisfaction, using [GovMetric](https://www.govmetric.com/how-it-works.html) as our main page-level feedback tool.
 
-Our Contact Us page has had a chequered past and has received a good deal of attention, but we're not yet at the end of this journey.
+Our Contact Us page has had a chequered past and has received a good deal of attention, but we're not yet at the end of the journey.
 
 ## Where we started
 
@@ -73,13 +73,35 @@ As there was capital funding set aside or implementing webchat, we saw an opport
 * Helped retain website visitors on the site rather than exiting
 * Allowed promotion of specific online forms or web pages as a first option, relevant telephone and email addresses as a second, and webchat for those services trialling it.
 
+Kings Lynn & West Norfolk's experience with their page was it had been "well received by most of those using it" which to us meant the necessary evidence was there that it would work for Oxford too.
+
 ## Collaborative development
 
 Having had a quote from our CMS provider for the necessary development we realised we wouldn't have sufficient budget to cover the work. 
 
-We decided to approach the web team at Kings Lynn & West Norfolk, as they had developed the functionality themselves and used the same CMS as us. We quickly decided that collaboration between the two authorities would deliver an outcome closer to our requirements, and as it turned out at only 10% of the quoted cost from our provider.
+We decided to approach the web team at Kings Lynn & West Norfolk, as they had developed the functionality themselves and used the same CMS as us. We quickly decided that collaboration between the two authorities would deliver an outcome closer to our requirements, and as it turned out at only 10% of the quoted cost from our provider. They agreed to develop it for us, so we put together a specification and contract.
 
-Using a free webchat option from [Tawk.to](https://www.tawk.to) helped reduce costs yet further.
+Using a free webchat option from [Tawk.to](https://www.tawk.to) helped reduce costs still further.
+
+## The verdict from users
+
+We launched the Contact Us page in January 2018, and felt we had ticked all the boxes delivered something under budget that looked and worked great. 
+
+Unfortunately our customers didn't agree with us.
+
+Instead of seeing the rise in satisfaction we had predicted, we actually saw an increase in dissatisfaction for the new page. Initially we put this down to the 'shock of the new', but it became apparent after a couple of months that this new level of dissatisfaction wasn't abating.
+
+We used  [Hotjar](https://www.hotjar.com) to track user behaviour in using the pages. Through this we could see that the expected behaviour of swiftly navigating to the intended service wasn't the reality; users went back and forth, reloading the page and looking for a different outcome. We were making life harder for them, not easier.
+
+## Abandoning the new page
+
+The decision to abandon the new page came about as a result of a number of events;
+
+* The success of using webchat on a limited basis meant our Customer Contact team now wanted a site-wide rollout, meaning the launch functionality in the Contact Us page was no longer needed
+* The new functionality stopped working after a CMS update, and we needed to replace it with a working page. We defaulted back to our previous version
+* We took the opportunity to press the case that the new page wasn't working with our Customer Contact colleagues, and that we should retain the old version of the 
+* page
+*  
 
 ## What we learned
 
