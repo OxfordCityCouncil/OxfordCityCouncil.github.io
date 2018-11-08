@@ -32,7 +32,7 @@ So we needed to rethink. Meanwhile the Contact Us page stayed in its new minimal
 
 ## What feedback told us
 
-When reviewed in March 2017 the  Contact Us page accounted for 320 feedback submissions (the 2nd highest ranked pages with feedback) and was the single highest area of dissatisfaction with the website
+When we reviewed the Contact Us page again in March 2017 it accounted for 320 feedback submissions (the 2nd highest ranked pages with feedback) and was the single highest area of dissatisfaction with the website
 
 Its percentage of overall website dissatisfaction for the previous four months was;
 
