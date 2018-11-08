@@ -67,7 +67,11 @@ In late 2016 our Customer Contact team were developing an approach called Digita
 
 We spoke to three councils (Redcar & Cleveland, Leeds, Kings Lynn & West Norfolk) about their experiences with webchat as part of research into implementing a solution, which is when we came across [Kings Lynn & West Norfolk's Contact Us page](https://www.west-norfolk.gov.uk/contact).
 
-As there was capital funding set aside or implementing webchat, we saw an opportunity to bring two sets of business needs together to create a 
+As there was capital funding set aside or implementing webchat, we saw an opportunity to bring two sets of business needs together to create a new Contact Us page that;
+
+* Offered an interactive approach to drill down to a users specific contact requirements
+* Helped retain website visitors on the site rather than exiting
+* Allowed promotion of specific online forms or web pages as a first option, relevant telephone and email addresses as a second, and webchat for those services trialling it.
 
 ## What we learned
 
