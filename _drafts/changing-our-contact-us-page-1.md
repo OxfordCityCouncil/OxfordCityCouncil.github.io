@@ -8,11 +8,11 @@ excerpt: Our journey in researching, developing and launching a new approach, on
 ---
 As part of our ongoing set of [performance metrics for our website ](https://digital.oxford.gov.uk/performance/webtraffic.html)we keep a close eye on satisfaction, using [GovMetric](https://www.govmetric.com/how-it-works.html) as our main page-level feedback tool.
 
-## How it started
+## How we started
 
-When we were developing our website in 2015, we took the opportunity to change our approach to content; we knew that our pages were too broad in topic and difficult to read. 
+When we were developing our website in 2015, we took the opportunity to change our approach to content. 
 
-We'd benefitted from a content audit from our developers, [Jadu](www.jadu.net), along with some guidance on content strategy. One element of this was reducing avoidable contact. 
+We'd benefitted from a content audit from our developers, [Jadu](www.jadu.net), along with some guidance on content strategy. One element of this was using our site to reduce avoidable contact. 
 
 Our Contact Us page presented to users as a long list of phone numbers and email addresses; we were essentially encouraging users to abandon our site and contact us by other channels, avoiding our Contact Centre staff. 
 
