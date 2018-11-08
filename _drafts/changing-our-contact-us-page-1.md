@@ -12,4 +12,6 @@ As part of our ongoing set of [performance metrics for our website](https://digi
 
 ## What we learned
 
-* We are not the only council looking to find the Gold Standard of
+* We are not the only council looking to find the Gold Standard of Contact Us pages
+* There is no-off-the-shelf solution that works for everyone
+* User needs in one part of the country do not seem to translate automatically to others
