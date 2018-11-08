@@ -18,9 +18,13 @@ Our Contact Us page presented to users as [a long list of phone numbers and emai
 
 ## Our first changes
 
-Our initial changes were guided more by not repeating the past than by any focus on user needs; the long list of phone numbers and email addresses was replaced by a minimalist set of paragraphs in a hierarchy of online, phone and in person.
+Our initial changes were guided more by not repeating the past than by any focus on user needs; the long list of phone numbers and email addresses was replaced by a minimalist set of entries in a contact hierarchy of online, phone and in person.
 
-At the same time we were aware that there had been a call for a single email address for the council. 
+At the same time we were aware that there had been a call for a single email address for the council. Our Customer Service team  resisted this, as a previous attempt to use one had resulted in a deluge of general enquiries that needed significant staff time to categorise and forward to the most appropriate service.
+
+The new page was launched as part of the new site in January 2016 with a generic Contact Us form, with service categories to help speed up the processing of the responses. Without a corporate customer service email address, all submissions were forwarded to the webmaster address looked after by our team.
+
+After 8 days we'd received 107 
 
 ## Options we considered
 
