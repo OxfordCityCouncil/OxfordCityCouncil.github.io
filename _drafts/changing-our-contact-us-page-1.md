@@ -12,7 +12,7 @@ Our Contact Us page has had a chequered past and has received a good deal of att
 
 ## Where we started
 
-When we were developing our website in 2015, we took the opportunity to change our approach to content.
+When we were developing our website in 2015, we took the opportunity to change our approach to content at the same time.
 
 We'd benefitted from a content audit from our developers, [Jadu](www.jadu.net), along with some guidance on content strategy. One element of this was using our site to reduce avoidable contact.
 
