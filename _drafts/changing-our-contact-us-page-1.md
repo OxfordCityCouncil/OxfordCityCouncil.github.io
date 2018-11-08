@@ -6,7 +6,7 @@ excerpt: Our journey in researching, developing and launching a new approach, on
   to scrap it later
 
 ---
-As part of our ongoing set of performance metrics for our website we keep a close eye on satisfaction, using GovMetric as our main page-level feedback tool.
+As part of our ongoing set of [performance metrics for our website ](https://digital.oxford.gov.uk/performance/webtraffic.html)we keep a close eye on satisfaction, using [GovMetric](https://www.govmetric.com/how-it-works.html) as our main page-level feedback tool.
 
 ## How it started
 
