@@ -3,5 +3,3 @@ label: Blog
 hide_body: false
 is_partial: false
 fields: []
-pages:
-- _posts/2018-11-08-test-blog-post.md
