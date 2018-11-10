@@ -23,11 +23,11 @@ To date we've not shared our work on Pipeline, but we'll be revisiting this as w
 
 ## Government as a Platform
 
-The concept of shared, high quality digital capabilities was one limited to central government, but this is changing. 
+The concept of high quality digital capabilities developed centrally and available to others was once limited to central government, but this is changing. 
 
-In June 2017, GOV.Pay and GOV.Notify were available only to local authorities taking part in carefully curated pilot projects. In June this year their use was thrown open to any local authorities to use. With 60 of them taking up the use of GOV.Notify
+In June 2017, GOV.Pay and GOV.Notify were made available only to local authorities taking part in carefully curated pilot projects. In June this year their use was thrown open to any local authorities to use. With 60 of them taking up the use of GOV.Notify, and with rates for SMS the lowest available it's proving to be very attractive. We've started to experiment with it for a service in development, and may also be using the bulk upload option for a batch email reminder to some residents. 
 
-Perhaps the most exciting development is collaborative work between local authorities and the GOV.Pay team to see how the product can be developed to fill the gap between taking payments and reconciling these in  
+Perhaps the most exciting development is the collaborative work starting between local authorities and the GOV.Pay team. the plan is to see how the product can be developed to fill the gap between taking payments and reconciling these with local authority finance systems.   
 
 ## Local Digital Fund
 
