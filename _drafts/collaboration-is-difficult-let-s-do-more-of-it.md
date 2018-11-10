@@ -19,7 +19,7 @@ LocalGov Digital created [Pipeline](https://pipeline.localgov.digital) some year
 
 It has recently been given a new lease of life by the team at [Hackney](https://blogs.hackney.gov.uk/hackit/pipeline). At the time of writing this blog, 36 organisations were sharing information on 54 projects, and that will only increase as word is spread and more project take hold.
 
-To date we've not shared our work on Pipeline, but we'll be revisiting this as we start to move into newer areas of work like Robotic Process Automation and Chatbots/AI, where we know others are starting their own work too. 
+To date we've not shared our work on Pipeline, but we'll be revisiting this as we start to move into newer areas of work like Robotic Process Automation and Chatbots/AI, where we know others are starting their own work, and the need for collaboration is high. 
 
 ## Government as a Platform
 
@@ -27,7 +27,7 @@ The concept of shared, high quality digital capabilities was one limited to cent
 
 In June 2017, GOV.Pay and GOV.Notify were available only to local authorities taking part in carefully curated pilot projects. In June this year their use was thrown open to any local authorities to use. With 60 of them taking up the use of GOV.Notify
 
-Perhaps the most exciting development is collaborative work between local authorities and the GOV.Pay team to see how the product can be developed 
+Perhaps the most exciting development is collaborative work between local authorities and the GOV.Pay team to see how the product can be developed to fill the gap between taking payments and reconciling these in  
 
 ## Local Digital Fund
 
