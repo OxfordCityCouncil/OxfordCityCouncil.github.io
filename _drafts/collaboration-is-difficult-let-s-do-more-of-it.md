@@ -11,15 +11,19 @@ But it's always been a tricky thing to start. How do you find out who is doing w
 
 ## Pipeline
 
-LocalGov Digital created Pipeline some years ago as a means for councils to share what they were working on and encourage others to join them. Unfortunately it didn't get the traction it needed to be a focus for collaborative working.
+LocalGov Digital created [Pipeline](https://pipeline.localgov.digital) some years ago as a means for councils to share what they were working on and encourage others to join them. Unfortunately, it didn't get the traction it needed to be a focus for collaborative working - perhaps being ahead of its time.
 
-It has recently been given a new lease of life by the team at [Hackney](https://blogs.hackney.gov.uk/hackit/pipeline). At the time of writing this blog, 36 organisations were sharing information on 54 projects, and that will only increase as word is spread.
+It has recently been given a new lease of life by the team at [Hackney](https://blogs.hackney.gov.uk/hackit/pipeline). At the time of writing this blog, 36 organisations were sharing information on 54 projects, and that will only increase as word is spread and more project take hold.
+
+## Government as a Platform
 
 ## Local Digital Fund
 
-The newly-formed [Local Digital](https://localdigital.gov.uk/) unit in the Housing, Communities and Local Government (MHCLG) has been set up with the express intent of facilitating collaboration and move the work of central and local 
+The Ministry of Housing, Communities and Local Government (MHCLG) announced in 
 
-announced at 
+A new Local Digital team has been set up with the express intent of facilitating collaboration and move the work of central and local government closer together
+
+In early July it
 
 382 Expressions of interest
 
