@@ -37,8 +37,8 @@ The Ministry of Housing, Communities and Local Government (MHCLG) [announced in 
 
 A new [Local Digital team](https://localdigital.gov.uk/about/) has been set up with the express purpose of facilitating collaboration and move the work of central and local government closer together
 
-In September it opened the Expression of Interest stage and received 382 submissions from 171 organisations, many submitting multiple bids (Southwark entered 13. The average was 2.2 per local authority). The quality and ambition of these is varied, but 
+In September it opened the Expression of Interest stage and received 382 submissions from 171 organisations, many submitting multiple bids (Southwark entered 13. The average was 2.2 per local authority). The [quality and ambition of these is varied](http://philrumens.blogspot.com/2018/10/doing-few-good-things-well.html), but it shows the massive ambition 
 
-We were successful in having our Expression of Interest for developing a common approach to Chatbots and AI shortlisted, with an invitation to develop a full application.
+We were successful in having our Expression of Interest for [developing a common approach to Chatbots and AI](https://localdigital.gov.uk/eoi/oxford-city-council/) shortlisted, with an invitation to develop a full application. At the time of submission we struggled to find anyone to join us, but since then we've had 10 other councils join us. 
 
 ## What's stopping us?
