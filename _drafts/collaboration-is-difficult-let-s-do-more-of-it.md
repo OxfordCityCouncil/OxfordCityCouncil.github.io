@@ -35,7 +35,7 @@ Perhaps the most exciting development is the collaborative work starting between
 
 The Ministry of Housing, Communities and Local Government (MHCLG) [announced in July 2018 the creation of a £7.5m fund](https://mhclgdigital.blog.gov.uk/2018/07/04/why-mhclg-is-backing-a-local-government-digital-revolution/) to help local authorities build common solutions to shared problems.
 
-A new [Local Digital team](https://localdigital.gov.uk/about/) has been set up with the express purpose of facilitating collaboration and move the work of central and local government closer together
+A new [Local Digital team](https://localdigital.gov.uk/about/) has been set up within MHCLG with the express purpose of facilitating collaboration and move the work of central and local government closer together
 
 In September it opened the Expression of Interest stage and received 382 submissions from 171 organisations, many submitting multiple bids (Southwark entered 13. The average was 2.2 per local authority). The [quality and ambition of these is varied](http://philrumens.blogspot.com/2018/10/doing-few-good-things-well.html), but it shows the massive interest in working together to resolve issues. 
 
