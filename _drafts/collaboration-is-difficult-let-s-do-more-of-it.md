@@ -43,4 +43,15 @@ We were successful in having our Expression of Interest for [developing a common
 
 ## What's stopping us doing more?
 
-Collaboration is hard
+Collaboration is hard work. You have to;
+
+* Compete with other demands on resource for 'must-do' projects
+* Align with the differing objectives of other organisations
+* Deal with the potential clash of cultures and expectations 
+* Put aside a 'what's in it for me?' view and think about common gains
+
+But the rewards are significant;
+
+* Costs can be shared and so reduced
+* You can build on the skill and experience of others rather than start from scratch
+* 
