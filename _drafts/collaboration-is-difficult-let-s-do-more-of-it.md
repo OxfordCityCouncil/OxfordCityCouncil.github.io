@@ -25,20 +25,18 @@ To date we've not shared our work on Pipeline, but we'll be revisiting this as w
 
 The concept of high quality digital capabilities developed centrally and available to others was once limited to central government, but this is changing. 
 
-In June 2017, GOV.Pay and GOV.Notify were made available only to local authorities taking part in carefully curated pilot projects. In June this year their use was thrown open to any local authorities to use. With 60 of them taking up the use of GOV.Notify, and with rates for SMS the lowest available it's proving to be very attractive. We've started to experiment with it for a service in development, and may also be using the bulk upload option for a batch email reminder to some residents. 
+In June 2017, GOV.Pay and GOV.Notify were made available only to local authorities taking part in carefully curated pilot projects. In June this year their use was [thrown open to all local authorities to use](https://governmentasaplatform.blog.gov.uk/2018/07/05/notify-pay-local-authorities/). With 60 of them taking up the use of GOV.Notify, and with its rates for SMS the lowest available, it's proving to be very attractive. 
 
-Perhaps the most exciting development is the collaborative work starting between local authorities and the GOV.Pay team. the plan is to see how the product can be developed to fill the gap between taking payments and reconciling these with local authority finance systems.   
+We've started to experiment with GOV.Notify for a service in development, and may also be using the bulk upload option for a batch email reminder to some residents soon. 
+
+Perhaps the most exciting development is the collaborative work starting between [local authorities and the GOV.Pay team](https://localdigital.gov.uk/eoi/north-east-lincolnshire-council-nelc-4/). the plan is to see how the product can be developed to fill the gap between taking payments and reconciling these with local authority finance systems. If successful this could save a significant amount of money in buying commercial third party products. We're looking to collaborate on this discovery work too.  
 
 ## Local Digital Fund
 
-The Ministry of Housing, Communities and Local Government (MHCLG) announced in 
+The Ministry of Housing, Communities and Local Government (MHCLG) [announced in July 2018 the creation of a £7.5m fund](https://mhclgdigital.blog.gov.uk/2018/07/04/why-mhclg-is-backing-a-local-government-digital-revolution/) to help local authorities build common solutions to shared problems.
 
-A new Local Digital team has been set up with the express intent of facilitating collaboration and move the work of central and local government closer together
+A new [Local Digital team](https://localdigital.gov.uk/about/) has been set up with the express purpose of facilitating collaboration and move the work of central and local government closer together
 
-In early July it
-
-382 Expressions of interest
-
-171 organisations; Southwark 13. Average 2.2
+In September it opened the Expression of Interest stage and received 382 submissions from 171 organisations, many submitting multiple bids (Southwark entered 13. The average was 2.2 per local authority).
 
 ## What's stopping us?
