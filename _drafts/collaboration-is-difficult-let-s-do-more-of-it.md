@@ -42,3 +42,5 @@ In September it opened the Expression of Interest stage and received 382 submiss
 We were successful in having our Expression of Interest for [developing a common approach to Chatbots and AI](https://localdigital.gov.uk/eoi/oxford-city-council/) shortlisted, with an invitation to develop a full application. At the time of submission we struggled to find anyone to join us, but since then we've had 10 other councils collaborate with us in developing the full application. 
 
 ## What's stopping us doing more?
+
+Collaboration is hard
