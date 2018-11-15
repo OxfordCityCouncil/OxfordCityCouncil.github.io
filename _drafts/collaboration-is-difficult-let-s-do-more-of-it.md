@@ -11,6 +11,8 @@ We've had minor success to date in working with Democracy Club [on their polling
 
 But it's always been a tricky thing to start. How do you find out who is doing what? How do you get involved? How do you start something and get others to join you?
 
+## Collaboration initiatives
+
 The collaborative working environment in the public sector has taken off recently giving rise to great opportunities for us to capitalise on. We've seen
 
 * the re-birth of [Pipeline](https://pipeline.localgov.digital), through a LocalGov Digital/Hackney collaboration, to help councils connect with each other on projects they are working on
@@ -38,9 +40,9 @@ Like a lot of authorities, we'd starting to look at this capability as another t
 
 Wouldn't it be better if we had a common approach? What if all councils used the _same_ platform, used a _common_ process library and managed it _themselves_ as a sector? Wouldn't that be breaking the mould?
 
-We realised that as we didn't have any user research at all and we'd need to do some legwork to find out more. So we put an (ambitious) concept together as [an expression of interest ](https://localdigital.gov.uk/eoi/oxford-city-council/)to put this concept into practice. 
+We realised that as we didn't have any user research at all and we'd need to do some legwork to find out more. So we put an (ambitious) concept together as [an expression of interest ](https://localdigital.gov.uk/eoi/oxford-city-council/)(EoI) to put this concept into practice. 
 
-At the time of submission on 5 October we struggled to find anyone to join us, and thought this would mean the bid would get nowhere. 
+We posted our EoI on the LocalGov Digital slack team to try and entice others to join us, as lots of other councils were doing, but by the time of submission on 5 October we hadn't found anyone to join us. We thought this would mean the bid would get nowhere. 
 
 ### Invitation to Apply 
 
@@ -49,4 +51,12 @@ On 16 October we were pleasantly surprised to get not one but _two_ emails confi
 * **Chatbots, artificial intelligence or robotic process automation** with six other councils
 * **Local government as a platform**, with nine other councils
 
-After a bit of back-slapping we realised we were still in the same situation as before with no partners.
+After a bit of back-slapping we realised we were still in the same situation as before with no partners and just 3 weeks to find some and submit a full application.
+
+### Starting to collaborate
+
+To get things started we emailed every council in the Chatbot category on 17 October (including those not invited to apply), set up a dedicated Slack channel for the category and posted a [summary of the applications and their status](https://docs.google.com/spreadsheets/d/1-jQjWUjuK1jhJ7WUUyLFTVyDxxA3uJrUKlOYRuwkKls/edit?usp=sharing) to help improve the visibility a bit. 
+
+By 19 October it still felt like nothing was really moving so we started a Doodle poll to set up a kick-off meeting with everyone. This [took place on 24 October](https://docs.google.com/document/d/15JN20GxWw10wo_As3dzvhz1j0QV2jmxdHIKPIoiTNA0/edit?usp=sharing) via a Google Hangoutwith an open agenda for everyone to add to. Nine councils were able to join, with two others trying.
+
+The discussion began to fork into two groups.  It was clear some councils were already well established in using chatbots and wanted to extend these into personal assistants, and another group were in the 'chatbots from scratch' area not knowing how to start.
