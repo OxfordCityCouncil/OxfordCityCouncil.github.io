@@ -1,5 +1,5 @@
 ---
-title: Collaboration is everywhere - Local Digital Fund
+title: Collaboration is everywhere - Local Digital Fund application
 layout: post
 date: 2018-11-15 00:00:00 +0000
 excerpt: ''
@@ -11,33 +11,22 @@ We've had minor success to date in working with Democracy Club [on their polling
 
 But it's always been a tricky thing to start. How do you find out who is doing what? How do you get involved? How do you start something and get others to join you?
 
-The collaborative working environment in the public sector has taken off recently giving rise to great opportunities for us to capitalise on. Here's a recap:
+The collaborative working environment in the public sector has taken off recently giving rise to great opportunities for us to capitalise on. We've seen
 
-## Pipeline
-
-LocalGov Digital created [Pipeline](https://pipeline.localgov.digital) some years ago as a means for councils to share what they were working on and to encourage others to join them. Unfortunately, it didn't get the traction it needed to be a focus for collaborative working - perhaps being ahead of its time.
-
-It has recently been given a new lease of life by the team at [Hackney](https://blogs.hackney.gov.uk/hackit/pipeline). At the time of writing this blog, 36 organisations were sharing information on 54 projects, and that will only increase as word is spread and more project take hold.
-
-To date we've not shared our work on Pipeline, but we'll be revisiting this as we start to move into newer areas of work like Robotic Process Automation and Chatbots/AI, where we know others are starting their own work, and the need for collaboration is high.
-
-## Government as a Platform
-
-The concept of high quality digital capabilities developed centrally and available to others was once limited to central government, but this is changing.
-
-In June 2017, GOV.Pay and GOV.Notify were made available only to local authorities taking part in carefully curated pilot projects. In June this year their use was [thrown open to all local authorities to use](https://governmentasaplatform.blog.gov.uk/2018/07/05/notify-pay-local-authorities/). With 60 of them taking up the use of GOV.Notify, and with its rates for SMS the lowest available, it's proving to be very attractive.
-
-We've started to experiment with GOV.Notify for a service in development, and may also be using the bulk upload option for a batch email reminder to some residents soon.
+* the re-birth of [Pipeline](https://pipeline.localgov.digital), through a LocalGov Digital/Hackney collaboration, to help councils connect with each other on projects they are working on
+*  the opening up of Government as a Platform services like GOV.Pay and GOV.Notify [to all local authorities in June 2018](https://governmentasaplatform.blog.gov.uk/2018/07/05/notify-pay-local-authorities/) . With 60 of them taking up the use of GOV.Notify already it's proving to be very attractive.
+* the launch of the [Local Digital team](https://localdigital.gov.uk/about/) within the Ministry of Housing, Communities and Local Government (MHCLG) with the express purpose of facilitating collaboration and move the work of central and local government closer together
+* the [announcement in July 2018 of the creation of a £7.5m fund](https://mhclgdigital.blog.gov.uk/2018/07/04/why-mhclg-is-backing-a-local-government-digital-revolution/) to help local authorities build common solutions to shared problems.
 
 Perhaps the most exciting development is the collaborative work starting between [local authorities and the GOV.Pay team](https://localdigital.gov.uk/eoi/north-east-lincolnshire-council-nelc-4/). The plan is to see how the product can be developed to fill the gap between taking payments and reconciling these with local authority finance systems. If successful this could save a significant amount of money in councils buying commercial third party products. We're looking to collaborate on this discovery work too with North Lincolnshire, albeit in a 'light touch' only capacity
 
 ## Local Digital Fund
 
-The Ministry of Housing, Communities and Local Government (MHCLG) [announced in July 2018 the creation of a £7.5m fund](https://mhclgdigital.blog.gov.uk/2018/07/04/why-mhclg-is-backing-a-local-government-digital-revolution/) to help local authorities build common solutions to shared problems.
+In September the Local Digital Team opened the Expression of Interest stage for bids against the Local Digital Fund. 
 
-A new [Local Digital team](https://localdigital.gov.uk/about/) has been set up with the express purpose of facilitating collaboration and move the work of central and local government closer together
+No one was sure quite what the scale of the response would but the 382 submissions received from 171 organisations took many by surprise
 
-In September it opened the Expression of Interest stage and received 382 submissions from 171 organisations, many submitting multiple bids (Southwark entered 13. The average was 2.2 per local authority). The [quality and ambition of these is varied](http://philrumens.blogspot.com/2018/10/doing-few-good-things-well.html), but it shows the massive interest in working together to resolve issues.
+Many councils submitting multiple bids (Southwark entered 13. The average was 2.2 per local authority). The [quality and ambition of these was varied](http://philrumens.blogspot.com/2018/10/doing-few-good-things-well.html), but it showed the massive interest in working together to resolve issues.
 
 ## Our Local Digital Fund application
 
@@ -51,7 +40,7 @@ Wouldn't it be better if we had a common approach? What if all councils used the
 
 We realised that as we didn't have any user research at all and we'd need to do some legwork to find out more. So we put an (ambitious) concept together as [an expression of interest ](https://localdigital.gov.uk/eoi/oxford-city-council/)to put this concept into practice. 
 
-At the time of submission we struggled to find anyone to join us. 
+At the time of submission we struggled to find anyone to join us, and thought this would mean the bid would get nowhere
 
 ### Invitation to Apply 
 
