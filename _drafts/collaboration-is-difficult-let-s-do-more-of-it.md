@@ -20,7 +20,7 @@ The collaborative working environment in the public sector has taken off recentl
 * the launch of the [Local Digital team](https://localdigital.gov.uk/about/) within the Ministry of Housing, Communities and Local Government (MHCLG) with the express purpose of facilitating collaboration and move the work of central and local government closer together
 * the [announcement in July 2018 of the creation of a £7.5m fund](https://mhclgdigital.blog.gov.uk/2018/07/04/why-mhclg-is-backing-a-local-government-digital-revolution/) to help local authorities build common solutions to shared problems.
 
-Perhaps the most exciting development is the collaborative work starting between [local authorities and the GOV.Pay team](https://localdigital.gov.uk/eoi/north-east-lincolnshire-council-nelc-4/). The plan is to see how the product can be developed to fill the gap between taking payments and reconciling these with local authority finance systems. If successful this could save a significant amount of money in councils buying commercial third party products. We're looking to collaborate on this discovery work too with North Lincolnshire, albeit in a 'light touch' only capacity
+Perhaps the most exciting development is the collaborative work starting between [local authorities and the GOV.Pay team](https://localdigital.gov.uk/eoi/north-east-lincolnshire-council-nelc-4/). The plan is to see how the product can be developed to fill the gap between taking payments and reconciling these with local authority finance systems. If successful this could save a significant amount of money in councils buying commercial third party products. We're looking to collaborate on this discovery work too with North Lincolnshire, albeit in a 'light touch' only capacity.
 
 ## Local Digital Fund
 
@@ -123,7 +123,7 @@ For other authorities, like us, what would be the most useful starting point? We
 
 At the same time we wanted to keep to our original EoI and explore the feasibility of a common platform we could use across the sector.
 
-On 14 November we held another Hangout, this time to have a final read-through and sign off our application. It felt like an achievement, separate to the success or otherwise of the application, to have formed as a group to speak with a single voice. We made new contacts and new friends. 
+On 14 November we held another Hangout, this time to have a final read-through and sign off our application. It felt like an achievement, separate to the success or otherwise of the application, to have formed as a group to speak with a single voice. We made new contacts in new areas, and a number of spin-off opportunities could arise from this. 
 
 On 15 November we submitted our application. But the work doesn't stop there; because of the tight delivery timescale we need to start work next week on preparations for procuring a digital agency so that we can press the 'go' button on the exercise the minute the next email is received from MHCLG to say we've been successful.
 
