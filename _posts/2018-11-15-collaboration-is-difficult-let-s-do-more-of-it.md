@@ -113,7 +113,7 @@ The insight we gained was;
 
 ### Finalising our application
 
-We were really clear throughout the process that the purpose of the Fund and the projects arising from it was to ensure the sector _as a whole_ benefitted from the outcomes. So that focused our minds on what would be in the application.
+We were really clear throughout the process that the purpose of the Fund and the projects arising from it was to ensure the sector as a whole benefitted from the outcomes. So that focused our minds on what would be in the application.
 
 For other authorities, like us, what would be the most useful starting point? We felt this would include;
 
