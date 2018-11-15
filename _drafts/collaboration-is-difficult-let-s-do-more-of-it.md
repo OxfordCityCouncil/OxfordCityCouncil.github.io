@@ -40,8 +40,11 @@ Wouldn't it be better if we had a common approach? What if all councils used the
 
 We realised that as we didn't have any user research at all and we'd need to do some legwork to find out more. So we put an (ambitious) concept together as [an expression of interest ](https://localdigital.gov.uk/eoi/oxford-city-council/)to put this concept into practice. 
 
-At the time of submission we struggled to find anyone to join us, and thought this would mean the bid would get nowhere
+At the time of submission on 5 October we struggled to find anyone to join us, and thought this would mean the bid would get nowhere. 
 
 ### Invitation to Apply 
 
-but since then we've had 10 other councils collaborate with us in developing the full application.
+On 16 October we were pleasantly surprised to get not one but _two_ emails confirming we'd been invited to make a full application. Each was an invitation for a category;
+
+* **Chatbots, artificial intelligence or robotic process automation** with six other councils
+* **Local government as a platform**, with nine other councils
