@@ -69,7 +69,7 @@ We decided that the best way to get an overview of intentions was to [put a shor
 
 Even using this method, and a number of email reminders, only 14 responses were received, the last being on 5 November. Despite this, it was an effective way of councils stating their preference, or that they were withdrawing from the process altogether.
 
-This lack of information was a real blocker in moving things along and finding collaborators early enough for them to make a significant contribution to our developing application.  
+This lack of information was a real blocker in moving things along and finding collaborators early enough for them to make a significant contribution to our developing application.
 
 ### Gathering collaborators
 
@@ -86,6 +86,10 @@ The timeline for our growing list of collaborators was;
 
 We were really pleased to attract three councils that had the opportunity to make their own applications, but saw the value of working together.
 
+What struck us in particular was the distribution of the councils that got involved. This was _not_ a London-centric group.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=11L7Kzhn14V_NaMobqFsSeTPnoOToU-UD" width="640" height="480"></iframe>
+
 ### Talking to the market
 
 As the application began to take shape, we reached out to a friendly supplier ([DXW Digital](https://www.dxw.com/)) to test the feasibility of the proposed project, what would make a good Digital Outcomes proposal and if it would attract a digital supplier to bid for the work involved. This was invaluable and felt like an essential step  any applicant should go through as part of the process.
@@ -94,11 +98,11 @@ The insight we gained was;
 
 * We would need at least one day with everyone together in the same room at a kick-off meeting to ensure expectations are common and everyone understands what is required of them as a participant
 * Discovery projects are predominantly about user research and its findings rather than evaluation of tech choices; it’s about properly understanding the problem to be solved rather than going straight to a solution
-* Trying to achieve too much with the project could test the capacity of any supplier and undermine the value of what we get out of it. 
+* Trying to achieve too much with the project could test the capacity of any supplier and undermine the value of what we get out of it.
 * Showing the value of the project is important – the business case for spending the money must stack up. Just exploring for the sake of it won’t be robust enough as a reason.
 * Even if we write the best proposal for a supplier they may still not go for it if;
 
-  o   they don’t have the capacity due to other projects 
+  o   they don’t have the capacity due to other projects
 
   o   they don’t think it’s been scoped properly, or is uncertain what it wants to achieve
 
@@ -118,3 +122,5 @@ For other authorities, like us, what would be the most useful starting point? We
 * A set of case studies, drawn from a range of service areas, that could apply to a range of councils
 
 At the same time we wanted to keep to our original EoI and explore the feasibility of a common platform we could use across the sector.
+
+On 14 November we held another hangout and 
