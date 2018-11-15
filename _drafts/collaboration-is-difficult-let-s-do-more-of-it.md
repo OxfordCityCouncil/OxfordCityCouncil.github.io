@@ -86,11 +86,11 @@ The timeline for our growing list of collaborators was;
 
 We were really pleased to attract three councils that had the opportunity to make their own applications, but saw the value of working together.
 
-### Asking the market
+### Talking to the market
 
-As the application began to take shape, we reached out to a friendly supplier ([DXW Digital](https://www.dxw.com/)) to test the feasibility of the proposed project, what would make a good Digital Outcomes proposal and if it would attract a digital supplier to bid for the work involved. This was invaluable.
+As the application began to take shape, we reached out to a friendly supplier ([DXW Digital](https://www.dxw.com/)) to test the feasibility of the proposed project, what would make a good Digital Outcomes proposal and if it would attract a digital supplier to bid for the work involved. This was invaluable and felt like an essential step for any applicant.
 
-The key learning points from this were;
+The insight from this was;
 
 * We would need at least one day with everyone together in the same room at a kick-off meeting to ensure expectations are common and everyone understands what is required of them as a participant
 * Discovery projects are predominantly about user research and its findings rather than evaluation of tech choices; it’s about properly understanding the problem to be solved rather than going straight to a solution
