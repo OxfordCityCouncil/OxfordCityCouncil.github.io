@@ -88,9 +88,9 @@ We were really pleased to attract three councils that had the opportunity to mak
 
 ### Talking to the market
 
-As the application began to take shape, we reached out to a friendly supplier ([DXW Digital](https://www.dxw.com/)) to test the feasibility of the proposed project, what would make a good Digital Outcomes proposal and if it would attract a digital supplier to bid for the work involved. This was invaluable and felt like an essential step for any applicant.
+As the application began to take shape, we reached out to a friendly supplier ([DXW Digital](https://www.dxw.com/)) to test the feasibility of the proposed project, what would make a good Digital Outcomes proposal and if it would attract a digital supplier to bid for the work involved. This was invaluable and felt like an essential step for any applicant in the process.
 
-The insight from this was;
+The insight we gained was;
 
 * We would need at least one day with everyone together in the same room at a kick-off meeting to ensure expectations are common and everyone understands what is required of them as a participant
 * Discovery projects are predominantly about user research and its findings rather than evaluation of tech choices; it’s about properly understanding the problem to be solved rather than going straight to a solution
