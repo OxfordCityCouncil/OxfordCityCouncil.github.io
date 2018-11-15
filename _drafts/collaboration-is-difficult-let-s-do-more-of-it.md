@@ -110,3 +110,11 @@ The insight we gained was;
 ### Finalising our application
 
 We were really clear throughout the process that the purpose of the Fund and the projects arising from it was to ensure the sector _as a whole_ benefitted from the outcomes. So that focused our minds on what would be in the application.
+
+For other authorities, like us, what would be the most useful starting point? We felt this would include;
+
+* An overview of the technology choices and their relative merits
+* A methodology for evaluating the suitability of chatbots as a business case
+* A set of case studies, drawn from a range of service areas, that could apply to a range of councils
+
+At the same time we wanted to keep to our original EoI and explore the feasibility of 
