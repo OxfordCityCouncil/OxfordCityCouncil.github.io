@@ -79,4 +79,10 @@ We began to attract councils through the survey form, but also through the use o
 * 12 councils (12 November)
 * 14 councils (15 November - on the application deadline!)
 
-### Talking to a supplier
+### Testing the market
+
+As the application began to take shape, we reached out to a friendly supplier ([DXW Digital](https://www.dxw.com/)) to test the feasibility of the proposed project and if it would attract a digital supplier to bid for the work involved.
+
+The key learning point from this were;
+
+* the 
