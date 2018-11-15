@@ -71,4 +71,12 @@ Even using this method, and a number of email reminders, only 14 responses were 
 
 ### Gathering collaborators
 
-We began to attract councils through the 
+We began to attract councils through the survey form, but also through the use of group emails to everyone in the category. The timeline was;
+
+* 4 councils (24 October)
+* 8 councils (29 October)
+* 9 councils (1 November)
+* 12 councils (12 November)
+* 14 councils (15 November - on the application deadline!)
+
+### Talking to a supplier
