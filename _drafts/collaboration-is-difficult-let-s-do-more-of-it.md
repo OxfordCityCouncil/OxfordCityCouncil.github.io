@@ -117,4 +117,4 @@ For other authorities, like us, what would be the most useful starting point? We
 * A methodology for evaluating the suitability of chatbots as a business case
 * A set of case studies, drawn from a range of service areas, that could apply to a range of councils
 
-At the same time we wanted to keep to our original EoI and explore the feasibility of 
+At the same time we wanted to keep to our original EoI and explore the feasibility of a common platform we could use across the sector.
