@@ -67,7 +67,7 @@ It was possible to get an outline agreement from some of the councils present to
 
 We decided that the best way to get an overview of intentions was to [put a short Google Form together](https://docs.google.com/forms/d/e/1FAIpQLSd5X9oCYVuTzWgf_BTr2mM80yEFOs5VHM7YgKbDo04MjBiScA/viewanalytics) to survey the field. This went out on 25 October. 
 
-Even using this method, and a number of email reminders, only 14 responses were received, the latest being on 5 November
+Even using this method, and a number of email reminders, only 14 responses were received, the last being on 5 November. Despite this, it was an effective way of councils stating their preference, or that they were withdrawing from the process altogether.
 
 ### Gathering collaborators
 
