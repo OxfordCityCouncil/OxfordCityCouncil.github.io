@@ -81,7 +81,7 @@ We began to attract councils through the survey form, but also through the use o
 
 ### Asking the market
 
-As the application began to take shape, we reached out to a friendly supplier ([DXW Digital](https://www.dxw.com/)) to test the feasibility of the proposed project and if it would attract a digital supplier to bid for the work involved. This was invaluable.
+As the application began to take shape, we reached out to a friendly supplier ([DXW Digital](https://www.dxw.com/)) to test the feasibility of the proposed project, what would make a good Digital Outcomes proposal and if it would attract a digital supplier to bid for the work involved. This was invaluable.
 
 The key learning points from this were;
 
