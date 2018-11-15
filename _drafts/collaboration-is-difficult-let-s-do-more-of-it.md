@@ -51,7 +51,7 @@ On 16 October we were pleasantly surprised to get _two_ emails confirming we'd b
 * **Chatbots, artificial intelligence or robotic process automation** with six other councils
 * **Local government as a platform** with nine other councils
 
-After a bit of back-slapping we realised we were still in the same situation as before with no partners and just 3 weeks to find some to submit a full application.
+After a bit of back-slapping we realised we were still in the same situation as before with no partners and just 3 weeks to find some to submit a robust application.
 
 ### Starting the discussion
 
