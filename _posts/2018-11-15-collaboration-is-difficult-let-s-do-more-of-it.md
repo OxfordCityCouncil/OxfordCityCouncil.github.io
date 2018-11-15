@@ -38,7 +38,7 @@ We decided to put together an exploratory bid to the Local Digital Fund for some
 
 Like a lot of authorities, we'd starting to look at this capability as another tool in our set for automating straightforward tasks, improving service to our customers and reducing costs. We'd started to look at Dialogflow as a potential platform, but then we realised we were starting down the path of individualisation.
 
-Wouldn't it be better if we had a _common_ approach? What if all councils used the _same_ platform, used a _common_ process library and managed it _themselves_ as a sector? Wouldn't that be breaking the mould?
+Wouldn't it be better if we had a common approach? What if all councils used the same platform, used a common process library and managed it themselves as a sector? Wouldn't that be breaking the mould?
 
 We realised that as we didn't have any user research at all and we'd need to do some legwork to find out more. So we put an (ambitious) concept together as [an expression of interest](https://localdigital.gov.uk/eoi/oxford-city-council/) (EoI) to put this concept into practice.
 
@@ -46,7 +46,7 @@ We posted our EoI on the LocalGov Digital slack team to try and entice others to
 
 ### Invitation to Apply
 
-On 16 October we were pleasantly surprised to get _two_ emails confirming we'd been invited to make a full application. Each was an invitation for a category;
+On 16 October we were pleasantly surprised to get two emails confirming we'd been invited to make a full application. Each was an invitation for a category;
 
 * **Chatbots, artificial intelligence or robotic process automation** with six other councils
 * **Local government as a platform** with nine other councils
@@ -86,7 +86,7 @@ The timeline for our growing list of collaborators was;
 
 We were really pleased to attract three councils that had the opportunity to make their own applications, but saw the value of working together.
 
-What struck us in particular was the distribution of the councils that got involved. This was _not_ a London-centric group.
+What struck us in particular was the distribution of the councils that got involved. This was not a London-centric group.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=11L7Kzhn14V_NaMobqFsSeTPnoOToU-UD" width="640" height="480"></iframe>
 
@@ -123,8 +123,8 @@ For other authorities, like us, what would be the most useful starting point? We
 
 At the same time we wanted to keep to our original EoI and explore the feasibility of a common platform we could use across the sector.
 
-On 14 November we held another Hangout, this time to have a final read-through and sign off our application. It felt like an achievement, separate to the success or otherwise of the application, to have formed as a group to speak with a single voice. We made new contacts in new areas, and a number of spin-off opportunities could arise from this. 
+On 14 November we held another Hangout, this time to have a final read-through and sign off our application. It felt like an achievement, separate to the success or otherwise of the application, to have formed as a group to speak with a single voice. We made new contacts in new areas, and a number of spin-off opportunities could arise from this.
 
 On 15 November we submitted our application. But the work doesn't stop there; because of the tight delivery timescale we need to start work next week on preparations for procuring a digital agency so that we can press the 'go' button on the exercise the minute the next email is received from MHCLG to say we've been successful.
 
-Unless of course we're unsuccessful... 
+Unless of course we're unsuccessful...
