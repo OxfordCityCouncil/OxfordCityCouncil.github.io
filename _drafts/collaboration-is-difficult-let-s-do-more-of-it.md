@@ -48,3 +48,5 @@ On 16 October we were pleasantly surprised to get not one but _two_ emails confi
 
 * **Chatbots, artificial intelligence or robotic process automation** with six other councils
 * **Local government as a platform**, with nine other councils
+
+After a bit of back-slapping we realised we were still in the same situation as before with no partners.
