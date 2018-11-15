@@ -5,7 +5,7 @@ date: 2018-11-15 00:00:00 +0000
 excerpt: ''
 
 ---
-As proud members of LocalGov Digital we've been flying the flag of collaboration for some time. Put simply, as a small team with limited capacity, skills and funding we can't hope to make as big an impact as we'd like by working alone. It's why our first Digital Strategy had a [core principle of collaboration](https://digital.oxford.gov.uk/strategy/collaboration.html), and our replacement Customer, Digital and Technology Strategy will continue that commitment.
+As proud members of [LocalGov Digital](https://localgov.digital) we've been flying the flag of collaboration for some time. Put simply, as a small team with limited capacity, skills and funding we can't hope to make as big an impact as we'd like by working alone. It's why our first Digital Strategy had a [core principle of collaboration](https://digital.oxford.gov.uk/strategy/collaboration.html), and our replacement Customer, Digital and Technology Strategy will continue that commitment.
 
 We've had minor success to date in working with Democracy Club [on their polling station finder](https://digital.oxford.gov.uk/blog/2017/05/17/collaboration-not-reinvention), and with Kings Lynn & West Norfolk in using their skills to [develop a new Contact Us page]().
 
