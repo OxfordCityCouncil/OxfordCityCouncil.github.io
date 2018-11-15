@@ -85,7 +85,7 @@ As the application began to take shape, we reached out to a friendly supplier ([
 
 The key learning points from this were;
 
-* we would need at least one day with everyone together in the same room at a kick-off meeting to ensure expectations are common and everyone understands what is required of them as a participant
+* We would need at least one day with everyone together in the same room at a kick-off meeting to ensure expectations are common and everyone understands what is required of them as a participant
 * Discovery projects are predominantly about user research and its findings rather than evaluation of tech choices; it’s about properly understanding the problem to be solved rather than going straight to a solution
 * Trying to achieve too much with the project could test the capacity of any supplier and undermine the value of what we get out of it. 
 * Showing the value of the project is important – the business case for spending the money must stack up. Just exploring for the sake of it won’t be robust enough as a reason.
@@ -98,4 +98,4 @@ The key learning points from this were;
   o   They don’t have the sort of staff required for it
 
   o   It may not make them enough money
-* The biggest challenges we face will be cultural ones; expectations on what is possible, unfamiliarity with Agile, unfamiliarity with user research, lack of understanding about the value of discovery
+* The biggest challenges  will be cultural ones; expectations on what is possible, unfamiliarity with Agile, unfamiliarity with user research, lack of understanding about the value of discovery
