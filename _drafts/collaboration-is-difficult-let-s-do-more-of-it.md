@@ -16,7 +16,7 @@ But it's always been a tricky thing to start. How do you find out who is doing w
 The collaborative working environment in the public sector has taken off recently giving rise to great opportunities for us to capitalise on. We've seen
 
 * the re-birth of [Pipeline](https://pipeline.localgov.digital), through a LocalGov Digital/Hackney collaboration, to help councils connect with each other on projects they are working on
-*  the opening up of Government as a Platform services like GOV.Pay and GOV.Notify [to all local authorities in June 2018](https://governmentasaplatform.blog.gov.uk/2018/07/05/notify-pay-local-authorities/) . With 60 of them taking up the use of GOV.Notify already it's proving to be very attractive.
+* the opening up of Government as a Platform services like GOV.Pay and GOV.Notify [to all local authorities in June 2018](https://governmentasaplatform.blog.gov.uk/2018/07/05/notify-pay-local-authorities/) . With 60 of them taking up the use of GOV.Notify already it's proving to be very attractive.
 * the launch of the [Local Digital team](https://localdigital.gov.uk/about/) within the Ministry of Housing, Communities and Local Government (MHCLG) with the express purpose of facilitating collaboration and move the work of central and local government closer together
 * the [announcement in July 2018 of the creation of a £7.5m fund](https://mhclgdigital.blog.gov.uk/2018/07/04/why-mhclg-is-backing-a-local-government-digital-revolution/) to help local authorities build common solutions to shared problems.
 
@@ -24,7 +24,7 @@ Perhaps the most exciting development is the collaborative work starting between
 
 ## Local Digital Fund
 
-In September the Local Digital Team opened the Expression of Interest stage for bids against the Local Digital Fund. 
+In September the Local Digital Team opened the Expression of Interest stage for bids against the Local Digital Fund.
 
 No one was sure quite what the scale of the response would but the 382 submissions received from 171 organisations took many by surprise
 
@@ -40,11 +40,11 @@ Like a lot of authorities, we'd starting to look at this capability as another t
 
 Wouldn't it be better if we had a common approach? What if all councils used the _same_ platform, used a _common_ process library and managed it _themselves_ as a sector? Wouldn't that be breaking the mould?
 
-We realised that as we didn't have any user research at all and we'd need to do some legwork to find out more. So we put an (ambitious) concept together as [an expression of interest ](https://localdigital.gov.uk/eoi/oxford-city-council/)(EoI) to put this concept into practice. 
+We realised that as we didn't have any user research at all and we'd need to do some legwork to find out more. So we put an (ambitious) concept together as [an expression of interest ](https://localdigital.gov.uk/eoi/oxford-city-council/)(EoI) to put this concept into practice.
 
-We posted our EoI on the LocalGov Digital slack team to try and entice others to join us, as lots of other councils were doing, but by the time of submission on 5 October we hadn't found anyone to join us. We thought this would mean the bid would get nowhere. 
+We posted our EoI on the LocalGov Digital slack team to try and entice others to join us, as lots of other councils were doing, but by the time of submission on 5 October we hadn't found anyone to join us. We thought this would mean the bid would get nowhere.
 
-### Invitation to Apply 
+### Invitation to Apply
 
 On 16 October we were pleasantly surprised to get not one but _two_ emails confirming we'd been invited to make a full application. Each was an invitation for a category;
 
@@ -55,17 +55,17 @@ After a bit of back-slapping we realised we were still in the same situation as 
 
 ### Starting the discussion
 
-To get things started we emailed every council in the Chatbot category on 17 October (including those not invited to apply), set up a dedicated Slack channel for the category and posted a [summary of the applications and their status](https://docs.google.com/spreadsheets/d/1-jQjWUjuK1jhJ7WUUyLFTVyDxxA3uJrUKlOYRuwkKls/edit?usp=sharing) to help improve the visibility a bit. 
+To get things started we emailed every council in the Chatbot category on 17 October (including those not invited to apply), set up a dedicated Slack channel for the category and posted a [summary of the applications and their status](https://docs.google.com/spreadsheets/d/1-jQjWUjuK1jhJ7WUUyLFTVyDxxA3uJrUKlOYRuwkKls/edit?usp=sharing) to help improve the visibility a bit.
 
 By 19 October it still felt like nothing was really moving so we started a Doodle poll to set up a kick-off meeting with everyone. This [took place on 24 October](https://docs.google.com/document/d/15JN20GxWw10wo_As3dzvhz1j0QV2jmxdHIKPIoiTNA0/edit?usp=sharing) via a Google Hangoutwith an open agenda for everyone to add to. Nine councils were able to join, with two others trying.
 
 The discussion began to fork into two groups.  It was clear some councils were already well established in using chatbots and wanted to extend these into personal assistants, and another group were in the 'chatbots from scratch' area not knowing how to start.
 
-It was possible to get an outline agreement from some of the councils present to join one or other of the groups, but with a total of 22 councils in the overall category it was impossible to know what the overall intentions were. 
+It was possible to get an outline agreement from some of the councils present to join one or other of the groups, but with a total of 22 councils in the overall category it was impossible to know what the overall intentions were.
 
 ### Surveying the category group
 
-We decided that the best way to get an overview of intentions was to [put a short Google Form together](https://docs.google.com/forms/d/e/1FAIpQLSd5X9oCYVuTzWgf_BTr2mM80yEFOs5VHM7YgKbDo04MjBiScA/viewanalytics) to survey the field. This went out on 25 October. 
+We decided that the best way to get an overview of intentions was to [put a short Google Form together](https://docs.google.com/forms/d/e/1FAIpQLSd5X9oCYVuTzWgf_BTr2mM80yEFOs5VHM7YgKbDo04MjBiScA/viewanalytics) to survey the field. This went out on 25 October.
 
 Even using this method, and a number of email reminders, only 14 responses were received, the last being on 5 November. Despite this, it was an effective way of councils stating their preference, or that they were withdrawing from the process altogether.
 
@@ -79,10 +79,23 @@ We began to attract councils through the survey form, but also through the use o
 * 12 councils (12 November)
 * 14 councils (15 November - on the application deadline!)
 
-### Testing the market
+### Asking the market
 
-As the application began to take shape, we reached out to a friendly supplier ([DXW Digital](https://www.dxw.com/)) to test the feasibility of the proposed project and if it would attract a digital supplier to bid for the work involved.
+As the application began to take shape, we reached out to a friendly supplier ([DXW Digital](https://www.dxw.com/)) to test the feasibility of the proposed project and if it would attract a digital supplier to bid for the work involved. This was invaluable.
 
-The key learning point from this were;
+The key learning points from this were;
 
-* the 
+* we would need at least one day with everyone together in the same room at a kick-off meeting to ensure expectations are common and everyone understands what is required of them as a participant
+* Discovery projects are predominantly about user research and its findings rather than evaluation of tech choices; it’s about properly understanding the problem to be solved rather than going straight to solution
+* Trying to achieve too much with the project could test the capacity of any supplier and undermine the value of what we get out of it. 
+* Showing the value of the project is important – the business case for spending the money must stack up. Just exploring for the sake of it won’t be robust enough as a reason.
+* Even if we write the best proposal for a supplier they may still not go for it if
+
+  o   They don’t have the capacity due to other projects 
+
+  o   They don’t think it’s been scoped properly, or is uncertain what it wants to achieve
+
+  o   They don’t have the sort of staff required for it
+
+  o   It may not make them enough money
+* The biggest challenges we face will be cultural ones; expectations on what is possible, unfamiliarity with Agile, unfamiliarity with user research, lack of understanding about the value of discovery
