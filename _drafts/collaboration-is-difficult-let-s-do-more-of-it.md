@@ -1,7 +1,7 @@
 ---
-title: Collaboration is difficult - let's do more of it
+title: Collaboration is everywhere - Local Digital Fund
 layout: post
-date: 2018-11-10 12:02
+date: 2018-11-15 00:00:00 +0000
 excerpt: ''
 
 ---
@@ -11,7 +11,7 @@ We've had minor success to date in working with Democracy Club [on their polling
 
 But it's always been a tricky thing to start. How do you find out who is doing what? How do you get involved? How do you start something and get others to join you?
 
-The collaborative working environment in the public sector has taken off recently giving rise to great opportunities for us to capitalise on.
+The collaborative working environment in the public sector has taken off recently giving rise to great opportunities for us to capitalise on. Here's a recap:
 
 ## Pipeline
 
@@ -29,31 +29,30 @@ In June 2017, GOV.Pay and GOV.Notify were made available only to local authoriti
 
 We've started to experiment with GOV.Notify for a service in development, and may also be using the bulk upload option for a batch email reminder to some residents soon.
 
-Perhaps the most exciting development is the collaborative work starting between [local authorities and the GOV.Pay team](https://localdigital.gov.uk/eoi/north-east-lincolnshire-council-nelc-4/). the plan is to see how the product can be developed to fill the gap between taking payments and reconciling these with local authority finance systems. If successful this could save a significant amount of money in buying commercial third party products. We're looking to collaborate on this discovery work too.
+Perhaps the most exciting development is the collaborative work starting between [local authorities and the GOV.Pay team](https://localdigital.gov.uk/eoi/north-east-lincolnshire-council-nelc-4/). The plan is to see how the product can be developed to fill the gap between taking payments and reconciling these with local authority finance systems. If successful this could save a significant amount of money in councils buying commercial third party products. We're looking to collaborate on this discovery work too with North Lincolnshire, albeit in a 'light touch' only capacity
 
 ## Local Digital Fund
 
 The Ministry of Housing, Communities and Local Government (MHCLG) [announced in July 2018 the creation of a £7.5m fund](https://mhclgdigital.blog.gov.uk/2018/07/04/why-mhclg-is-backing-a-local-government-digital-revolution/) to help local authorities build common solutions to shared problems.
 
-A new [Local Digital team](https://localdigital.gov.uk/about/) has been set up wiwith the express purpose of facilitating collaboration and move the work of central and local government closer together
+A new [Local Digital team](https://localdigital.gov.uk/about/) has been set up with the express purpose of facilitating collaboration and move the work of central and local government closer together
 
 In September it opened the Expression of Interest stage and received 382 submissions from 171 organisations, many submitting multiple bids (Southwark entered 13. The average was 2.2 per local authority). The [quality and ambition of these is varied](http://philrumens.blogspot.com/2018/10/doing-few-good-things-well.html), but it shows the massive interest in working together to resolve issues.
 
-We were successful in having our Expression of Interest for [developing a common approach to Chatbots and AI](https://localdigital.gov.uk/eoi/oxford-city-council/) shortlisted, with an invitation to develop a full application. At the time of submission we struggled to find anyone to join us, but since then we've had 10 other councils collaborate with us in developing the full application.
+## Our Local Digital Fund application
 
-## What's stopping us doing more?
+### Expression of Interest
 
-Collaboration is hard work. You have to;
+We decided to put together an exploratory bid to the Local Digital Fund for some work we were interested in starting on chatbots and AI.
 
-* Compete with other demands on resource for 'must-do' projects
-* Align with the differing objectives of other organisations
-* Deal with the potential clash of cultures and expectations
-* Put aside a 'what's in it for me?' view and think about common gains
+Like a lot of authorities, we'd starting to look at this capability as another tool in our set for automating straightforward tasks, improving service to our customers and reducing costs. We'd started to look at Dialogflow as a potential platform, but then we realised we were starting down the path of individualisation.
 
-But the rewards are significant;
+Wouldn't it be better if we had a common approach? What if all councils used the _same_ platform, used a _common_ process library and managed it _themselves_ as a sector? Wouldn't that be breaking the mould?
 
-* Costs can be shared and so reduced
-* You can build on the skill and experience of others rather than start from scratch
-* Another team's point of view will bring new insights
+We realised that as we didn't have any user research at all and we'd need to do some legwork to find out more. So we put an (ambitious) concept together as [an expression of interest ](https://localdigital.gov.uk/eoi/oxford-city-council/)to put this concept into practice. 
 
-We're finding the 
+At the time of submission we struggled to find anyone to join us. 
+
+### Invitation to Apply 
+
+but since then we've had 10 other councils collaborate with us in developing the full application.
