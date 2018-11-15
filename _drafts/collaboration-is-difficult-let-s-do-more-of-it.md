@@ -89,13 +89,15 @@ The key learning points from this were;
 * Discovery projects are predominantly about user research and its findings rather than evaluation of tech choices; it’s about properly understanding the problem to be solved rather than going straight to a solution
 * Trying to achieve too much with the project could test the capacity of any supplier and undermine the value of what we get out of it. 
 * Showing the value of the project is important – the business case for spending the money must stack up. Just exploring for the sake of it won’t be robust enough as a reason.
-* Even if we write the best proposal for a supplier they may still not go for it if
+* Even if we write the best proposal for a supplier they may still not go for it if;
 
-  o   They don’t have the capacity due to other projects 
+  o   they don’t have the capacity due to other projects 
 
-  o   They don’t think it’s been scoped properly, or is uncertain what it wants to achieve
+  o   they don’t think it’s been scoped properly, or is uncertain what it wants to achieve
 
-  o   They don’t have the sort of staff required for it
+  o   they don’t have the sort of staff required for it
 
-  o   It may not make them enough money
-* The biggest challenges  will be cultural ones; expectations on what is possible, unfamiliarity with Agile, unfamiliarity with user research, lack of understanding about the value of discovery
+  o   it won't make them enough money
+* The biggest challenges will be cultural ones; expectations on what is possible, unfamiliarity with Agile, unfamiliarity with user research, lack of understanding about the value of discovery
+
+### Finalising the application
