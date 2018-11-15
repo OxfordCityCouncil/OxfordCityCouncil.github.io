@@ -53,10 +53,22 @@ On 16 October we were pleasantly surprised to get not one but _two_ emails confi
 
 After a bit of back-slapping we realised we were still in the same situation as before with no partners and just 3 weeks to find some and submit a full application.
 
-### Starting to collaborate
+### Starting the discussion
 
 To get things started we emailed every council in the Chatbot category on 17 October (including those not invited to apply), set up a dedicated Slack channel for the category and posted a [summary of the applications and their status](https://docs.google.com/spreadsheets/d/1-jQjWUjuK1jhJ7WUUyLFTVyDxxA3uJrUKlOYRuwkKls/edit?usp=sharing) to help improve the visibility a bit. 
 
 By 19 October it still felt like nothing was really moving so we started a Doodle poll to set up a kick-off meeting with everyone. This [took place on 24 October](https://docs.google.com/document/d/15JN20GxWw10wo_As3dzvhz1j0QV2jmxdHIKPIoiTNA0/edit?usp=sharing) via a Google Hangoutwith an open agenda for everyone to add to. Nine councils were able to join, with two others trying.
 
 The discussion began to fork into two groups.  It was clear some councils were already well established in using chatbots and wanted to extend these into personal assistants, and another group were in the 'chatbots from scratch' area not knowing how to start.
+
+It was possible to get an outline agreement from some of the councils present to join one or other of the groups, but with a total of 22 councils in the overall category it was impossible to know what the overall intentions were. 
+
+### Surveying the category group
+
+We decided that the best way to get an overview of intentions was to [put a short Google Form together](https://docs.google.com/forms/d/e/1FAIpQLSd5X9oCYVuTzWgf_BTr2mM80yEFOs5VHM7YgKbDo04MjBiScA/viewanalytics) to survey the field. This went out on 25 October. 
+
+Even using this method, and a number of email reminders, only 14 responses were received, the latest being on 5 November
+
+### Gathering collaborators
+
+We began to attract councils through the 
