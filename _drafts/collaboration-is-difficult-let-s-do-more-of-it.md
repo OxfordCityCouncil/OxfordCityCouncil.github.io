@@ -38,7 +38,7 @@ We decided to put together an exploratory bid to the Local Digital Fund for some
 
 Like a lot of authorities, we'd starting to look at this capability as another tool in our set for automating straightforward tasks, improving service to our customers and reducing costs. We'd started to look at Dialogflow as a potential platform, but then we realised we were starting down the path of individualisation.
 
-Wouldn't it be better if we had a common approach? What if all councils used the _same_ platform, used a _common_ process library and managed it _themselves_ as a sector? Wouldn't that be breaking the mould?
+Wouldn't it be better if we had a _common_ approach? What if all councils used the _same_ platform, used a _common_ process library and managed it _themselves_ as a sector? Wouldn't that be breaking the mould?
 
 We realised that as we didn't have any user research at all and we'd need to do some legwork to find out more. So we put an (ambitious) concept together as [an expression of interest ](https://localdigital.gov.uk/eoi/oxford-city-council/)(EoI) to put this concept into practice.
 
