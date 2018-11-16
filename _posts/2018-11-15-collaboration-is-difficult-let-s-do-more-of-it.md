@@ -40,7 +40,7 @@ Like a lot of authorities, we'd starting to look at this capability as another t
 
 Wouldn't it be better if we had a common approach? What if all councils used the same platform, used a common process library and managed it themselves as a sector? Wouldn't that be breaking the mould?
 
-We realised that as we didn't have any user research at all and we'd need to do some legwork to find out more. So we put an (ambitious) concept together as [an expression of interest](https://localdigital.gov.uk/eoi/oxford-city-council/) (EoI) to put this concept into practice.
+We realised that as we didn't have any user research at all and we'd need to do some legwork to find out more. So we put an (ambitious) concept together as [an expression of interest](https://localdigital.gov.uk/eoi/oxford-city-council/) (EoI) to put this into practice.
 
 We posted our EoI on the LocalGov Digital slack team to try and entice others to join us, as lots of other councils did, but by the time of submission on 5 October we hadn't found anyone to join us. We thought this would mean our bid would get nowhere.
 
