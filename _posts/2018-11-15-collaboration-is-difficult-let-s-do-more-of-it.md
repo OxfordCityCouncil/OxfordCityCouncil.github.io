@@ -89,6 +89,7 @@ We were really pleased to attract three councils that had the opportunity to mak
 What struck us in particular was the distribution of the councils that got involved. This was not a London-centric group.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=11L7Kzhn14V_NaMobqFsSeTPnoOToU-UD" width="640" height="480"></iframe>
+<p></p>
 
 ### Talking to the market
 
