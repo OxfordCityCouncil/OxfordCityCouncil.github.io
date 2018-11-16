@@ -123,7 +123,7 @@ For other authorities, like us, what would be the most useful starting point? We
 
 At the same time we wanted to keep to our original EoI and explore the feasibility of a common platform we could use across the sector.
 
-On 14 November we held another Hangout, this time to have a final read-through and sign off our application. It felt like an achievement, separate to the success or otherwise of the application, to have formed as a group to speak with a single voice. We made new contacts in new areas, and a number of spin-off opportunities could arise from this.
+On 14 November we held another Hangout, this time to have a final read-through and sign off our application. It felt like an achievement, separate to the success or otherwise of the application, to have formed as a group. We made new contacts in new areas, and a number of spin-off opportunities could arise from this.
 
 On 15 November we submitted our application. But the work doesn't stop there; because of the tight delivery timescale we need to start work next week on preparations for procuring a digital agency so that we can press the 'go' button on the exercise the minute the next email is received from MHCLG to say we've been successful.
 
