@@ -36,7 +36,7 @@ Many councils submitting multiple bids (Southwark entered 13. The average was 2.
 
 We decided to put together an exploratory bid to the Local Digital Fund for some work we were interested in starting with chatbots and AI.
 
-Like a lot of authorities, we'd starting to look at this capability as another tool in our set for automating straightforward tasks, improving service to our customers and reducing costs. We'd started to look at Dialogflow as a potential platform, but then we realised we were starting down the path of individualisation.
+Like a lot of authorities, we'd starting to look at this capability as another tool in our set for automating straightforward tasks, improving service to our customers and reducing costs. We'd begun to look at Dialogflow as a potential platform, but then we realised we were starting down the path of individualisation.
 
 Wouldn't it be better if we had a common approach? What if all councils used the same platform, used a common process library and managed it themselves as a sector? Wouldn't that be breaking the mould?
 
