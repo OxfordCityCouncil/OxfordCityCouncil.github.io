@@ -34,7 +34,7 @@ Many councils submitting multiple bids (Southwark entered 13. The average was 2.
 
 ### Expression of Interest
 
-We decided to put together an exploratory bid to the Local Digital Fund for some work we were interested in starting on chatbots and AI.
+We decided to put together an exploratory bid to the Local Digital Fund for some work we were interested in starting with chatbots and AI.
 
 Like a lot of authorities, we'd starting to look at this capability as another tool in our set for automating straightforward tasks, improving service to our customers and reducing costs. We'd started to look at Dialogflow as a potential platform, but then we realised we were starting down the path of individualisation.
 
