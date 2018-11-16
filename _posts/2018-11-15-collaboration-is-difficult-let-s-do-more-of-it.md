@@ -26,7 +26,7 @@ Perhaps the most exciting development is the collaborative work starting between
 
 In September the Local Digital Team opened the Expression of Interest stage for bids against the Local Digital Fund.
 
-No one was sure quite what the scale of the response would but the 389 submissions received from 171 organisations took many by surprise
+No one was sure quite what the scale of the response would but the [389 submissions received from 171 organisations](https://app.powerbi.com/view?r=eyJrIjoiNjM0MDcwZDMtYTc2OS00M2NmLThlMTAtODIwMzZjY2Q5YjFkIiwidCI6ImQ0ZTg4NDEzLWQxMDQtNGFiZi1hYThkLWUyOGY4ZjAxOTRlNyJ9) took many by surprise
 
 Many councils submitting multiple bids (Southwark entered 13. The average was 2.2 per local authority). The [quality and ambition of these was varied](http://philrumens.blogspot.com/2018/10/doing-few-good-things-well.html), but it showed the massive interest in working together to resolve issues.
 
