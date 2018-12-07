@@ -7,7 +7,7 @@ excerpt: Becoming one of 16 successful applications to the Fund
 ---
 Further to our previous post about applying to be an exemplar project  as part of the Local Digital Fund, we're delighted to announce were were successful! Our application was one of 16 to be awarded funding, out of 77 full applications.  
 
-You can read a copy of the application and the helpful feedback we received. 
+You can read a [copy of the application](https://localdigital.gov.uk/funding/oxford-city-council/ "Full application and feedback") and the feedback we received. 
 
 ## Being assessed
 
@@ -25,5 +25,5 @@ We were clear as part of our application that we would commit to the Local Digit
 
 * Working collaboratively with our excellent partner authorities; Hertsmere Borough Council, Cheltenham Borough Council, Doncaster Council, Preston City Council, North East Derbyshire District Council, Bolsover District Council, Calderdale Council, Rotherham Metropolitan Borough Council, Bromsgrove District Council, Redditch Borough Council, Surrey County Council, Adur and Worthing Councils
 * Sharing the outcomes of our work - we've set up a [project website](https://localdigitalchatbots.github.io/ "Local Digital Chatbots/AI project website") that will deal with all joint blog posts on progress and be a place people can find the deliverables 
-* Use new ways of procurement - although we've used the Digital Marketplace before, this will be our first time using the Digital Outcomes and Specialists framework to find a digital agency that can help us deliver
-* Promote greater collaboration - we've already [published our project on LocalGov Digital Pipeline](https://pipeline.localgov.digital/wiki/227 "LocalGov Digital Pipeline") as a way to do this. 
+* Using new ways to procure - although we've used the Digital Marketplace before, this will be our first time using the Digital Outcomes and Specialists framework to find a digital agency that can help us deliver. It's a bit of a cultural shift, but the Marketplace was set up to help the public sector spend less time and money in finding solutions. We particularly like the way opportunities are presented as problems to solve - for this project it meets our needs exactly
+* Promote greater collaboration - we've already [published our project on LocalGov Digital Pipeline](https://pipeline.localgov.digital/wiki/227 "LocalGov Digital Pipeline") as a way to do this, and we're encouraging other to do the same
