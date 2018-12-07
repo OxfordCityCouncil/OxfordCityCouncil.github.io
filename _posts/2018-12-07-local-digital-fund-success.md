@@ -5,9 +5,9 @@ date: 2018-12-07 14:08:27 +0000
 excerpt: Becoming one of 16 successful applications to the Fund
 
 ---
-Further to our previous post about applying to be an exemplar project  as part of the Local Digital Fund, we're delighted to announce were were successful! Our application was one of 16 to be awarded funding, out of 77 full applications.  
+Further to [our previous post](https://digital.oxford.gov.uk/blog/2018/11/15/collaboration-is-difficult-let-s-do-more-of-it) about applying to be an exemplar project  as part of the Local Digital Fund, we're delighted to announce were were successful! Our application was one of 16 to be awarded funding, out of 77 full applications.
 
-You can read a [copy of the application](https://localdigital.gov.uk/funding/oxford-city-council/ "Full application and feedback") and the feedback we received. 
+You can read a [copy of the application](https://localdigital.gov.uk/funding/oxford-city-council/ "Full application and feedback") and the feedback we received.
 
 ## Being assessed
 
@@ -27,4 +27,4 @@ We were clear as part of our application that we would commit to the Local Digit
 * **Sharing the outcomes of our work** - we've set up a [project website](https://localdigitalchatbots.github.io/ "Local Digital Chatbots/AI project website") that will deal with all joint blog posts on progress and be a place people can find the deliverables. We use GitHub Pages for our Digital Team site, but just for us, so this new site using the same platform we're going to explore using [Forestry ](https://forestry.io/ "Forestry website")as a way to provide a common CMS for partners without having to work directly on GitHub.
 * **Using new ways to procure** - although we've used the Digital Marketplace before, this will be our first time using the Digital Outcomes and Specialists framework to find a digital agency that can help us deliver. It's a bit of a cultural shift, but the Marketplace was set up to help the public sector spend less time and money in finding solutions. We particularly like the way opportunities are presented as problems to solve - for this project it meets our needs exactly
 * **Promoting greater collaboration** - we've already [published our project on LocalGov Digital Pipeline](https://pipeline.localgov.digital/wiki/227 "LocalGov Digital Pipeline") as a way to do this, and we're encouraging other to do the same
-* **Using Agile techniques** - the Local Digital team is lining up the GDS Academy for successful applicants to use, so we've been invited to undertake Agile for Teams training at the end of January. While we delivered our Intranet project as a semi-agile one, this will be the full-fat version. 
+* **Using Agile techniques** - the Local Digital team is lining up the GDS Academy for successful applicants to use, so we've been invited to undertake Agile for Teams training at the end of January. While we delivered our Intranet project as a semi-agile one, this will be the full-fat version.
