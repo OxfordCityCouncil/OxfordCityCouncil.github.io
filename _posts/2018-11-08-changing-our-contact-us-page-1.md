@@ -14,7 +14,7 @@ When we were developing our website in 2015, we took the opportunity to change o
 
 We'd benefitted from a content audit from our developers, [Jadu](www.jadu.net), along with some guidance on content strategy. One element of this was using our site to help reduce avoidable contact.
 
-Our Contact Us page presented to users as [a long list of phone numbers and email addresses](//downloads/Old Homepage_small.jpg); we were essentially encouraging users to abandon our site and contact us by other channels, avoiding our Contact Centre staff.
+Our Contact Us page presented to users as [a long list of phone numbers and email addresses](https://digital.oxford.gov.uk/downloads/Old%20Homepage_small.jpg); we were essentially encouraging users to abandon our site and contact us by other channels, avoiding our Contact Centre staff.
 
 ## Our first changes
 
