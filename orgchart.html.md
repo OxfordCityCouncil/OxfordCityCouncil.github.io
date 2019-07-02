@@ -1,0 +1,19 @@
+---
+published: false
+
+---
+<script src="https://digital.oxford.gov.uk/js/OrgChart.js"></script>
+
+<div style="width:100%; height:700px;" id="orgchart"/>
+<script>
+        var chart = new OrgChart(document.getElementById("orgchart"), {
+            nodeBinding: {
+                field_0: "name"
+            },
+            nodes: [
+                { id: 1, name: "Amber McKenzie" },
+                { id: 2, pid: 1, name: "Ava Field" },
+                { id: 3, pid: 1, name: "Peter Stevens" }
+            ]
+        });
+    </script>

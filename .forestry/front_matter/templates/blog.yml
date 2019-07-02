@@ -2,3 +2,5 @@
 label: Blog
 hide_body: false
 fields: []
+pages:
+- orgchart.html.md
