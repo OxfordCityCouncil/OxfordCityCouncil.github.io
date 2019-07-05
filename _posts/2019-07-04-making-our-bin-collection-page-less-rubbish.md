@@ -54,9 +54,7 @@ Also, we found that the default alert styling for the error didn't meet accessib
 
 To help avoid people outside of our area using the lookup, we'd pinned some guidance above the address search box hoping people would read this first. But not everyone needed to see this information, and adding it pushed the address lookup refinement selection box further down the page so it wasn't visible.
 
-We also had information about our mobile app and about the timetable downloads.
-
-There was too much going on there
+We also had information about our mobile app and about the timetable downloads. There was too much going on.
 
 ## How we fixed it
 
