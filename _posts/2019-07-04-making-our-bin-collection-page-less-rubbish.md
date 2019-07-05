@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making our bin collection page less 'rubbish'
+title: Making our bin collection day lookup less 'rubbish'
 excerpt: ''
 date: 2019-07-04 23:00:00 +0000
 
