@@ -172,3 +172,8 @@ ul.fa-ul li i.fa-li{
 	padding-right: 2.5em;
     margin: 3rem 0;
 }
+
+/* changing image size */
+.img	{
+	max-width: 70%;
+}
