@@ -7,10 +7,16 @@ date: 2019-07-04 23:00:00 +0000
 ---
 Sometimes it's easy to decide that things are too difficult to change, or that there are other priorities to tackle. Recently, a new member of our team challenged us about that, and it resulted in a nice bit of joint work to improve things.
 
-## Our 
+## Our bin collection data setup
 
-We use a bin collection lookup that was created by our CMS suppliers, Jadu, prior to our site going live in January 2016.
+An export from our waste management system containing collection round data set against addresses is consumed by our mobile app and pushed out using an open API.
 
-The lookup is a nice re-use of some tech used on our mobile app to push bin reminders to the public. An export from our waste management system containing collection round data set against addresses is consumed by the app and pushed out using the API.
+As we have a friendly supplier in Cloud9Technologies, we were able to agree to it being re-used on our website to replace an old postcode-based lookup table.
 
-The advantage is
+Our CMS suppliers, Jadu, built a couple of custom widgets for us in the CMS to take customer postcode and then push out the results in the same format as the app. 
+
+So, a nice re-use of existing tech to avoid reinventing the wheel for a small increase in server calls.
+
+The lookup went live in January 2016 and is sometimes our fourth most visited page on the site.
+
+So 
