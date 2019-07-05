@@ -2,7 +2,7 @@
 layout: post
 title: Making our bin collection day lookup less 'rubbish'
 excerpt: ''
-date: 2019-07-04 23:00:00 +0000
+date: 2019-07-04T23:00:00.000+00:00
 
 ---
 Sometimes it's easy to decide that things are too difficult to change, or that there are other priorities to tackle. Recently, a new member of our team challenged us about that, and it resulted in a nice bit of joint work to improve things.
@@ -40,7 +40,7 @@ From the Govmetric feedback, and observing users using [Hotjar](https://www.hotj
 
 For users successfully returning information on an address lookup, they were offered between a choice of two collection timetable downloads; Red zone or Blue zone.
 
-However, they didn't know _which_ download to choose as their zone information was returned at the top of the page.
+However, they didn't know which download to choose as their zone information was returned at the top of the page.
 
 ### Users not being Oxford residents
 
