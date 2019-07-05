@@ -19,4 +19,19 @@ So, a nice re-use of existing tech to avoid reinventing the wheel for a small in
 
 The lookup went live in January 2016 and is sometimes our fourth most visited page on the site.
 
-So 
+So everything was good, yes?
+
+## Listening to feedback
+
+We track customer feedback using [GovMetric](https://www.govmetric.com) which lets users tell us if they've happy/sad/indifferent to any page or form we use. They can also leave us feedback.
+
+Each month we tally up what the winners and losers are in terms of public feedback. For every month we found that for the bin collection lookup:
+
+* between 38-45% of feedback was positive
+* between 55-62% of feedback was negative
+
+But how could we both be meeting needs and frustrating them. We took a deeper look
+
+## What was wrong
+
+We found that
