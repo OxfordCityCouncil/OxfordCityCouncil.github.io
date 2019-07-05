@@ -46,7 +46,9 @@ However, they didn't know _which_ download to choose as their zone information w
 
 It was a well known issue that people not served by Oxford City Council were using our lookup for their bin collection information. But the error message they were given was "we could not find any postcodes or streets matching \[data entered\] which wasn't specific enough and didn't let them know what to do next.
 
-![](/downloads/Screenshot 2019-07-05 at 11.27.58.png)Also, we found that the default alert styling for the error didn't meet accessibility standards as it used a drop shadow on the text.
+![](/downloads/Screenshot 2019-07-05 at 11.27.58.png)
+
+Also, we found that the default alert styling for the error didn't meet accessibility standards as it used a drop shadow on the text.
 
 ### A cluttered page
 
@@ -64,23 +66,33 @@ It was great to bring the different strengths of the team into play to come up w
 
 With a bit of a hack of the widget PHP we were able to bring back a specific URL for the user to use for a download. The zone information also came down to be near the download link.
 
-### ![](/downloads/Screenshot 2019-07-05 at 11.33.43.png)Creating a better error message
+### ![](/downloads/Screenshot 2019-07-05 at 11.33.43.png)
+
+### Creating a better error message
 
 This was a good opportunity to look at the [GDS Design system](https://design-system.service.gov.uk/components/error-summary/) to see what format we should use:
 
-![](/downloads/Screenshot 2019-07-05 at 11.15.29.png)Our first iteration of this was far too wordy, attempting to explain in too much detail what had gone wrong and what to do next. We dragged in a couple of non-team members to test out some ideas and ended up with an easy to read version
+![](/downloads/Screenshot 2019-07-05 at 11.15.29.png)
+
+Our first iteration of this was far too wordy, attempting to explain in too much detail what had gone wrong and what to do next. We dragged in a couple of non-team members to test out some ideas and ended up with an easy to read version
 
 When we tried to use the GDS pattern it looked like (as one team member described it) a Parish Church Newsletter as our existing styling clashed with three colours in the message. We took the decision to depart from the recommended style and try our own (for now):
 
-### ![](/downloads/Screenshot 2019-07-05 at 11.19.31.png)De-cluttering the page
+### ![](/downloads/Screenshot 2019-07-05 at 11.19.31.png)
 
-The search page now just shows the minimum information needed for users to start their task. No more pre-error message - these now only appear when there is a problem with the address entered (or not entered). 
+### De-cluttering the page
+
+The search page now just shows the minimum information needed for users to start their task. No more pre-error message - these now only appear when there is a problem with the address entered (or not entered).
 
 We've also removed information on this page about downloads or the mobile app as these are not relevant to the task being undertaken.
 
-![](/downloads/Screenshot 2019-07-05 at 11.33.11.png)The results page has a clearer title, with information on downloads or on using the app as an alternative
+![](/downloads/Screenshot 2019-07-05 at 11.33.11.png)
 
-## ![](/downloads/Screenshot 2019-07-05 at 11.37.31.png)Next steps
+The results page has a clearer title, with information on downloads or on using the app as an alternative
+
+## ![](/downloads/Screenshot 2019-07-05 at 11.37.31.png)
+
+## Next steps
 
 Obviously we'll be watching user behaviour on Hotjar to see if things are working better, and listening to feedback to see if we need to do more.
 
