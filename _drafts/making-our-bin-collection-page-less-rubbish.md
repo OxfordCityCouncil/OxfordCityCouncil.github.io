@@ -13,7 +13,7 @@ An export from our waste management system containing collection round data set 
 
 As we have a friendly supplier in Cloud9Technologies, we were able to agree to it being re-used on our website to replace an old postcode-based lookup table.
 
-Our CMS suppliers, Jadu, built a couple of custom widgets for us in the CMS to take customer postcode and then push out the results in the same format as the app. 
+Our CMS suppliers, Jadu, built a couple of custom widgets for us to take customer postcode and then push out the results in the same format as the app.
 
 So, a nice re-use of existing tech to avoid reinventing the wheel for a small increase in server calls.
 
@@ -36,24 +36,56 @@ But how could we both be meeting needs and frustrating them? We took a deeper lo
 
 From the Govmetric feedback, and observing users using [Hotjar](https://www.hotjar.com), we could see that the key issues driving dissatisfaction fell under three headings.
 
-### Which annual timetable to download  
+### Which annual timetable to download
 
 For users successfully returning information on an address lookup, they were offered between a choice of two collection timetable downloads; Red zone or Blue zone.
 
-However, they didn't know _which_ download to choose as their zone information was returned at the top of the page. 
+However, they didn't know _which_ download to choose as their zone information was returned at the top of the page.
 
-### Unhelpful error messages
+### Users not being Oxford residents
 
-It was a well known issue that people not served by Oxford City Council were using our lookup for their bin collection information. But the error message they were given was "we could not find any postcodes or streets matching \[data entered\] which wasn't specific enough and didn't let them know what to do next
+It was a well known issue that people not served by Oxford City Council were using our lookup for their bin collection information. But the error message they were given was "we could not find any postcodes or streets matching \[data entered\] which wasn't specific enough and didn't let them know what to do next.
 
-Also, we found that the default alert styling for the error didn't meet accessibility standards as it used a drop shadow on the text.
+![](/downloads/Screenshot 2019-07-05 at 11.27.58.png)Also, we found that the default alert styling for the error didn't meet accessibility standards as it used a drop shadow on the text.
 
 ### A cluttered page
 
-To help avoid people outside of our area using the lookup, we'd pinned some guidance above the address search box hoping people would read this first. But not everyone needed to see this information, and using it pushed the address lookup refinement selection box further down the page so it wasn't visible. 
+To help avoid people outside of our area using the lookup, we'd pinned some guidance above the address search box hoping people would read this first. But not everyone needed to see this information, and adding it pushed the address lookup refinement selection box further down the page so it wasn't visible.
 
 We also had information about our mobile app and about the timetable downloads.
 
-There was 
+There was too much going on there
 
 ## How we fixed it
+
+It was great to bring the different strengths of the team into play to come up with a shared idea of what to do; content, UI and UX.
+
+### Only showing the correct timetable
+
+With a bit of a hack of the widget PHP we were able to bring back a specific URL for the user to use for a download. The zone information also came down to be near the download link.
+
+### ![](/downloads/Screenshot 2019-07-05 at 11.33.43.png)Creating a better error message
+
+This was a good opportunity to look at the [GDS Design system](https://design-system.service.gov.uk/components/error-summary/) to see what format we should use:
+
+![](/downloads/Screenshot 2019-07-05 at 11.15.29.png)Our first iteration of this was far too wordy, attempting to explain in too much detail what had gone wrong and what to do next. We dragged in a couple of non-team members to test out some ideas and ended up with an easy to read version
+
+When we tried to use the GDS pattern it looked like (as one team member described it) a Parish Church Newsletter as our existing styling clashed with three colours in the message. We took the decision to depart from the recommended style and try our own (for now):
+
+### ![](/downloads/Screenshot 2019-07-05 at 11.19.31.png)De-cluttering the page
+
+The search page now just shows the minimum information needed for users to start their task. No more pre-error message - these now only appear when there is a problem with the address entered (or not entered). 
+
+We've also removed information on this page about downloads or the mobile app as these are not relevant to the task being undertaken.
+
+![](/downloads/Screenshot 2019-07-05 at 11.33.11.png)The results page has a clearer title, with information on downloads or on using the app as an alternative
+
+## ![](/downloads/Screenshot 2019-07-05 at 11.37.31.png)Next steps
+
+Obviously we'll be watching user behaviour on Hotjar to see if things are working better, and listening to feedback to see if we need to do more.
+
+But what we really took from this was:
+
+* we need to challenge ourselves more to 'have a go' and improve things. Sometimes they are not as complicated as we think
+* it was great working together as a team in coming up with the changes, using each of our strengths in adding something
+* we are going to make time to tackle more long standing issues together on a regular basis. Next up is a redesign of our landing pages!
