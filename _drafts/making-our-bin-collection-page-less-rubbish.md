@@ -19,32 +19,32 @@ So, a nice re-use of existing tech to avoid reinventing the wheel for a small in
 
 The lookup went live in January 2016 and is sometimes our fourth most visited page on the site. We also threw in some info on our app, and the ability to download a collection timetable.
 
-So everything was good, yes?
+So everything was good, yes? Well, no.
 
 ## Listening to feedback
 
 We track customer feedback using [GovMetric](https://www.govmetric.com) which lets users tell us if they've happy/sad/indifferent to any page or form we use. They can also leave us feedback.
 
-Each month we tally up what the winners and losers are in terms of public feedback. For every month we found that for the bin collection lookup:
+Each month we tally up what the winners and losers are in terms of public feedback. For each month we found that for the bin collection lookup:
 
 * between 38-45% of feedback was positive
 * between 55-62% of feedback was negative
 
-But how could we both be meeting needs and frustrating them. We took a deeper look
+But how could we both be meeting needs and frustrating them? We took a deeper look.
 
 ## What was wrong
 
-From the Govmetric feedback, and observing users using [Hotjar](https://www.hotjar.com), we could see that the key issues driving dissatisfaction were:
+From the Govmetric feedback, and observing users using [Hotjar](https://www.hotjar.com), we could see that the key issues driving dissatisfaction fell under three headings.
 
 ### Which annual timetable to download  
 
-For users successfully returning information on an address lookup, they were offered between a choice of two downloads; Red zone or Blue zone.
+For users successfully returning information on an address lookup, they were offered between a choice of two collection timetable downloads; Red zone or Blue zone.
 
-However, they didn't know which download to choose as their zone information was returned at the top of the page, and told us so.
+However, they didn't know _which_ download to choose as their zone information was returned at the top of the page. 
 
 ### Unhelpful error messages
 
-It was a well known issue that people not served by Oxford City Council were using our lookup for their bin information
+It was a well known issue that people not served by Oxford City Council were using our lookup for their bin collection information. But the error message they were given was "we could not find any postcodes or streets matching \[data entered\] which wasn't specific enough and didn't let them know what to do next
 
 Also, we found that the default alert styling for the error didn't meet accessibility standards as it used a drop shadow on the text.
 
