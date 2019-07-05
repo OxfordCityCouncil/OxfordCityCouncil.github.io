@@ -40,10 +40,20 @@ From the Govmetric feedback, and observing users using [Hotjar](https://www.hotj
 
 For users successfully returning information on an address lookup, they were offered between a choice of two downloads; Red zone or Blue zone.
 
-However, they didn't know which download to choose as their zone information was returned at the top of the page.
+However, they didn't know which download to choose as their zone information was returned at the top of the page, and told us so.
 
 ### Unhelpful error messages
 
-Also, we found that the default alert styling for the error didn't meet accessibility standards as it used a drop shadow on the text
+It was a well known issue that people not served by Oxford City Council were using our lookup for their bin information
 
-A pretty cluttered interface
+Also, we found that the default alert styling for the error didn't meet accessibility standards as it used a drop shadow on the text.
+
+### A cluttered page
+
+To help avoid people outside of our area using the lookup, we'd pinned some guidance above the address search box hoping people would read this first. But not everyone needed to see this information, and using it pushed the address lookup refinement selection box further down the page so it wasn't visible. 
+
+We also had information about our mobile app and about the timetable downloads.
+
+There was 
+
+## How we fixed it
