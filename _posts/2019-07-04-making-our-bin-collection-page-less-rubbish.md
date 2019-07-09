@@ -11,7 +11,7 @@ Sometimes it's easy to decide that things are too difficult to change, or that t
 
 An export from our waste management system containing collection round data set against addresses is consumed by our mobile app and pushed out using an open API.
 
-As we have a friendly supplier in Cloud9Technologies, we were able to agree to it being re-used on our website to replace an old postcode-based lookup table.
+As we have a friendly supplier in [Cloud9Technologies](http://www.cloud9technologies.com), we were able to agree to it being re-used on our website to replace an old postcode-based lookup table.
 
 Our CMS suppliers, Jadu, built a couple of custom widgets for us to take customer postcode and then push out the results in the same format as the app.
 
