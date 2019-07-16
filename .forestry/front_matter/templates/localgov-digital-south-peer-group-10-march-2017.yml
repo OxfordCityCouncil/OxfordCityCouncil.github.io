@@ -23,6 +23,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/making-content-part-of-service-design.md
 - _posts/2019-07-04-making-our-bin-collection-page-less-rubbish.md
 - _posts/2018-12-07-local-digital-fund-success.md
 - _posts/2018-11-15-collaboration-is-difficult-let-s-do-more-of-it.md
