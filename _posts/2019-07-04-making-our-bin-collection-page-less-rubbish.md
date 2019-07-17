@@ -36,13 +36,13 @@ But how could we both be meeting needs and frustrating them? We took a deeper lo
 
 From the Govmetric feedback, and observing users using [Hotjar](https://www.hotjar.com), we could see that the key issues driving dissatisfaction fell under three headings.
 
-### Which annual timetable to download
+### 1. Which annual timetable to download
 
 For users successfully returning information on an address lookup, they were offered between a choice of two collection timetable downloads; Red zone or Blue zone.
 
 However, they didn't know which download to choose as their zone information was returned at the top of the page.
 
-### Users not being Oxford residents
+### 2. Users not being Oxford residents
 
 It was a well known issue that people not served by Oxford City Council were using our lookup for their bin collection information. But the error message they were given was "we could not find any postcodes or streets matching \[data entered\] which wasn't specific enough and didn't let them know what to do next.
 
@@ -50,7 +50,7 @@ It was a well known issue that people not served by Oxford City Council were usi
 
 Also, we found that the default alert styling for the error didn't meet accessibility standards as it used a drop shadow on the text.
 
-### A cluttered page
+### 3. A cluttered page
 
 To help avoid people outside of our area using the lookup, we'd pinned some guidance above the address search box hoping people would read this first. But not everyone needed to see this information, and adding it pushed the address lookup refinement selection box further down the page so it wasn't visible.
 
@@ -60,13 +60,13 @@ We also had information about our mobile app and about the timetable downloads. 
 
 It was great to bring the different strengths of the team into play to come up with a shared idea of what to do; content, UI and UX.
 
-### Only showing the correct timetable
+### 1. Only showing the correct timetable
 
 With a bit of a hack of the widget PHP we were able to bring back a specific URL for the user to use for a download. The zone information also came down to be near the download link.
 
 ### ![](/downloads/Screenshot 2019-07-05 at 11.33.43.png)
 
-### Creating a better error message
+### 2. Creating a better error message
 
 This was a good opportunity to look at the [GDS Design system](https://design-system.service.gov.uk/components/error-summary/) to see what format we should use:
 
@@ -78,7 +78,7 @@ When we tried to use the GDS pattern it looked like (as one team member describe
 
 ### ![](/downloads/Screenshot 2019-07-05 at 11.19.31.png)
 
-### De-cluttering the page
+### 3. De-cluttering the page
 
 The search page now just shows the minimum information needed for users to start their task. No more pre-error message - these now only appear when there is a problem with the address entered (or not entered).
 
