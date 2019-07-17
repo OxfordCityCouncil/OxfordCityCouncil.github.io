@@ -79,3 +79,5 @@ Again, a rapid prototyping approach with multiple iterations helped us arrive at
 ![Image of redesigned council tax page](/downloads/imageedit_7_8417797494.jpg "Redesigned council tax page")
 
 We're planning on deploying this with a request for feedback along with Hotjar heatmaps and recordings.
+
+For our webchat deployment on forms pages we're setting up a new Tag Manager 
