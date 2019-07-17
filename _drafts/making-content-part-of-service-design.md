@@ -72,4 +72,4 @@ What we found was:
 
 ## What we're doing next
 
-Key actions for 
+There are a number of actions lining up for the next stage of the project
