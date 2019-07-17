@@ -67,9 +67,15 @@ What we found was:
 * The most popular website action (32%) was paying council tax online, with 87% of users finding the page within 3 clicks and 73% of users reaching it within 20 seconds. Surprising for us, 'get a council tax bill by email' was the 2nd most popular action (16%)
 * There was around 10% of content (mostly downloads) that were being hosted as an archive rather than meeting a current user need
 * The majority of the backlog was due to email. It was established that 70% of this contact could be completed as an online form. 
-* Of 70 emails to the generic council tax email address the majority was from landlords/agents to notify us of a tenancy change. This was in preference to using the highly used online form - most likely because this had always been accepted by our council tax team and not challenged. 
+* Of 70 emails to the generic council tax email address the majority were from landlords/agents to notify us of a tenancy change. This was in preference to using the (highly used) online form - most likely because this had always been accepted by our council tax team and not challenged. 
 * Only 7% of emails and calls related to users chasing progress, contrary to the initial hypothesis about the potential causes
 
-## What we're doing next
+## What we've done so far
 
-There are a number of actions lining up for the next stage of the project
+We've undertaken another team collaborative task to redesign our landing page. We based this looking at approaches by around 15 councils and arriving at a preferred choice based on [Bristol](https://www.bristol.gov.uk/council-tax), [Brighton ](https://new.brighton-hove.gov.uk/council-tax)and [Bracknell Forest](https://www.bracknell-forest.gov.uk/council-tax). 
+
+Again, a rapid prototyping approach with multiple iterations helped us arrive at something that the project team were really pleased with, and will have benefits across the rest of the site as we roll out our team-by-team approach.
+
+![Image of redesigned council tax page](/downloads/imageedit_7_8417797494.jpg "Redesigned council tax page")
+
+We're planning on deploying this with a request for feedback along with Hotjar heatmaps and recordings.
