@@ -69,6 +69,7 @@ What we found was:
 * The majority of the backlog was due to email. It was established that 70% of this contact could be completed as an online form. 
 * Of 70 emails to the generic council tax email address the majority were from landlords/agents to notify us of a tenancy change. This was in preference to using the (highly used) online form - most likely because this had always been accepted by our council tax team and not challenged. 
 * Only 7% of emails and calls related to users chasing progress, contrary to the initial hypothesis about the potential causes
+* Around 23% of calls were promoted by receiving a letter or court summons
 
 ## What we've done so far
 
@@ -80,4 +81,4 @@ Again, a rapid prototyping approach with multiple iterations helped us arrive at
 
 We're planning on deploying this with a request for feedback along with Hotjar heatmaps and recordings.
 
-For our webchat deployment on forms pages we're setting up a new Tag Manager 
+For our webchat deployment on forms pages we're setting up a new Tag Manager container to handle it and adding it into the template. We're hoping this will help improve completion rates and give users extra confidence there is help at hand if they need it
