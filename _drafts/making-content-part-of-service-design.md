@@ -49,7 +49,7 @@ We developed a set of personas for users of the service to help us examine user 
 
 ![Image of work showing user persona activity](/downloads/IMG_0891.jpg "User persona work")
 
-We found some oddities on the journey for our online forms:
+We found some issues on the journey for our online forms:
 
 * confirmation messages for completed submissions included comments on the size of the backlog. While it's good to help expectations around response times, this suggests the backlog had become almost commonplace/accepted
 * there were also messages to promote registering to vote for our Moving In form which we traced back to a push on this from a few years ago. We felt there were other things we could include her to help people moving into the area (especially students)
@@ -64,5 +64,11 @@ We also took a look at our landing page and how well it helped users complete th
 
 What we found was:
 
-* The most popular website action was paying council tax online, with 87% of users finding the page within 3 clicks and 73% of users reaching it within 20 seconds.
+* The most popular website action (32%) was paying council tax online, with 87% of users finding the page within 3 clicks and 73% of users reaching it within 20 seconds. Surprising for us, 'get a council tax bill by email' was the 2nd most popular action (16%)
 * There was around 10% of content (mostly downloads) that were being hosted as an archive rather than meeting a current user need
+* Of 70 emails to the generic council tax email address the majority was from landlords/agents to notify us of a tenancy change. This was in preference to using the online form - most likely because this had always been accepted
+* Only 7% of emails and calls related to users chasing progress, contrary to the initial hypothesis about the potential causes
+
+## What we're doing next
+
+Key actions for 
