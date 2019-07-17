@@ -82,3 +82,12 @@ Again, a rapid prototyping approach with multiple iterations helped us arrive at
 We're planning on deploying this with a request for feedback along with Hotjar heatmaps and recordings.
 
 For our webchat deployment on forms pages we're setting up a new Tag Manager container to handle it and adding it into the template. We're hoping this will help improve completion rates and give users extra confidence there is help at hand if they need it
+
+## What we're doing next
+
+This has only been the initial phase of the project, aimed at arriving at 
+
+This will include:
+
+* rewriting 2nd level web pages and landing pages to better reflect the new home page and ensure that all aspects of the identified user needs are covered
+* improving 
