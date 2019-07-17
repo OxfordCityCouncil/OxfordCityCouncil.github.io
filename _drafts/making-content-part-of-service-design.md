@@ -53,9 +53,11 @@ We found some oddities on the journey for our online forms:
 
 * confirmation messages for completed submissions included comments on the size of the backlog. While it's good to help expectations around response times, this suggests the backlog had become almost commonplace/accepted
 * there were also messages to promote registering to vote for our Moving In form which we traced back to a push on this from a few years ago. We felt there were other things we could include her to help people moving into the area (especially students)
-* we realised our site-wide webchat didn't extend across our forms pages
+* we realised our site-wide webchat didn't extend across our forms pages (this is something we started work on immediately to rectify
 
-We also 
+We also took a look at our landing page and how well it helped users complete their journey. Three years into our website contract we'd not touched the styling, and the growth and wording of links was starting to present a confusing 
+
+![](/downloads/imageedit_6_4590574864.jpg)
 
 ## Deep dive on data
 
