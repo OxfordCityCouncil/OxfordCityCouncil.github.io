@@ -5,7 +5,7 @@ excerpt: ''
 date: 2019-07-15 23:00:00 +0000
 
 ---
-This week we finished the first stage of a project with our colleagues in Council Tax.
+This week we finished the first stage of a project with our colleagues in Council Tax. This has been road testing a new approach to working with services to find solutions to customer problems more quickly.
 
 ## Auditing our content
 
@@ -19,7 +19,7 @@ We needed to find a better way.
 
 ## A team-by-team approach
 
-Our Head of Service was keen to promote a service-wide approach to helping team improvement rather than just picking off individual elements (such as web content). This worked well for us as we could shape our audit work around a single team, and also look a bit wider to see things in context.
+Our Head of Service was keen to promote a service-wide approach to helping improvement rather than just picking off individual elements (such as web content). This worked well for us as we could shape our audit work around a single team, and also look a bit wider to see things in context.
 
 The fabulous Laura Griffiths from [Basis](https://www.basis.co.uk/about-us) was drafted in to help us shape our approach, and the Council Tax team were selected as the ideal guinea pigs to start with due to their commitment to improvement and positive attitude to change. This gave us 10 days of consultancy input to use.
 
@@ -106,3 +106,5 @@ What we'll be doing next is:
 * Removing contact supplements on pages where they are not needed to discourage unnecessary emailing
 * Replacing the single generic email with topic-specific emails to help structure responses that require an attachment. We'd rather get rid of emails altogether, but currently we're not able to use our online forms to upload/send documents (long story)
 * Developing a simple contact form (for enquiries without attachments) that collects and structures information better to help Council Tax staff process them quickly. We'll be mindful of the [work done by Croydon on this]() to make sure we design it well
+
+We've also hit on the idea of formalising the approach into an improvement toolkit, to help teams we work with in future understand how the process works and the tasks that might be involved. 
