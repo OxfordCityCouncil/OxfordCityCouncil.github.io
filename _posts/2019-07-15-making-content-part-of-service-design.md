@@ -53,7 +53,7 @@ We also developed a suggested problem to solve:
 
 To start exploring this we developed a set of personas for users of the service to help us examine user journeys to identify how well user needs were being met.
 
-![Image of work showing user persona activity](/downloads/IMG_0891.jpg "User persona work")
+![Image of work showing user persona activity](/downloads/imageedit_9_8709863755.jpg)
 
 We found some issues on the journey for our online forms:
 
