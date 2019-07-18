@@ -73,13 +73,13 @@ What we found was:
 
 ## What we've done so far
 
-We've undertaken another team collaborative task to redesign our landing page. We based this looking at approaches by around 15 councils and arriving at a preferred choice based on [Bristol](https://www.bristol.gov.uk/council-tax), [Brighton ](https://new.brighton-hove.gov.uk/council-tax)and [Bracknell Forest](https://www.bracknell-forest.gov.uk/council-tax). 
+We've undertaken another team collaborative task to redesign our landing page. We selected this new design after looking at approaches by around 15 councils and arriving at a preferred choice based on [Bristol](https://www.bristol.gov.uk/council-tax), [Brighton ](https://new.brighton-hove.gov.uk/council-tax)and [Bracknell Forest](https://www.bracknell-forest.gov.uk/council-tax). 
 
 Again, a rapid prototyping approach with multiple iterations helped us arrive at something that the project team were really pleased with, and will have benefits across the rest of the site as we roll out our team-by-team approach.
 
 ![Image of redesigned council tax page](/downloads/imageedit_7_8417797494.jpg "Redesigned council tax page")
 
-We're planning on deploying this with a request for feedback along with Hotjar heatmaps and recordings.
+We're planning on deploying this with a request for feedback along with Hotjar heatmaps and recordings to review how well it works for users
 
 For our webchat deployment on forms pages we're setting up a new Tag Manager container to handle it and adding it into the template. We're hoping this will help improve completion rates and give users extra confidence there is help at hand if they need it
 
@@ -91,3 +91,5 @@ This will include:
 
 * rewriting 2nd level web pages and landing pages to better reflect the new home page and ensure that all aspects of the identified user needs are covered
 * improving 
+* removing contact supplements on pages where they are not needed
+* replacing the single generic email with 
