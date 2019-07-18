@@ -51,10 +51,10 @@ We developed a set of personas for users of the service to help us examine user 
 
 We found some issues on the journey for our online forms:
 
-* confirmation messages for completed submissions included comments on the size of the backlog. While it's good to help expectations around response times, this suggests the backlog had become almost commonplace/accepted
-* there were also messages to promote registering to vote for our Moving In form which we traced back to a push on this from a few years ago. We felt there were other things we could include her to help people moving into the area (especially students)
+* Confirmation messages for completed submissions included comments on the size of the backlog. While it's good to help expectations around response times, this suggests the backlog had become almost commonplace/accepted
+* There were also messages to promote registering to vote for our Moving In form which we traced back to a push on this from a few years ago. We felt there were other things we could include her to help people moving into the area (especially students)
 * The inability for our (ageing) forms engine to easily allow uploaded documents impacts on the ease of processing student council tax exemption requests
-* we realised our site-wide webchat didn't extend across our forms pages (this is something we started work on immediately to rectify)
+* We realised our site-wide webchat didn't extend across our forms pages because they are on a different server/domain.
 
 We also took a look at our landing page and how well it helped users complete their journey. Three years into our website contract we'd not touched the styling, and the growth and wording of links was starting to present a confusing picture.
 
