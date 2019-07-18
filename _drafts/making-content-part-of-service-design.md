@@ -36,7 +36,9 @@ One of the main issues was the 'backlog' of work (the time between receiving a c
 
 * Repeat contact (chasing up submitted eforms)
 * Requests for additional information not supplied (esp for email contact)
-* The volume of contact overall
+* The volume of contact overall exceeding staff capacity
+
+We wanted to unpick these assumptions and find out what the real problem was
 
 ## Discovery phase
 
@@ -62,6 +64,8 @@ We also took a look at our landing page and how well it helped users complete th
 
 ## Deep dive on data
 
+We listened to Contact Centre calls (65 No.), read a sample of emails (
+
 What we found was:
 
 * The most popular website action (32%) was paying council tax online, with 87% of users finding the page within 3 clicks and 73% of users reaching it within 20 seconds. Surprising for us, 'get a council tax bill by email' was the 2nd most popular action (16%)
@@ -71,7 +75,7 @@ What we found was:
 * Only 7% of emails and calls related to users chasing progress, contrary to the initial hypothesis about the potential causes
 * Around 23% of calls were promoted by receiving a letter or court summons
 
-So we managed to disprove at least one of our assumptions - that most of customer contact was due to delays in processing. 
+So we managed to disprove at least one of our assumptions - that most of customer contact was due to delays in processing.
 
 ## What we've done so far
 
@@ -81,13 +85,13 @@ Again, a rapid prototyping approach with multiple iterations helped us arrive at
 
 ![Image of redesigned council tax page](/downloads/imageedit_7_8417797494.jpg "Redesigned council tax page")
 
-We're planning on deploying this with a request for feedback along with Hotjar heatmaps and recordings to review how well it works for users, and make any changes needed. 
+We're planning on deploying this with a request for feedback along with Hotjar heatmaps and recordings to review how well it works for users, and make any changes needed.
 
-For our webchat deployment on forms pages we're setting up a new Tag Manager container to handle it and adding it into the template. We're hoping this will help improve completion rates and give users extra confidence there is help at hand if they need it. 
+For our webchat deployment on forms pages we're setting up a new Tag Manager container to handle it and adding it into the template. We're hoping this will help improve completion rates and give users extra confidence there is help at hand if they need it.
 
 ## What we're doing next
 
-This has only been the initial phase of the project, aimed at arriving at solutions quickly in a more agile way. We're going to start testing the changes we think are needed - if they do, they'll stay. If they don't, we'll change them. 
+This has only been the initial phase of the project, aimed at arriving at solutions quickly in a more agile way. We're going to start testing the changes we think are needed - if they do, they'll stay. If they don't, we'll change them.
 
 What our team will be doing next is:
 
