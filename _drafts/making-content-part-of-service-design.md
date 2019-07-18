@@ -47,6 +47,10 @@ Laura developed two hypotheses to be tested:
 * "Removing email as a channel choice for customers will reduce the backlog and decrease unnecessary contact"
 * "Allocating a mix of the oldest contacts and newest contacts will eliminate the backlog"
 
+We also developed a suggested problem to solve:
+
+_"How can we gather customer information accurately via appropriate channels so that all enquiries are resolved in shortest time possible to meet customer and corporate expectations?"_
+
 We developed a set of personas for users of the service to help us examine user journeys to identify how well user needs were being met.
 
 ![Image of work showing user persona activity](/downloads/IMG_0891.jpg "User persona work")
