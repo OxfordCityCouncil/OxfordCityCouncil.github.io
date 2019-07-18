@@ -99,7 +99,8 @@ This has only been the initial phase of the project, aimed at arriving at soluti
 
 What our team will be doing next is:
 
-* rewriting 2nd and 3rd level web pages and landing pages to better reflect the new home page and ensure that all aspects of the identified user needs are covered off
-* improving the confirmation messages on our Council Tax forms. While we want to encourage voting, there are other services we want to signpost users to, especially [students](https://www.oxford.gov.uk/students)
-* removing contact supplements on pages where they are not needed to discourage unnecessary emailing
-* replacing the single generic email with topic-specific emails to help structure responses. We'd rather get rid of them altogether, but currently we're not able to use our online forms to upload/send documents (long story)
+* Rewriting 2nd and 3rd level web pages and landing pages to better reflect the new home page and ensure that all aspects of the identified user needs are covered off
+* Improving the confirmation messages on our Council Tax forms. While we want to encourage voting, there are other services we want to signpost users to, especially [students](https://www.oxford.gov.uk/students)
+* Removing contact supplements on pages where they are not needed to discourage unnecessary emailing
+* Replacing the single generic email with topic-specific emails to help structure responses that require an attachment. We'd rather get rid of emails altogether, but currently we're not able to use our online forms to upload/send documents (long story)
+* Developing a simple contact form (for enquiries without attachments) that collects and structures information better to help Council Tax staff process them quickly. We'll be mindful of the [work done by Croydon on this]() to make sure we design it well
