@@ -66,14 +66,14 @@ What we found was:
 
 * The most popular website action (32%) was paying council tax online, with 87% of users finding the page within 3 clicks and 73% of users reaching it within 20 seconds. Surprising for us, 'get a council tax bill by email' was the 2nd most popular action (16%)
 * There was around 10% of content (mostly downloads) that were being hosted as an archive rather than meeting a current user need
-* The majority of the backlog was due to email. It was established that 70% of this contact could be completed as an online form. 
-* Of 70 emails to the generic council tax email address the majority were from landlords/agents to notify us of a tenancy change. This was in preference to using the (highly used) online form - most likely because this had always been accepted by our council tax team and not challenged. 
+* The majority of the backlog was due to email. It was established that 70% of this contact could be completed as an online form.
+* Of 70 emails to the generic council tax email address the majority were from landlords/agents to notify us of a tenancy change. This was in preference to using the (highly used) online form - most likely because this had always been accepted by our council tax team and not challenged.
 * Only 7% of emails and calls related to users chasing progress, contrary to the initial hypothesis about the potential causes
 * Around 23% of calls were promoted by receiving a letter or court summons
 
 ## What we've done so far
 
-We've undertaken another team collaborative task to redesign our landing page. We selected this new design after looking at approaches by around 15 councils and arriving at a preferred choice based on [Bristol](https://www.bristol.gov.uk/council-tax), [Brighton ](https://new.brighton-hove.gov.uk/council-tax)and [Bracknell Forest](https://www.bracknell-forest.gov.uk/council-tax). 
+We've undertaken another team collaborative task to redesign our landing page. We selected this new design after looking at approaches by around 15 councils and arriving at a preferred choice based on [Bristol](https://www.bristol.gov.uk/council-tax), [Brighton ](https://new.brighton-hove.gov.uk/council-tax)and [Bracknell Forest](https://www.bracknell-forest.gov.uk/council-tax).
 
 Again, a rapid prototyping approach with multiple iterations helped us arrive at something that the project team were really pleased with, and will have benefits across the rest of the site as we roll out our team-by-team approach.
 
@@ -81,15 +81,15 @@ Again, a rapid prototyping approach with multiple iterations helped us arrive at
 
 We're planning on deploying this with a request for feedback along with Hotjar heatmaps and recordings to review how well it works for users
 
-For our webchat deployment on forms pages we're setting up a new Tag Manager container to handle it and adding it into the template. We're hoping this will help improve completion rates and give users extra confidence there is help at hand if they need it
+For our webchat deployment on forms pages we're setting up a new Tag Manager container to handle it and adding it into the template. We're hoping this will help improve completion rates and give users extra confidence there is help at hand if they need it. 
 
 ## What we're doing next
 
-This has only been the initial phase of the project, aimed at arriving at 
+This has only been the initial phase of the project, aimed at arriving at solutions quickly in a more agile way. We're going to start testing the changes we think are needed - if they do, they'll stay. If they don't, we'll change them. 
 
-This will include:
+What our team will be doing next is:
 
-* rewriting 2nd level web pages and landing pages to better reflect the new home page and ensure that all aspects of the identified user needs are covered
-* improving 
-* removing contact supplements on pages where they are not needed
-* replacing the single generic email with 
+* rewriting 2nd and 3rd level web pages and landing pages to better reflect the new home page and ensure that all aspects of the identified user needs are covered off
+* improving the confirmation messages on our Council Tax forms. While we want to encourage voting, there are other services we want to signpost users to, especially [students](https://www.oxford.gov.uk/students)
+* removing contact supplements on pages where they are not needed to discourage unnecessary emailing
+* replacing the single generic email with topic-specific emails to help structure responses. We'd rather get rid of them altogether, but currently we're not able to use our online forms to upload/send documents (long story)
