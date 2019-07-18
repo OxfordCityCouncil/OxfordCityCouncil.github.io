@@ -68,7 +68,7 @@ We also took a look at our landing page and how well it helped users complete th
 
 ## Deep dive on data
 
-We listened to Contact Centre calls (65 No.), read a sample of emails (
+Across the project team we listened to Contact Centre calls (65 No.), read a sample of emails (70 No.), sat with Contact Centre staff, and did some behavioural analysis with Hotjar. 
 
 What we found was:
 
