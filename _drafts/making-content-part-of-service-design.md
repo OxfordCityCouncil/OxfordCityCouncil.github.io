@@ -95,9 +95,11 @@ For our webchat deployment on forms pages we're setting up a new Tag Manager con
 
 ## What we're doing next
 
-This has only been the initial phase of the project, aimed at arriving at solutions quickly in a more agile way. We're going to start testing the changes we think are needed - if they do, they'll stay. If they don't, we'll change them.
+This has only been the initial phase of the project, aimed at arriving at solutions quickly in a more agile way. It's been great to be part of something that has been focused on finding out the real issues and moving to actions quickly. 
 
-What our team will be doing next is:
+We're going to start testing the changes we think are needed - if they work, they'll stay. If they don't, we'll change them. 
+
+What we'll be doing next is:
 
 * Rewriting 2nd and 3rd level web pages and landing pages to better reflect the new home page and ensure that all aspects of the identified user needs are covered off
 * Improving the confirmation messages on our Council Tax forms. While we want to encourage voting, there are other services we want to signpost users to, especially [students](https://www.oxford.gov.uk/students)
