@@ -71,6 +71,8 @@ What we found was:
 * Only 7% of emails and calls related to users chasing progress, contrary to the initial hypothesis about the potential causes
 * Around 23% of calls were promoted by receiving a letter or court summons
 
+So we managed to disprove at least one of our assumptions - that most of customer contact was due to delays in processing. 
+
 ## What we've done so far
 
 We've undertaken another team collaborative task to redesign our landing page. We selected this new design after looking at approaches by around 15 councils and arriving at a preferred choice based on [Bristol](https://www.bristol.gov.uk/council-tax), [Brighton ](https://new.brighton-hove.gov.uk/council-tax)and [Bracknell Forest](https://www.bracknell-forest.gov.uk/council-tax).
