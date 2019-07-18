@@ -38,12 +38,12 @@ One of the main issues was the 'backlog' of work (the time between receiving a c
 * Requests for additional information not supplied (esp for email contact)
 * The volume of contact overall
 
+## Discovery phase
+
 Laura developed two hypotheses to be tested:
 
 * "Removing email as a channel choice for customers will reduce the backlog and decrease unnecessary contact"
 * "Allocating a mix of the oldest contacts and newest contacts will eliminate the backlog"
-
-## Discovery phase
 
 We developed a set of personas for users of the service to help us examine user journeys to identify how well user needs were being met.
 
@@ -81,7 +81,7 @@ Again, a rapid prototyping approach with multiple iterations helped us arrive at
 
 ![Image of redesigned council tax page](/downloads/imageedit_7_8417797494.jpg "Redesigned council tax page")
 
-We're planning on deploying this with a request for feedback along with Hotjar heatmaps and recordings to review how well it works for users
+We're planning on deploying this with a request for feedback along with Hotjar heatmaps and recordings to review how well it works for users, and make any changes needed. 
 
 For our webchat deployment on forms pages we're setting up a new Tag Manager container to handle it and adding it into the template. We're hoping this will help improve completion rates and give users extra confidence there is help at hand if they need it. 
 
