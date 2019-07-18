@@ -49,7 +49,7 @@ Laura developed two hypotheses to be tested:
 
 We also developed a suggested problem to solve:
 
-_"How can we gather customer information accurately via appropriate channels so that all enquiries are resolved in shortest time possible to meet customer and corporate expectations?"_
+"How can we gather customer information accurately via appropriate channels so that all enquiries are resolved in shortest time possible to meet customer and corporate expectations?"
 
 To start exploring this we developed a set of personas for users of the service to help us examine user journeys to identify how well user needs were being met.
 
@@ -68,7 +68,7 @@ We also took a look at our landing page and how well it helped users complete th
 
 ## Deep dive on data
 
-Across the project team we listened to Contact Centre calls (65 No.), read a sample of emails (70 No.), sat with Contact Centre staff, and did some behavioural analysis with Hotjar. All this alongside our newly focused website audit data for Council tax. 
+Across the project team we listened to Contact Centre calls (65 No.), read a sample of emails (70 No.), sat with Contact Centre staff, and did some behavioural analysis with Hotjar. All this alongside our newly focused website audit data for Council tax.
 
 What we found was:
 
@@ -95,9 +95,9 @@ For our webchat deployment on forms pages we're setting up a new Tag Manager con
 
 ## What we're doing next
 
-This has only been the initial phase of the project, aimed at arriving at solutions quickly in a more agile way. It's been great to be part of something that has been focused on finding out the real issues and moving to actions quickly. 
+This has only been the initial phase of the project, aimed at arriving at solutions quickly in a more agile way. It's been great to be part of something that has been focused on finding out the real issues and moving to actions quickly.
 
-We're going to start testing the changes we think are needed - if they work, they'll stay. If they don't, we'll change them. 
+We're going to start testing the changes we think are needed - if they work, they'll stay. If they don't, we'll change them.
 
 What we'll be doing next is:
 
@@ -107,4 +107,4 @@ What we'll be doing next is:
 * Replacing the single generic email with topic-specific emails to help structure responses that require an attachment. We'd rather get rid of emails altogether, but currently we're not able to use our online forms to upload/send documents (long story)
 * Developing a simple contact form (for enquiries without attachments) that collects and structures information better to help Council Tax staff process them quickly. We'll be mindful of the [work done by Croydon on this]() to make sure we design it well
 
-We've also hit on the idea of formalising the approach into an improvement toolkit, to help teams we work with in future understand how the process works and the tasks that might be involved. 
+We've also hit on the idea of formalising the approach into an improvement toolkit, to help teams we work with in future understand how the process works and the tasks that might be involved.
