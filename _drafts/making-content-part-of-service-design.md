@@ -79,7 +79,7 @@ What we found was:
 * Only 7% of emails and calls related to users chasing progress, contrary to the initial hypothesis about the potential causes
 * Around 23% of calls were promoted by receiving a letter or court summons
 
-So we managed to disprove at least one of our assumptions - that most of customer contact was due to delays in processing.
+So we managed to disprove immediatelyat least one of our assumptions - that most of customer contact was due to delays in processing.
 
 ## What we've done so far
 
