@@ -34,9 +34,9 @@ A kick-off meeting was held with main players from our team, Customer Contact an
 
 One of the main issues was the 'backlog' of work (the time between receiving a communication from users and completing it) which has been as high as six weeks. The reasons for this delay were suggested as being:
 
-* repeat contact (chasing up submitted eforms)
-* requests for additional information not supplied (esp for email contact)
-* the volume of contact
+* Repeat contact (chasing up submitted eforms)
+* Requests for additional information not supplied (esp for email contact)
+* The volume of contact overall
 
 Laura developed two hypotheses to be tested:
 
