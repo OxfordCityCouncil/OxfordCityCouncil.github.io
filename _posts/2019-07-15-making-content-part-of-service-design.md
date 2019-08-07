@@ -105,6 +105,6 @@ What we'll be doing next is:
 * Improving the confirmation messages on our Council Tax forms. While we want to encourage voting, there are other services we want to signpost users to, especially [students](https://www.oxford.gov.uk/students)
 * Removing contact supplements on pages where they are not needed to discourage unnecessary emailing
 * Replacing the single generic email with topic-specific emails to help structure responses that require an attachment. We'd rather get rid of emails altogether, but currently we're not able to use our online forms to upload/send documents (long story)
-* Developing a simple contact form (for enquiries without attachments) that collects and structures information better to help Council Tax staff process them quickly. We'll be mindful of the [work done by Croydon on this]() to make sure we design it well
+* Developing a simple contact form (for enquiries without attachments) that collects and structures information better to help Council Tax staff process them quickly. We'll be mindful of the [work done by Croydon on this](https://croydon.digital/2019/03/22/making-it-easier-to-contact-the-council/) to make sure we design it well
 
 We've also hit on the idea of formalising the approach into an improvement toolkit, to help teams we work with in future understand how the process works and the tasks that might be involved.
