@@ -99,3 +99,22 @@ But what we really took from this was:
 * we need to challenge ourselves more to 'have a go' and improve things. Sometimes they are not as complicated as we think
 * it was great working together as a team in coming up with the changes, using each of our strengths in adding something
 * we are going to make time to tackle more long standing issues together on a regular basis. Next up is a redesign of our landing pages!
+
+## Update Aug 2019
+
+Our satisfaction feedback and hotjar monitoring recently identified an issue we needed to factor in.
+
+There are two circumstances where a valid Oxford address will not return a result:
+
+* The address is a business and so won't have a domestic waste collection
+* We don't have details of the address on our lookup (the reasons for this are too complicated and embarrassing to go into - we're working on it!)
+
+So a small set of users were left with no information being returned on their search, and no information about what to do next.
+
+A bit of investigation discovered that there was an existing error message to cover this, but it had been incorrectly added meaning it didn't run. That was a quick fix.
+
+We then needed to tell people there was an issue and what to do next. We kicked around ideas, including trying to explain why they wouldn't be on our lookup, but felt this could create the impression their bins would not be collected.
+
+In the end we decided on simplicity as the best approach
+
+![](/downloads/FireShot Capture 267 - Your bin collection day - Oxford City Council - uat.oxford.gov.uk.png)
