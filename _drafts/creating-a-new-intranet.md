@@ -15,7 +15,7 @@ It includes a staff directory powered by nightly extracts from our payroll syste
 
 The site gained the team a Staff Award for Team of the Year in recognition of the work
 
-## Why change?
+## Why we needed to change
 
 * Complicated - staff directory and access the most complicated. Import often fails and there is a delay in new starters getting accounts created. Also doesn’t cover temporary staff not on payroll.
 * Features developed but never used - People aren’t aware of some of the things it can do. A staff suggestions scheme
