@@ -17,8 +17,8 @@ The site gained the team a Staff Award for Team of the Year in recognition of th
 
 ## Why we needed to change
 
-* **It's too complicated** - staff directory and access the most complicated. Import often fails and there is a delay in new starters getting accounts created. Also doesn’t cover temporary staff not on payroll.
-* **Features were developed but never used** - People aren’t aware of some of the things it can do. A staff suggestions scheme
+* **It's too complicated** - updating the staff directory and enabling access through user accounts is complex. The import often fails and there is usually a delay in new starters getting their accounts created. Also the process doesn’t cover temporary staff not on payroll.
+* **Features were developed but never used** - People aren’t aware of many of the things the intranet can do. A staff suggestions scheme was built in full but never deployed
 * **The technology base is now shaky** - it runs on an old version of php that can’t update as this would mean rewriting many of the custom modules. Already this means doesn’t allow people to edit content using IE11. Embedding videos has never been possible for ordinary editors. 
 * **Dated design** - more effort was spent on its functionality than how it looks. Fairly unloved
 
