@@ -9,18 +9,18 @@ date: 2019-10-17 23:00:00 +0000
 
 Our intranet is 5 years old and we’re now building a new one
 
-Our original intranet was developed in-house using Drupal7. First user-led project involving a core team of staff determining design and functionality we needed to build.
+Our original intranet was developed in-house using Drupal7. It was the first user-led project involving a core team of staff determining design and functionality we needed to build.
 
 It includes a staff directory powered by nightly extracts from our payroll system. This aims to cater for any staff changes as soon as they happen and create user accounts for accessing the site
 
-The site gained the team a Staff Award for Team of the Year in recognition of the work
+The site gained the team a Staff Award for Team of the Year in recognition of the work they did. 
 
 ## Why we needed to change
 
 * **It's too complicated** - updating the staff directory and enabling access through user accounts is complex. The import often fails and there is usually a delay in new starters getting their accounts created. Also the process doesn’t cover temporary staff not on payroll.
 * **Features were developed but never used** - People aren’t aware of many of the things the intranet can do. A staff suggestions scheme was built in full but never deployed
 * **The technology base is now shaky** - it runs on an old version of php that can’t update as this would mean rewriting many of the custom modules. Already this means doesn’t allow people to edit content using IE11. Embedding videos has never been possible for ordinary editors. 
-* **Dated design** - more effort was spent on the intranet's functionality than how it looks. It's fairly unloved
+* **The design is dated** - more effort was spent on the intranet's functionality than how it looks. It's fairly unloved
 
 But the biggest issues are the content.
 
