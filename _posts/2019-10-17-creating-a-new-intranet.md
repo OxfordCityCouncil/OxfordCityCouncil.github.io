@@ -13,13 +13,13 @@ Our original intranet was developed in-house using Drupal7. It was the first use
 
 It includes a staff directory powered by nightly extracts from our payroll system. This aims to cater for any staff changes as soon as they happen and create user accounts for accessing the site
 
-The site gained the team a Staff Award for Team of the Year in recognition of the work they did. 
+The site gained the team a Staff Award for Team of the Year in recognition of the work they did.
 
 ## Why we needed to change
 
 * **It's too complicated** - updating the staff directory and enabling access through user accounts is complex. The import often fails and there is usually a delay in new starters getting their accounts created. Also the process doesn’t cover temporary staff not on payroll.
 * **Features were developed but never used** - People aren’t aware of many of the things the intranet can do. A staff suggestions scheme was built in full but never deployed
-* **The technology base is now shaky** - it runs on an old version of php that can’t update as this would mean rewriting many of the custom modules. Already this means doesn’t allow people to edit content using IE11. Embedding videos has never been possible for ordinary editors. 
+* **The technology base is now shaky** - it runs on an old version of php that can’t update as this would mean rewriting many of the custom modules. Already this means doesn’t allow people to edit content using IE11. Embedding videos has never been possible for ordinary editors.
 * **The design is dated** - more effort was spent on the intranet's functionality than how it looks. It's fairly unloved
 
 But the biggest issues are with the content.
@@ -107,12 +107,14 @@ We’re looking to restrict editing rights to a small group of people and ensure
 
 ## Progress to date
 
+![](/downloads/FireShot Capture 086 - Oxford City Council Intranet - occintranet.co.uk.png)
+
 Originally we were on target to launch in January 2020, but have been asked to switch to a phased launch starting in November. This could be challenging but we're looking at how we can achieve this.
 
 We’ve had three sessions with our Communications Champions identifying what it important to them that we’re incorporating in our design, and writing content specifically around.
 
 From this feedback, we’ve stripped back the homepage to being attractive and simple, focusing on presenting the most important information people need to see. Martin has even stolen the Guardian’s approach to presenting news stories!
 
-Our SharePoint document management repository is working our really nicely and offers a step-up from the two-step download process with Drupal. 
+Our SharePoint document management repository is working our really nicely and offers a step-up from the two-step download process with Drupal.
 
 We've arrived at an approach for our new Sharepoint-based staff directory and are in the midst of styling this to meet user needs
