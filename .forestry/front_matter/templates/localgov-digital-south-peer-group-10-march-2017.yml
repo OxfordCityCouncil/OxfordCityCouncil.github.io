@@ -23,6 +23,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/creating-a-new-intranet.md
 - _posts/2019-07-04-making-our-bin-collection-page-less-rubbish.md
 - _posts/2019-07-15-making-content-part-of-service-design.md
 - _posts/2018-11-08-changing-our-contact-us-page-1.md
