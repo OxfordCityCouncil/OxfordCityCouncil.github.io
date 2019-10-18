@@ -17,10 +17,10 @@ The site gained the team a Staff Award for Team of the Year in recognition of th
 
 ## Why we needed to change
 
-* Complicated - staff directory and access the most complicated. Import often fails and there is a delay in new starters getting accounts created. Also doesn’t cover temporary staff not on payroll.
-* Features developed but never used - People aren’t aware of some of the things it can do. A staff suggestions scheme
-* Technology base is now shaky - on an old version of php and can’t update as this would mean rewriting many of the custom modules. Already doesn’t allow people to edit using IE11. Embedding videos has never been possible for ordinary editors
-* Design - more effort was spent on functionality than looks. Fairly unloved
+* **It's too complicated** - staff directory and access the most complicated. Import often fails and there is a delay in new starters getting accounts created. Also doesn’t cover temporary staff not on payroll.
+* **Features were developed but never used** - People aren’t aware of some of the things it can do. A staff suggestions scheme
+* **The technology base is now shaky** - it runs on an old version of php that can’t update as this would mean rewriting many of the custom modules. Already this means doesn’t allow people to edit content using IE11. Embedding videos has never been possible for ordinary editors. 
+* **Dated design** - more effort was spent on its functionality than how it looks. Fairly unloved
 
 The biggest issue was the content.
 
