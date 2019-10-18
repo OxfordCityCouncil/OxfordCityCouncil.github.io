@@ -28,7 +28,7 @@ But the biggest issues are the content.
 * We had an ‘everyone owns the intranet’ policy and added features to help content editors keep on to of their content. But they didn’t. Multiple versions of content were created, leading to a lack of trust on what was available. We have ended up with over 200 content editors. Although creating content is easy to do, no training was made available and standards have been hugely variable.
 * As everyone had to ‘own’ their content, we had issues when people left in trying to reassign it. Inevitably, people ended up being given someone else’s content to manage
 * We used Drupal for document management in the absence of any other system to use. This isn’t its strong point and it shows
-* Didn’t have a good information architecture to underpin the content and help make sense of what it was.
+* We didn’t have a good information architecture to underpin the content and help make sense of what it was or how to navigate it
 
 ## New Ways of Working
 
