@@ -20,11 +20,11 @@ The site gained the team a Staff Award for Team of the Year in recognition of th
 * **It's too complicated** - updating the staff directory and enabling access through user accounts is complex. The import often fails and there is usually a delay in new starters getting their accounts created. Also the process doesn’t cover temporary staff not on payroll.
 * **Features were developed but never used** - People aren’t aware of many of the things the intranet can do. A staff suggestions scheme was built in full but never deployed
 * **The technology base is now shaky** - it runs on an old version of php that can’t update as this would mean rewriting many of the custom modules. Already this means doesn’t allow people to edit content using IE11. Embedding videos has never been possible for ordinary editors. 
-* **Dated design** - more effort was spent on its functionality than how it looks. Fairly unloved
+* **Dated design** - more effort was spent on the intranet's functionality than how it looks. It's fairly unloved
 
-The biggest issue was the content.
+But the biggest issues are the content.
 
-* Spent all our time on development and none on content. This was migrated across in full from the previous intranet, warts and all. Items identified for possible deletion were never looked at by their owners
+* We spent all our time on development and none on content. It was migrated across in full from the previous intranet, warts and all. Items identified for possible deletion were never looked at by their owners
 * We had an ‘everyone owns the intranet’ policy and added features to help content editors keep on to of their content. But they didn’t. Multiple versions of content were created, leading to a lack of trust on what was available. We have ended up with over 200 content editors. Although creating content is easy to do, no training was made available and standards have been hugely variable.
 * As everyone had to ‘own’ their content, we had issues when people left in trying to reassign it. Inevitably, people ended up being given someone else’s content to manage
 * We used Drupal for document management in the absence of any other system to use. This isn’t its strong point and
