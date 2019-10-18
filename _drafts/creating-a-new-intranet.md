@@ -40,7 +40,7 @@ Another issue was that it would be yet another CMS for our team to get proficien
 
 ## Using GovIntranet
 
-A chance conversation with LocalGovDigital peers about shared technology platforms threw up the existence of GovIntranet - a WordPress theme originally designed for the public sector (DCMS) in 2013 and made open for others to use. Back then, Tom Loosemore had declared it “[the exemplar for a government intranet](https://gds.blog.gov.uk/2013/03/18/intranets-dcms/)”
+A chance conversation with LocalGovDigital peers about shared technology platforms threw up the existence of [GovIntranet](https://agentodigital.com/wordpress-intranet-cms/) - a WordPress theme originally designed for the public sector (DCMS) in 2013 and made open for others to use. Back then, Tom Loosemore had declared it “[the exemplar for a government intranet](https://gds.blog.gov.uk/2013/03/18/intranets-dcms/)”
 
 Since then it has continued to be developed and enhanced by Luke Otham and has been [adopted around the world]()
 
@@ -103,7 +103,7 @@ The GovIntranet information architecture of Categories / Guides / Tasks in its H
 
 By recreating all the content centrally we can be sure of starting with a good base, but we know that unless controls are in place this advantage will be lost.
 
-We’re looking to restrict editing rights to a small group of people
+We’re looking to restrict editing rights to a small group of people and ensure they are well trained not just in using the CMS but in how to write good content.
 
 ## Progress to date
 
