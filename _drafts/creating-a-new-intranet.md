@@ -107,8 +107,12 @@ We’re looking to restrict editing rights to a small group of people
 
 ## Progress to date
 
-We are on target to launch in January 2020
+Originally we were on target to launch in January 2020, but have been asked to switch to a phased launch starting in November. This could be challenging but we're looking at how we can achieve this.
 
 We’ve had three sessions with our Communications Champions identifying what it important to them that we’re incorporating in our design, and writing content specifically around.
 
-From this feedback, we’ve stripped back the homepage to being attractive and simple, focusing on presenting the most important information people need to see. Martin has even stolen the Guardian’s approach to presenting news stories
+From this feedback, we’ve stripped back the homepage to being attractive and simple, focusing on presenting the most important information people need to see. Martin has even stolen the Guardian’s approach to presenting news stories!
+
+Our SharePoint document management repository is working our really nicely and offers a step-up from the two-step download process with Drupal. 
+
+We've arrived at an approach for our new Sharepoint-based staff directory and are in the midst of styling this to meet user needs
