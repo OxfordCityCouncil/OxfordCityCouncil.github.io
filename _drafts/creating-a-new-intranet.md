@@ -7,7 +7,7 @@ date: 2019-10-17 23:00:00 +0000
 ---
 ## Background
 
-Our intranet is 5 years old and we’ve now building a new one
+Our intranet is 5 years old and we’re now building a new one
 
 Our original intranet was developed in-house using Drupal7. First user-led project involving a core team of staff determining design and functionality we needed to build.
 
