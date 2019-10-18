@@ -22,7 +22,7 @@ The site gained the team a Staff Award for Team of the Year in recognition of th
 * **The technology base is now shaky** - it runs on an old version of php that can’t update as this would mean rewriting many of the custom modules. Already this means doesn’t allow people to edit content using IE11. Embedding videos has never been possible for ordinary editors. 
 * **The design is dated** - more effort was spent on the intranet's functionality than how it looks. It's fairly unloved
 
-But the biggest issues are the content.
+But the biggest issues are with the content.
 
 * We spent all our time on development and none on content. It was migrated across in full from the previous intranet, warts and all. Items identified for possible deletion were never looked at by their owners
 * We had an ‘everyone owns the intranet’ policy and added features to help content editors keep on to of their content. But they didn’t. Multiple versions of content were created, leading to a lack of trust on what was available. We have ended up with over 200 content editors. Although creating content is easy to do, no training was made available and standards have been hugely variable.
