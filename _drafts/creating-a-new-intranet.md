@@ -32,7 +32,7 @@ The biggest issue was the content.
 
 ## New Ways of Working
 
-With the advent of a drive to modernise the way we work in the council it was clear that the existing intranet was not the right vehicle to drive this, nor to represent a better way of working. However, with a full workplan on our hands we couldn’t see how to develop a new intranet from scratch with next to no budget or time to do it.
+With the advent of a drive to modernise the way we work in the council it was clear that the existing intranet was not the right vehicle to promote this, nor to represent a new way of working. However, with a full workplan on our hands we couldn’t see how to develop a new intranet from scratch with next to no budget or time to do it.
 
 As we were moving more towards the use of Office365/SharePoint the initial assumption was that any new intranet would be developed in SharePoint - this resolved the user access issues and handled document management far better. But as a team we weren’t enthusiastic; SharePoint is difficult to work with, and there were numerous examples of failed attempts by others to make an intranet loved by its users.
 
