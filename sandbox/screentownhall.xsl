@@ -16,7 +16,7 @@
 		<ul>
 	<xsl:for-each select="events/event">
 	  <tr>
-	  <td <td style="&#10;    color: red;&#10;    font-family: arial;&#10;">Training</td>><xsl:value-of select="event_id"/></td>
+	  <td style="&#10;    color: red;&#10;    font-family: arial;&#10;">Training</td>><xsl:value-of select="event_id"/></td>
 	  <td><xsl:text>&#160;&#160;&#160;&#160;</xsl:text></td>
 	  <td><xsl:value-of select="reference"/> </td>
 	  <td><xsl:text>&#160;&#160;&#160;&#160;</xsl:text></td>
