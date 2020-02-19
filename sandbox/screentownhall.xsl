@@ -11,12 +11,12 @@
 	  <td><xsl:text>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;event_id</xsl:text></td>
 	  <td><xsl:text>&#160;&#160;reference</xsl:text></td>
 	  <td><xsl:text>&#160;&#160;date_happening</xsl:text></td>
-	  <td><xsl:text style="color:red;">&#160;&#160;activity</xsl:text></td>
+	  <td><xsl:text>&#160;&#160;activity</xsl:text></td>
 
 		<ul>
 	<xsl:for-each select="events/event">
 	  <tr>
-	  <td><xsl:value-of select="event_id"/></td>
+	  <td style="color:red;"><xsl:value-of select="event_id"/></td>
 	  <td><xsl:text>&#160;&#160;&#160;&#160;</xsl:text></td>
 	  <td><xsl:value-of select="reference"/> </td>
 	  <td><xsl:text>&#160;&#160;&#160;&#160;</xsl:text></td>
