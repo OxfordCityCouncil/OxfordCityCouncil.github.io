@@ -6,8 +6,8 @@
 <xsl:template match="/">
   <html>
     <head> <title>Town Hall Events</title> </head>
-    <body>
-      <h1 style="color:red; font-family:arial;">Town Hall  Events</h1>
+    <body style="background-color:yellow;">
+      <h1 style="color:red; font-family:arial;">Town Hall: today's events</h1>
 		<hr>
 	<xsl:for-each select="events/event">
 	  <ul>
