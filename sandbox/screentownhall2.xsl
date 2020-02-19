@@ -15,15 +15,15 @@
 
 		<ul>
 	<xsl:for-each select="events/event">
-	  <tr>
-	  <td><xsl:value-of select="event_id"/></td>
-	  <td><xsl:text>&#160;&#160;&#160;&#160;</xsl:text></td>
-	  <td><xsl:value-of select="reference"/> </td>
-	  <td><xsl:text>&#160;&#160;&#160;&#160;</xsl:text></td>
-	  <td><xsl:value-of select="date_happening"/> </td>
-	  <td><xsl:text>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</xsl:text></td>
-	  <td><xsl:value-of select="activity"/> </td>
-	  </tr>
+	  <ul>
+	  <li><xsl:value-of select="event_id"/></li>
+	  <li><xsl:text>&#160;&#160;&#160;&#160;</xsl:text></li>
+	  <li><xsl:value-of select="reference"/> </li>
+	  <li><xsl:text>&#160;&#160;&#160;&#160;</xsl:text></li>
+	  <li><xsl:value-of select="date_happening"/> </li>
+	  <li><xsl:text>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</xsl:text></li>
+	  <li><xsl:value-of select="activity"/> </li>
+	  </ul>
         </xsl:for-each>
       </ul>
     </body>
