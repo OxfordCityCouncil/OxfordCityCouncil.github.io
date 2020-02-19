@@ -5,7 +5,7 @@
 <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
 <xsl:template match="/">
   <html>
-    <head> <title style="color:red;">Town Hall Events</title> </head>
+    <head> <title>Town Hall Events</title> </head>
     <body>
       <h1>Town Hall  Events</h1>
 	  <td><xsl:text>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;event_id</xsl:text></td>
