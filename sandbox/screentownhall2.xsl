@@ -8,12 +8,12 @@
     <head> <title>Town Hall Events</title> </head>
     <body style="background-color:yellow;">
       <h1 style="color:red; font-family:arial;">Town Hall: today's events</h1>
-		<hr>
+		<div>
 	<xsl:for-each select="events/event">
 	  <ul>
 	  <li><xsl:value-of select="date_happening"/> </li>
 	  <li><xsl:value-of select="activity"/> </li>
-	  </ul>
+	  </div>
         </xsl:for-each>
       <hr>
     </body>
