@@ -13,7 +13,7 @@
 	  <td><xsl:text>&#160;&#160;date_happening</xsl:text></td>
 	  <td><xsl:text>&#160;&#160;activity</xsl:text></td>
 
-		<ul>
+		<div>
 	<xsl:for-each select="events/event">
 	  <ul>
 	  <li><xsl:value-of select="event_id"/></li>
@@ -25,7 +25,7 @@
 	  <li><xsl:value-of select="activity"/> </li>
 	  </ul>
         </xsl:for-each>
-      </ul>
+      </div>
     </body>
   </html>
 </xsl:template>
