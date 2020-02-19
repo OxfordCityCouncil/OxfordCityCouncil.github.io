@@ -8,14 +8,14 @@
     <head> <title>Town Hall Events</title> </head>
     <body>
       <h1 style="color:red; font-family:arial;">Town Hall  Events</h1>
-		<div>
+		<hr>
 	<xsl:for-each select="events/event">
 	  <ul>
 	  <li><xsl:value-of select="date_happening"/> </li>
 	  <li><xsl:value-of select="activity"/> </li>
 	  </ul>
         </xsl:for-each>
-      </div>
+      <hr>
     </body>
   </html>
 </xsl:template>
