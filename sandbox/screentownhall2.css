@@ -12,3 +12,9 @@ weight: 800;
 ul  {
   list-style-type:none;
 }
+
+.card-title {
+      font-family: arial;
+    font-size: 2em;
+    font-weight: 200;
+}
