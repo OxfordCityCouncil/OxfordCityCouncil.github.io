@@ -19,9 +19,9 @@
 	  <li><xsl:value-of select="reference"/> </li>
 	  <li><xsl:value-of select="date_happening"/> </li>
 	  <li><xsl:value-of select="activity"/> </li>
-	  </div>
+	  </ul>
         </xsl:for-each>
-      </ul>
+      </div>
     </body>
   </html>
 </xsl:template>
