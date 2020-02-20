@@ -3,3 +3,7 @@ color: red;
 font-family: arial;
 weight: 800;
 }
+
+.card {
+  border-style: solid;
+}
