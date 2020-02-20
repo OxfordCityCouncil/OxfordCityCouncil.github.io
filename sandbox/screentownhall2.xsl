@@ -10,7 +10,7 @@
 	  
 	</head>
     <body>
-      <h1>Town Hall  Events</h1>
+      <h1>Town Hall Events: Today</h1>
 
 		<div class="content">
 	<xsl:for-each select="events/event">
