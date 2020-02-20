@@ -12,14 +12,16 @@
     <body>
       <h1>Town Hall  Events</h1>
 
-		<div class="card">
+		<div class="content">
 	<xsl:for-each select="events/event">
+	<div class="card">
 	  <ul>
 	<li><xsl:value-of select="activity"/> </li>
 	<li><xsl:value-of select="event_id"/></li>
 	  <li><xsl:value-of select="reference"/> </li>
 	  <li><xsl:value-of select="date_happening"/> </li>
 	  </ul>
+	</div>
         </xsl:for-each>
       </div>
     </body>
