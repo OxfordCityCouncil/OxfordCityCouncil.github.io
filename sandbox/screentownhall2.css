@@ -6,6 +6,7 @@ weight: 800;
 
 .card {
   border-style: solid;
+  border-width: thin;
   padding: 5px;
   margin-bottom: 15px;
 }
