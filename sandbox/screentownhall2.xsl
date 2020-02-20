@@ -7,7 +7,7 @@
   <html>
     <head> <title>Town Hall Events</title> </head>
     <body>
-      <h1 style="color:blue; font-family:arial;">Town Hall  Events</h1>
+      <h1>Town Hall  Events</h1>
 
 		<ul>
 	<xsl:for-each select="events/event">
