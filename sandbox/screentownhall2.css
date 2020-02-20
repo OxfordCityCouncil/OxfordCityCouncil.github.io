@@ -5,6 +5,16 @@
     margin-bottom: 15px;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
 h1  {
 color: white;
 font-family: arial;
