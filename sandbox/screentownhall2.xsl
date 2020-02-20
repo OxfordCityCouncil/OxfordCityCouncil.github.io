@@ -10,7 +10,7 @@
 	  
 	</head>
     <body>
-	    <div class="header">
+	    <div class="header" id="myHeader">
 		 <h1>Town Hall Events: Today</h1>
 	    </div>
 		<div class="content">
