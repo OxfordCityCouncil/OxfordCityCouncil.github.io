@@ -12,7 +12,7 @@
     <body>
       <h1>Town Hall  Events</h1>
 
-		<div>
+		<div class="card">
 	<xsl:for-each select="events/event">
 	  <ul>
 	<li><xsl:value-of select="activity"/> </li>
