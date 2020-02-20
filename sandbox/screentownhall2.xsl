@@ -8,10 +8,6 @@
     <head> <title>Town Hall Events</title> </head>
     <body>
       <h1 style="color:blue; font-family:arial;">Town Hall  Events</h1>
-	  <td><xsl:text>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;event_id</xsl:text></td>
-	  <td><xsl:text>&#160;&#160;reference</xsl:text></td>
-	  <td><xsl:text>&#160;&#160;date_happening</xsl:text></td>
-	  <td><xsl:text>&#160;&#160;activity</xsl:text></td>
 
 		<ul>
 	<xsl:for-each select="events/event">
