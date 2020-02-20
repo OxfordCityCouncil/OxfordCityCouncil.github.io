@@ -5,7 +5,10 @@
 <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
 <xsl:template match="/">
   <html>
-    <head> <title>Town Hall Events</title> </head>
+    <head> <title>Town Hall Events</title> 
+	     <link rel="stylesheet" type="text/css" href="screentownhall2.css" />               
+	  
+	</head>
     <body>
       <h1>Town Hall  Events</h1>
 
