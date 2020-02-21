@@ -9,7 +9,10 @@
 }
 
 .logo   {
-    background: url("/th_logo.png");
+    background: url("../th_logo.png");
+    width: 15.2542372881%;
+    float: right;
+    margin-right: 0;
 }
 
 .sticky {
