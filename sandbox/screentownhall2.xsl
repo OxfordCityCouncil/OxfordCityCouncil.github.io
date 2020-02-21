@@ -12,6 +12,8 @@
     <body>
 	    <div class="header" id="myHeader">
 		 <h1>Town Hall Events: Today</h1>
+		   	<div class="logo">
+	 		</div>
 	    </div>
 		<div class="content">
 	<xsl:for-each select="events/event">
