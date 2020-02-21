@@ -16,6 +16,10 @@
 
 .logo   {
    background: url("th_logo.png") no-repeat right;
+   height: 100px;
+   background-size: contain;
+   margin-top: -100px;
+   margin-right: 50px;
 }
 
 .sticky {
