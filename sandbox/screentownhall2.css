@@ -8,11 +8,14 @@
     margin-bottom: 15px;
 }
 
-.logo   {
-    background: url("th_logo.png") no-repeat right;
+.logo_container   {
     width: 15.2542372881%;
     float: right;
     margin-right: 0;
+}
+
+.logo   {
+   background: url("th_logo.png") no-repeat right;
 }
 
 .sticky {
